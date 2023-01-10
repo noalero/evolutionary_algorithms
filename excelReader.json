@@ -1,0 +1,8226 @@
+[
+ {
+  "Code": "01_172",
+  "Food name": "Baling béinré (northern Burkina Faso)*: sorghum porridge with monkey bread, tamarind, water, milk and sugar",
+  "Energy": "78",
+  "Protein": "2.5",
+  "Carbs": "16.1",
+  "Fat": 0.2
+ },
+ {
+  "Code": "01_173",
+  "Food name": "Baling ni zièm béinré (Burkina Faso)*: porridge of degermed sorghum with potash, water and sugar",
+  "Energy": "65",
+  "Protein": "0.9",
+  "Carbs": "14.8",
+  "Fat": 0.2
+ },
+ {
+  "Code": "01_168",
+  "Food name": "Beenkida (Burkina Faso)*: maize porridge with maize granules",
+  "Energy": "100",
+  "Protein": "2.1",
+  "Carbs": "21.7",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "01_188",
+  "Food name": "Biscuit, sweet, plain, unfortified",
+  "Energy": "479",
+  "Protein": "6.2",
+  "Carbs": "64.9",
+  "Fat": "21.2"
+ },
+ {
+  "Code": "01_177",
+  "Food name": "Boalboal (Burkina Faso)*: millet balls with fried fish and vegetables",
+  "Energy": "252",
+  "Protein": "5.4",
+  "Carbs": "18.0",
+  "Fat": "17.0"
+ },
+ {
+  "Code": "01_047",
+  "Food name": "Bread, wheat, white for toasting, unfortified",
+  "Energy": "246",
+  "Protein": "8.8",
+  "Carbs": "46.4",
+  "Fat": "2.2"
+ },
+ {
+  "Code": "01_046",
+  "Food name": "Bread, wheat, white, unfortified",
+  "Energy": "249",
+  "Protein": "7.5",
+  "Carbs": "50.5",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "01_048",
+  "Food name": "Bread, wheat, wholemeal, unfortified",
+  "Energy": "232",
+  "Protein": "11.1",
+  "Carbs": "37.6",
+  "Fat": "2.8"
+ },
+ {
+  "Code": "01_045",
+  "Food name": "Bread\/rolls, white, unfortified",
+  "Energy": "271",
+  "Protein": "9.5",
+  "Carbs": "51.0",
+  "Fat": "2.7"
+ },
+ {
+  "Code": "01_187",
+  "Food name": "Cake, plain, unfortified",
+  "Energy": "363",
+  "Protein": "6.1",
+  "Carbs": "51.4",
+  "Fat": "14.5"
+ },
+ {
+  "Code": "01_160",
+  "Food name": "Cantonese rice with fish and noodles (Burkina Faso)*",
+  "Energy": "259",
+  "Protein": "5.5",
+  "Carbs": "31.7",
+  "Fat": "11.9"
+ },
+ {
+  "Code": "01_182",
+  "Food name": "Cornflakes (breakfast cereal), unfortified",
+  "Energy": "383",
+  "Protein": "6.3",
+  "Carbs": "80.6",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "01_189",
+  "Food name": "Croissant, plain, unfortified",
+  "Energy": "373",
+  "Protein": "8.3",
+  "Carbs": "39.7",
+  "Fat": "19.4"
+ },
+ {
+  "Code": "01_002",
+  "Food name": "Fonio, black, whole grains, raw",
+  "Energy": "332",
+  "Protein": "8.3",
+  "Carbs": "59.8",
+  "Fat": 3
+ },
+ {
+  "Code": "01_124",
+  "Food name": "Fonio, black, whole grains, boiled* (as part of a recipe)",
+  "Energy": "138",
+  "Protein": "3.5",
+  "Carbs": "24.9",
+  "Fat": 1.3
+ },
+ {
+  "Code": "01_049",
+  "Food name": "Fonio, black, whole grains, boiled* (without salt), drained",
+  "Energy": "138",
+  "Protein": "3.5",
+  "Carbs": "24.9",
+  "Fat": 1.3
+ },
+ {
+  "Code": "01_050",
+  "Food name": "Fonio, decorticated grains (bran removed), dry, raw",
+  "Energy": "356",
+  "Protein": "7.1",
+  "Carbs": "76.9",
+  "Fat": "1.7"
+ },
+ {
+  "Code": "01_126",
+  "Food name": "Fonio, decorticated grains (bran removed), boiled* (as part of a recipe)",
+  "Energy": "148",
+  "Protein": "3.0",
+  "Carbs": "32.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_051",
+  "Food name": "Fonio, decorticated grains (bran removed), boiled* (without salt), drained",
+  "Energy": "148",
+  "Protein": "3.0",
+  "Carbs": "32.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_078",
+  "Food name": "Fonio, decorticated grains (bran removed), washed (mid wet), raw",
+  "Energy": "241",
+  "Protein": "4.4",
+  "Carbs": "52.8",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_128",
+  "Food name": "Fonio, decorticated grains (bran removed), washed (mid wet), boiled* (as part of a recipe)",
+  "Energy": "151",
+  "Protein": "2.7",
+  "Carbs": "33.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_127",
+  "Food name": "Fonio, decorticated grains (bran removed), washed (mid wet), boiled* (without salt), drained",
+  "Energy": "151",
+  "Protein": "2.7",
+  "Carbs": "33.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_001",
+  "Food name": "Fonio, white, whole grains, raw",
+  "Energy": "334",
+  "Protein": "7.1",
+  "Carbs": "59.7",
+  "Fat": "3.8"
+ },
+ {
+  "Code": "01_125",
+  "Food name": "Fonio, white, whole grains, boiled* (as part of a recipe)",
+  "Energy": "139",
+  "Protein": "2.9",
+  "Carbs": "24.9",
+  "Fat": "1.6"
+ },
+ {
+  "Code": "01_003",
+  "Food name": "Fonio, white, whole grains, boiled* (without salt), drained",
+  "Energy": "139",
+  "Protein": "2.9",
+  "Carbs": "24.9",
+  "Fat": "1.6"
+ },
+ {
+  "Code": "01_176",
+  "Food name": "Fura saamdin (Burkina Faso)*: fermented pearl millet porridge with milk, water and sugar",
+  "Energy": "108",
+  "Protein": "2.6",
+  "Carbs": "19.4",
+  "Fat": "2.0"
+ },
+ {
+  "Code": "01_174",
+  "Food name": "Gappal (Burkina Faso)*: pearl millet porridge with milk and sugar",
+  "Energy": "129",
+  "Protein": "3.4",
+  "Carbs": "21.4",
+  "Fat": "3.0"
+ },
+ {
+  "Code": "01_180",
+  "Food name": "Gnon (Burkina Faso)*: steamed balls of cowpea leaves with groundnut flour, potash and pearl millet",
+  "Energy": "266",
+  "Protein": "6.6",
+  "Carbs": "24.6",
+  "Fat": "14.7"
+ },
+ {
+  "Code": "01_077",
+  "Food name": "Instant noodles (Indomie), made from wheat flour, previously fried and dried, without flavouring, unprepared",
+  "Energy": "457",
+  "Protein": "12.7",
+  "Carbs": "57.7",
+  "Fat": "18.8"
+ },
+ {
+  "Code": "01_103",
+  "Food name": "Instant noodles (Indomie), made from wheat flour, previously fried and dried, without flavouring, boiled and drained*",
+  "Energy": "200",
+  "Protein": "5.6",
+  "Carbs": "25.3",
+  "Fat": 8.3
+ },
+ {
+  "Code": "01_164",
+  "Food name": "Jollof fonio (Burkina Faso)*: fonio with fish and vegetables",
+  "Energy": "143",
+  "Protein": "3.3",
+  "Carbs": "18.6",
+  "Fat": "6.0"
+ },
+ {
+  "Code": "01_156",
+  "Food name": "Jollof macaroni (Burkina Faso)*: macaroni in tomato sauce with mutton",
+  "Energy": "201",
+  "Protein": "5.1",
+  "Carbs": "20.5",
+  "Fat": 10.6
+ },
+ {
+  "Code": "01_157",
+  "Food name": "Jollof spaghetti (Burkina Faso)*: spaghetti in vegetable sauce",
+  "Energy": "210",
+  "Protein": "4.3",
+  "Carbs": "23.8",
+  "Fat": "10.4"
+ },
+ {
+  "Code": "01_165",
+  "Food name": "Kaman péêlég sagabo (Burkina Faso)*: stiff porridge from white degermed maize flour",
+  "Energy": "71",
+  "Protein": "1.8",
+  "Carbs": "14.8",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_167",
+  "Food name": "Ki béinré (northern Burkina Faso)*: pearl millet porridge with water and sugar",
+  "Energy": "62",
+  "Protein": "1.2",
+  "Carbs": "12.6",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_171",
+  "Food name": "Ki saagbo né zièm (Burkina Faso)*: tô (porridge) from pearl millet and potash",
+  "Energy": "56",
+  "Protein": "1.1",
+  "Carbs": "11.4",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_181",
+  "Food name": "Kiou gonré (Burkina Faso)*: steamed balls of fonio, cowpea leaves, groundnut flour and potash",
+  "Energy": "133",
+  "Protein": "4.0",
+  "Carbs": "26.4",
+  "Fat": 0.7
+ },
+ {
+  "Code": "01_170",
+  "Food name": "Kiou saagbo né zièm (Burkina Faso)*: tô (porridge) from fonio with potash and maize flour",
+  "Energy": "71",
+  "Protein": "1.6",
+  "Carbs": "15.1",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_178",
+  "Food name": "Kôrôkôrô-dôrô (Burkina Faso)*: tô (porridge) from white sorghum and maize flour",
+  "Energy": "81",
+  "Protein": "2.2",
+  "Carbs": "15.7",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_052",
+  "Food name": "Macaroni, dry, unfortified",
+  "Energy": "358",
+  "Protein": "12.3",
+  "Carbs": "72.2",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_053",
+  "Food name": "Macaroni, boiled* (without salt), drained",
+  "Energy": "124",
+  "Protein": "4.3",
+  "Carbs": "24.9",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_099",
+  "Food name": "Maize dough, fermented (kenkey), from whole white maize with salt added, cooked",
+  "Energy": "139",
+  "Protein": "3.7",
+  "Carbs": "25.2",
+  "Fat": "2.1"
+ },
+ {
+  "Code": "01_098",
+  "Food name": "Maize dough, fermented (tô), from decorticated white maize only, cooked",
+  "Energy": "76",
+  "Protein": "2.1",
+  "Carbs": "13.4",
+  "Fat": "1.0"
+ },
+ {
+  "Code": "01_100",
+  "Food name": "Maize porridge, fermented (ogi), from decorticated white maize only, cooked",
+  "Energy": "52",
+  "Protein": "1.1",
+  "Carbs": "8.8",
+  "Fat": "1.0"
+ },
+ {
+  "Code": "01_008",
+  "Food name": "Maize, Gougba variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "333",
+  "Protein": "8.7",
+  "Carbs": "63.2",
+  "Fat": 2.5
+ },
+ {
+  "Code": "01_009",
+  "Food name": "Maize, Gbaévè variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "335",
+  "Protein": "8.1",
+  "Carbs": "63.2",
+  "Fat": 3
+ },
+ {
+  "Code": "01_010",
+  "Food name": "Maize, DMR-ESR-W variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "340",
+  "Protein": "8.8",
+  "Carbs": "61.6",
+  "Fat": 3.9
+ },
+ {
+  "Code": "01_011",
+  "Food name": "Maize, POZA - RICA 7843 - SR  variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "333",
+  "Protein": "9.0",
+  "Carbs": "62.5",
+  "Fat": 2.6
+ },
+ {
+  "Code": "01_012",
+  "Food name": "Maize, TZPB-SR variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "339",
+  "Protein": "8.8",
+  "Carbs": "60.1",
+  "Fat": 4.5
+ },
+ {
+  "Code": "01_013",
+  "Food name": "Maize, Gnonli variety, whole kernel, dry, raw (Benin), n=1",
+  "Energy": "330",
+  "Protein": "7.6",
+  "Carbs": "63.8",
+  "Fat": 2.4
+ },
+ {
+  "Code": "01_014",
+  "Food name": "Maize, combined varieties, whole kernel, dry, raw (Benin)",
+  "Energy": "335",
+  "Protein": "8.4",
+  "Carbs": "62.4",
+  "Fat": 3.2
+ },
+ {
+  "Code": "01_123",
+  "Food name": "Maize, combined varieties, whole kernel (Benin), boiled* (as part of a recipe)",
+  "Energy": "108",
+  "Protein": "2.7",
+  "Carbs": "20.1",
+  "Fat": 1
+ },
+ {
+  "Code": "01_062",
+  "Food name": "Maize, combined varieties, whole kernel (Benin), boiled* (without salt), drained",
+  "Energy": "108",
+  "Protein": "2.7",
+  "Carbs": "20.1",
+  "Fat": 1
+ },
+ {
+  "Code": "01_060",
+  "Food name": "Maize, white, grit, degermed, raw",
+  "Energy": "346",
+  "Protein": "8.1",
+  "Carbs": "73.7",
+  "Fat": "0.8"
+ },
+ {
+  "Code": "01_080",
+  "Food name": "Maize, white, meal, sifted, unfortified",
+  "Energy": "353",
+  "Protein": "8.7",
+  "Carbs": "68.6",
+  "Fat": "3.3"
+ },
+ {
+  "Code": "01_091",
+  "Food name": "Maize, white, meal, sifted, fortified with vitamin A (Nigeria)",
+  "Energy": "353",
+  "Protein": "8.7",
+  "Carbs": "68.6",
+  "Fat": "3.3"
+ },
+ {
+  "Code": "01_057",
+  "Food name": "Maize, white, meal, whole grains",
+  "Energy": "346",
+  "Protein": "9.7",
+  "Carbs": "62.6",
+  "Fat": "3.8"
+ },
+ {
+  "Code": "01_058",
+  "Food name": "Maize, white, refined flour (special), unfortified",
+  "Energy": "350",
+  "Protein": "6.2",
+  "Carbs": "72.2",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "01_092",
+  "Food name": "Maize, white, refined flour (special), fortified with vitamin A (Nigeria)",
+  "Energy": "350",
+  "Protein": "6.2",
+  "Carbs": "72.2",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "01_081",
+  "Food name": "Maize, white, refined flour (super), unfortified",
+  "Energy": "358",
+  "Protein": "9.0",
+  "Carbs": "74.9",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_093",
+  "Food name": "Maize, white, refined flour (super), fortified with vitamin A (Nigeria)",
+  "Energy": "358",
+  "Protein": "9.0",
+  "Carbs": "74.9",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_004",
+  "Food name": "Maize, white, whole kernel, dry, raw",
+  "Energy": "346",
+  "Protein": "9.7",
+  "Carbs": "62.6",
+  "Fat": "3.8"
+ },
+ {
+  "Code": "01_104",
+  "Food name": "Maize, white, whole kernel, boiled* (as part of a recipe)",
+  "Energy": "112",
+  "Protein": "3.1",
+  "Carbs": "20.2",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_005",
+  "Food name": "Maize, white, whole kernel, boiled* (without salt), drained",
+  "Energy": "112",
+  "Protein": "3.1",
+  "Carbs": "20.2",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_094",
+  "Food name": "Maize, white, whole kernel, dry, decorticated, raw",
+  "Energy": "340",
+  "Protein": "8.1",
+  "Carbs": "72.9",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_119",
+  "Food name": "Maize, white, whole kernel, decorticated, boiled* (as part of a recipe)",
+  "Energy": "110",
+  "Protein": "2.6",
+  "Carbs": "23.5",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_118",
+  "Food name": "Maize, white, whole kernel, decorticated, boiled* (without salt), drained",
+  "Energy": "110",
+  "Protein": "2.6",
+  "Carbs": "23.5",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_055",
+  "Food name": "Maize, yellow, grit, degermed, raw",
+  "Energy": "346",
+  "Protein": "7.8",
+  "Carbs": "74.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_054",
+  "Food name": "Maize, yellow, meal, whole grains, unfortified",
+  "Energy": "350",
+  "Protein": "9.4",
+  "Carbs": "65.2",
+  "Fat": "3.7"
+ },
+ {
+  "Code": "01_006",
+  "Food name": "Maize, yellow, whole kernel, dry, raw",
+  "Energy": "350",
+  "Protein": "9.4",
+  "Carbs": "65.2",
+  "Fat": "3.7"
+ },
+ {
+  "Code": "01_120",
+  "Food name": "Maize, yellow, whole kernel, boiled* (as part of a recipe)",
+  "Energy": "113",
+  "Protein": "3.0",
+  "Carbs": "21.0",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_007",
+  "Food name": "Maize, yellow, whole kernel, boiled* (without salt), drained",
+  "Energy": "113",
+  "Protein": "3.0",
+  "Carbs": "21.0",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_097",
+  "Food name": "Millet dough (tchobal\/fura), from decorticated millet only, cooked",
+  "Energy": "175",
+  "Protein": "3.8",
+  "Carbs": "33.2",
+  "Fat": "2.3"
+ },
+ {
+  "Code": "01_153",
+  "Food name": "Millet dough (tô), from whole millet only, cooked",
+  "Energy": "93",
+  "Protein": "1.8",
+  "Carbs": "16.7",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_102",
+  "Food name": "Millet porridge, fermented (hausa koko\/ben saalga), from whole millet grains only, cooked",
+  "Energy": "69",
+  "Protein": "0.9",
+  "Carbs": "8.9",
+  "Fat": "0.8"
+ },
+ {
+  "Code": "01_161",
+  "Food name": "Moui béinré (Burkina Faso)*: rice porridge with water, milk and sugar",
+  "Energy": "75",
+  "Protein": "1.2",
+  "Carbs": "16.9",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_158",
+  "Food name": "Moui naagdme (Burkina Faso)*: rice with fish and vegetables",
+  "Energy": "157",
+  "Protein": "3.9",
+  "Carbs": "22.0",
+  "Fat": "5.6"
+ },
+ {
+  "Code": "01_159",
+  "Food name": "Moui nin kalogo (Burkina Faso)*: rice with fish, onion and fermented African locust beans",
+  "Energy": "170",
+  "Protein": "4.1",
+  "Carbs": "22.8",
+  "Fat": "6.8"
+ },
+ {
+  "Code": "01_101",
+  "Food name": "Oats, rolled, raw",
+  "Energy": "377",
+  "Protein": "11.9",
+  "Carbs": "59.7",
+  "Fat": "7.8"
+ },
+ {
+  "Code": "01_133",
+  "Food name": "Oats, porridge* (without salt)",
+  "Energy": "65",
+  "Protein": "2.1",
+  "Carbs": "10.3",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_018",
+  "Food name": "Pearl millet, IKMV 8201 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "375",
+  "Protein": "9.5",
+  "Carbs": "64.8",
+  "Fat": "6.8"
+ },
+ {
+  "Code": "01_019",
+  "Food name": "Pearl millet, IKMP 1 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "367",
+  "Protein": "8.6",
+  "Carbs": "65.7",
+  "Fat": "6.2"
+ },
+ {
+  "Code": "01_020",
+  "Food name": "Pearl millet, IKMP 2 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "370",
+  "Protein": "8.2",
+  "Carbs": "65.7",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "01_021",
+  "Food name": "Pearl millet, IKMP 3 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "382",
+  "Protein": "13.5",
+  "Carbs": "57.8",
+  "Fat": "8.4"
+ },
+ {
+  "Code": "01_022",
+  "Food name": "Pearl millet, IKMP 4 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "375",
+  "Protein": "12.2",
+  "Carbs": "58.6",
+  "Fat": "8.2"
+ },
+ {
+  "Code": "01_023",
+  "Food name": "Pearl millet, IKMP 5 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "391",
+  "Protein": "13.3",
+  "Carbs": "56.9",
+  "Fat": "9.6"
+ },
+ {
+  "Code": "01_024",
+  "Food name": "Pearl millet, IKMP 6 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "371",
+  "Protein": "14.5",
+  "Carbs": "60.1",
+  "Fat": "6.3"
+ },
+ {
+  "Code": "01_025",
+  "Food name": "Pearl millet, IKMP 7 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "376",
+  "Protein": "10.9",
+  "Carbs": "64.5",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "01_026",
+  "Food name": "Pearl millet, IKMP 8 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "382",
+  "Protein": "7.9",
+  "Carbs": "68.3",
+  "Fat": "6.8"
+ },
+ {
+  "Code": "01_027",
+  "Food name": "Pearl millet, IKMP 9 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "386",
+  "Protein": "9.9",
+  "Carbs": "64.0",
+  "Fat": "7.9"
+ },
+ {
+  "Code": "01_028",
+  "Food name": "Pearl millet, IKMP 10 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "366",
+  "Protein": "7.8",
+  "Carbs": "63.6",
+  "Fat": "7.0"
+ },
+ {
+  "Code": "01_029",
+  "Food name": "Pearl millet, IKMP 11 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "369",
+  "Protein": "7.4",
+  "Carbs": "64.7",
+  "Fat": "7.0"
+ },
+ {
+  "Code": "01_030",
+  "Food name": "Pearl millet, IKMP 12 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "382",
+  "Protein": "9.8",
+  "Carbs": "65.7",
+  "Fat": "6.9"
+ },
+ {
+  "Code": "01_031",
+  "Food name": "Pearl millet, IKMP 13 variety, whole grains, raw (Burkina Faso), n=1",
+  "Energy": "384",
+  "Protein": "9.5",
+  "Carbs": "66.2",
+  "Fat": "7.1"
+ },
+ {
+  "Code": "01_032",
+  "Food name": "Pearl millet, combined varieties, whole grains, raw (Burkina Faso)",
+  "Energy": "377",
+  "Protein": "10.2",
+  "Carbs": "63.3",
+  "Fat": "7.2"
+ },
+ {
+  "Code": "01_132",
+  "Food name": "Pearl millet, combined varieties, whole grains (Burkina Faso), boiled* (as part of a recipe)",
+  "Energy": "157",
+  "Protein": "4.3",
+  "Carbs": "26.4",
+  "Fat": "3.0"
+ },
+ {
+  "Code": "01_064",
+  "Food name": "Pearl millet, combined varieties, whole grains (Burkina Faso), boiled* (without salt), drained",
+  "Energy": "157",
+  "Protein": "4.3",
+  "Carbs": "26.4",
+  "Fat": "3.0"
+ },
+ {
+  "Code": "01_095",
+  "Food name": "Pearl millet, decorticated, raw",
+  "Energy": "370",
+  "Protein": "8.3",
+  "Carbs": "70.8",
+  "Fat": "4.8"
+ },
+ {
+  "Code": "01_131",
+  "Food name": "Pearl millet, decorticated, boiled* (as part of a recipe)",
+  "Energy": "154",
+  "Protein": "3.5",
+  "Carbs": "29.5",
+  "Fat": "2.0"
+ },
+ {
+  "Code": "01_130",
+  "Food name": "Pearl millet, decorticated, boiled* (without salt), drained",
+  "Energy": "154",
+  "Protein": "3.5",
+  "Carbs": "29.5",
+  "Fat": "2.0"
+ },
+ {
+  "Code": "01_063",
+  "Food name": "Pearl millet, flour (bran removed)",
+  "Energy": "367",
+  "Protein": "7.3",
+  "Carbs": "75.0",
+  "Fat": "3.2"
+ },
+ {
+  "Code": "01_017",
+  "Food name": "Pearl millet, whole grains (with bran), raw",
+  "Energy": "365",
+  "Protein": "9.3",
+  "Carbs": "64.2",
+  "Fat": "5.9"
+ },
+ {
+  "Code": "01_129",
+  "Food name": "Pearl millet, whole grains, boiled* (as part of a recipe)",
+  "Energy": "152",
+  "Protein": "3.9",
+  "Carbs": "26.8",
+  "Fat": "2.5"
+ },
+ {
+  "Code": "01_033",
+  "Food name": "Pearl millet, whole grains, boiled* (without salt), drained",
+  "Energy": "152",
+  "Protein": "3.9",
+  "Carbs": "26.8",
+  "Fat": "2.5"
+ },
+ {
+  "Code": "01_175",
+  "Food name": "Pigri (Burkina Faso)*: steamed pearl millet balls",
+  "Energy": "190",
+  "Protein": "4.8",
+  "Carbs": "33.4",
+  "Fat": "3.1"
+ },
+ {
+  "Code": "01_061",
+  "Food name": "Porridge, soft, from degermed white maize grit* (without salt)",
+  "Energy": "47",
+  "Protein": "1.1",
+  "Carbs": "10.1",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "01_056",
+  "Food name": "Porridge, soft, from degermed yellow maize grit* (without salt)",
+  "Energy": "47",
+  "Protein": "1.1",
+  "Carbs": "10.1",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "01_154",
+  "Food name": "Porridge, soft, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "48",
+  "Protein": "0.9",
+  "Carbs": "9.9",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "01_112",
+  "Food name": "Porridge, soft, from refined (special) white maize flour, unfortified* (without salt)",
+  "Energy": "48",
+  "Protein": "0.9",
+  "Carbs": "9.9",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "01_117",
+  "Food name": "Porridge, soft, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "49",
+  "Protein": "1.2",
+  "Carbs": "10.3",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_115",
+  "Food name": "Porridge, soft, from refined (super) white maize flour, unfortified* (without salt)",
+  "Energy": "49",
+  "Protein": "1.2",
+  "Carbs": "10.3",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_110",
+  "Food name": "Porridge, soft, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "48",
+  "Protein": "1.2",
+  "Carbs": "9.4",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "01_108",
+  "Food name": "Porridge, soft, from sifted white maize meal, unfortified* (without salt)",
+  "Energy": "48",
+  "Protein": "1.2",
+  "Carbs": "9.4",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "01_106",
+  "Food name": "Porridge, soft, from wholegrain white maize meal* (without salt)",
+  "Energy": "48",
+  "Protein": "1.3",
+  "Carbs": "8.6",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_122",
+  "Food name": "Porridge, soft, from wholegrain yellow maize meal* (without salt)",
+  "Energy": "48",
+  "Protein": "1.3",
+  "Carbs": "8.9",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_076",
+  "Food name": "Porridge, stiff, from degermed white maize grit* (without salt)",
+  "Energy": "128",
+  "Protein": "3.0",
+  "Carbs": "27.3",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_075",
+  "Food name": "Porridge, stiff, from degermed yellow maize grit* (without salt)",
+  "Energy": "128",
+  "Protein": "2.9",
+  "Carbs": "27.4",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_113",
+  "Food name": "Porridge, stiff, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "130",
+  "Protein": "2.3",
+  "Carbs": "26.8",
+  "Fat": "1.1"
+ },
+ {
+  "Code": "01_111",
+  "Food name": "Porridge, stiff, from refined (special) white maize flour, unfortified* (without salt)",
+  "Energy": "130",
+  "Protein": "2.3",
+  "Carbs": "26.8",
+  "Fat": "1.1"
+ },
+ {
+  "Code": "01_116",
+  "Food name": "Porridge, stiff, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "133",
+  "Protein": "3.3",
+  "Carbs": "27.7",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_114",
+  "Food name": "Porridge, stiff, from refined (super) white maize flour, unfortified* (without salt)",
+  "Energy": "133",
+  "Protein": "3.3",
+  "Carbs": "27.7",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "01_109",
+  "Food name": "Porridge, stiff, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "131",
+  "Protein": "3.2",
+  "Carbs": "25.4",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_107",
+  "Food name": "Porridge, stiff, from sifted white maize meal, unfortified* (without salt)",
+  "Energy": "131",
+  "Protein": "3.2",
+  "Carbs": "25.4",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "01_105",
+  "Food name": "Porridge, stiff, from wholegrain white maize meal* (without salt)",
+  "Energy": "128",
+  "Protein": "3.6",
+  "Carbs": "23.2",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_121",
+  "Food name": "Porridge, stiff, from wholegrain yellow maize meal* (without salt)",
+  "Energy": "130",
+  "Protein": "3.5",
+  "Carbs": "24.2",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_150",
+  "Food name": "Porridge, tô, from degermed white maize grit* (without salt)",
+  "Energy": "69",
+  "Protein": "1.6",
+  "Carbs": "14.7",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_155",
+  "Food name": "Porridge, tô, from degermed yellow maize grit* (without salt)",
+  "Energy": "69",
+  "Protein": "1.6",
+  "Carbs": "14.8",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "01_166",
+  "Food name": "Porridge, tô, from maize and cassava flour (Burkina Faso)*",
+  "Energy": "90",
+  "Protein": "1.6",
+  "Carbs": "19.6",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_147",
+  "Food name": "Porridge, tô, from refined (special) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "70",
+  "Protein": "1.2",
+  "Carbs": "14.4",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_146",
+  "Food name": "Porridge, tô, from refined (special) white maize flour, unfortified* (without salt)",
+  "Energy": "70",
+  "Protein": "1.2",
+  "Carbs": "14.4",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_149",
+  "Food name": "Porridge, tô, from refined (super) white maize flour fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "72",
+  "Protein": "1.8",
+  "Carbs": "15.0",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_148",
+  "Food name": "Porridge, tô, from refined (super) white maize flour, unfortified* (without salt)",
+  "Energy": "72",
+  "Protein": "1.8",
+  "Carbs": "15.0",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "01_144",
+  "Food name": "Porridge, tô, from sifted white maize meal fortified with vitamin A (Nigeria)* (without salt)",
+  "Energy": "71",
+  "Protein": "1.7",
+  "Carbs": "13.7",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_145",
+  "Food name": "Porridge, tô, from sifted white maize meal, unfortified* (without salt)",
+  "Energy": "71",
+  "Protein": "1.7",
+  "Carbs": "13.7",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_143",
+  "Food name": "Porridge, tô, from wholegrain white maize meal* (without salt)",
+  "Energy": "69",
+  "Protein": "2.0",
+  "Carbs": "12.5",
+  "Fat": "0.8"
+ },
+ {
+  "Code": "01_151",
+  "Food name": "Porridge, tô, from wholegrain yellow maize meal* (without salt)",
+  "Energy": "70",
+  "Protein": "1.9",
+  "Carbs": "13.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "01_163",
+  "Food name": "Rice cakes, fried in unfortified vegetable oil*",
+  "Energy": "303",
+  "Protein": "3.2",
+  "Carbs": "54.8",
+  "Fat": "7.6"
+ },
+ {
+  "Code": "01_079",
+  "Food name": "Rice flour, white",
+  "Energy": "352",
+  "Protein": "6.0",
+  "Carbs": "77.7",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_162",
+  "Food name": "Rice with fish and vegetable curry (Burkina Faso)*",
+  "Energy": "173",
+  "Protein": "3.8",
+  "Carbs": "24.8",
+  "Fat": "6.2"
+ },
+ {
+  "Code": "01_034",
+  "Food name": "Rice, brown, raw",
+  "Energy": "345",
+  "Protein": "7.7",
+  "Carbs": "72.9",
+  "Fat": "1.6"
+ },
+ {
+  "Code": "01_152",
+  "Food name": "Rice, brown, boiled* (as part of a recipe)",
+  "Energy": "138",
+  "Protein": "3.1",
+  "Carbs": "29.1",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_035",
+  "Food name": "Rice, brown, boiled* (without salt), drained",
+  "Energy": "138",
+  "Protein": "3.1",
+  "Carbs": "29.1",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_065",
+  "Food name": "Rice, red native, hulled, raw",
+  "Energy": "352",
+  "Protein": "7.4",
+  "Carbs": "73.6",
+  "Fat": 2.2
+ },
+ {
+  "Code": "01_136",
+  "Food name": "Rice, red native, hulled, boiled* (as part of a recipe)",
+  "Energy": "141",
+  "Protein": "3.0",
+  "Carbs": "29.4",
+  "Fat": 0.9
+ },
+ {
+  "Code": "01_066",
+  "Food name": "Rice, red native, hulled, boiled* (without salt), drained",
+  "Energy": "141",
+  "Protein": "3.0",
+  "Carbs": "29.4",
+  "Fat": 0.9
+ },
+ {
+  "Code": "01_067",
+  "Food name": "Rice, red native, milled, raw",
+  "Energy": "349",
+  "Protein": "6.3",
+  "Carbs": "78.8",
+  "Fat": 0.3
+ },
+ {
+  "Code": "01_137",
+  "Food name": "Rice, red native, milled, boiled* (as part of a recipe)",
+  "Energy": "117",
+  "Protein": "2.1",
+  "Carbs": "26.4",
+  "Fat": 0.1
+ },
+ {
+  "Code": "01_068",
+  "Food name": "Rice, red native, milled, boiled* (without salt), drained",
+  "Energy": "117",
+  "Protein": "2.1",
+  "Carbs": "26.4",
+  "Fat": 0.1
+ },
+ {
+  "Code": "01_036",
+  "Food name": "Rice, white, polished, raw",
+  "Energy": "351",
+  "Protein": "6.8",
+  "Carbs": "78.6",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "01_134",
+  "Food name": "Rice, white, polished, boiled* (as part of a recipe)",
+  "Energy": "118",
+  "Protein": "2.3",
+  "Carbs": "26.4",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_069",
+  "Food name": "Rice, white, polished, boiled* (without salt), drained",
+  "Energy": "118",
+  "Protein": "2.3",
+  "Carbs": "26.4",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "01_037",
+  "Food name": "Rice, white, raw",
+  "Energy": "344",
+  "Protein": "7.0",
+  "Carbs": "75.9",
+  "Fat": 0.6
+ },
+ {
+  "Code": "01_135",
+  "Food name": "Rice, white, boiled* (as part of a recipe)",
+  "Energy": "115",
+  "Protein": "2.3",
+  "Carbs": "25.5",
+  "Fat": 0.2
+ },
+ {
+  "Code": "01_038",
+  "Food name": "Rice, white, boiled* (without salt), drained",
+  "Energy": "115",
+  "Protein": "2.3",
+  "Carbs": "25.5",
+  "Fat": 0.2
+ },
+ {
+  "Code": "01_072",
+  "Food name": "Sorghum, flour, degermed",
+  "Energy": "351",
+  "Protein": "10.4",
+  "Carbs": "71.2",
+  "Fat": "1.7"
+ },
+ {
+  "Code": "01_039",
+  "Food name": "Sorghum, whole grains, raw",
+  "Energy": "345",
+  "Protein": "11.5",
+  "Carbs": "61.1",
+  "Fat": "3.5"
+ },
+ {
+  "Code": "01_138",
+  "Food name": "Sorghum, whole grains, boiled* (as part of a recipe)",
+  "Energy": "144",
+  "Protein": "4.8",
+  "Carbs": "25.5",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_042",
+  "Food name": "Sorghum, whole grains, boiled* (without salt), drained",
+  "Energy": "144",
+  "Protein": "4.8",
+  "Carbs": "25.5",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_041",
+  "Food name": "Sorghum, whole grains, red, raw",
+  "Energy": "344",
+  "Protein": "10.1",
+  "Carbs": "61.9",
+  "Fat": "3.6"
+ },
+ {
+  "Code": "01_139",
+  "Food name": "Sorghum, whole grains, red, boiled* (as part of a recipe)",
+  "Energy": "143",
+  "Protein": "4.2",
+  "Carbs": "25.8",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_070",
+  "Food name": "Sorghum, whole grains, red, boiled* (without salt), drained",
+  "Energy": "143",
+  "Protein": "4.2",
+  "Carbs": "25.8",
+  "Fat": "1.5"
+ },
+ {
+  "Code": "01_040",
+  "Food name": "Sorghum, whole grains, white, raw",
+  "Energy": "344",
+  "Protein": "10.1",
+  "Carbs": "62.4",
+  "Fat": "3.4"
+ },
+ {
+  "Code": "01_140",
+  "Food name": "Sorghum, whole grains, white, boiled* (as part of a recipe)",
+  "Energy": "144",
+  "Protein": "4.2",
+  "Carbs": "26.0",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_071",
+  "Food name": "Sorghum, whole grains, white, boiled* (without salt), drained",
+  "Energy": "144",
+  "Protein": "4.2",
+  "Carbs": "26.0",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_184",
+  "Food name": "Teff, whole grains, raw",
+  "Energy": "351",
+  "Protein": "13.3",
+  "Carbs": "65.1",
+  "Fat": "2.4"
+ },
+ {
+  "Code": "01_186",
+  "Food name": "Teff, whole grains, boiled* (as part of a recipe)",
+  "Energy": "197",
+  "Protein": "7.5",
+  "Carbs": "36.6",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "01_185",
+  "Food name": "Teff, whole grains, boiled* (without salt), drained",
+  "Energy": "197",
+  "Protein": "7.5",
+  "Carbs": "36.6",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "01_183",
+  "Food name": "Weet-Bix (breakfast cereal), unfortified",
+  "Energy": "354",
+  "Protein": "6.3",
+  "Carbs": "73.6",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "01_169",
+  "Food name": "Wèsln né souma (Burkina Faso)*: couscous from yellow maize with bambara groundnuts",
+  "Energy": "116",
+  "Protein": "5.2",
+  "Carbs": "17.4",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "01_043",
+  "Food name": "Wheat flour, white, unfortified",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_083",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamins B1, B2, B3, B6, B12 (Benin)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_084",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamin B12 (Burkina Faso, Togo)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_085",
+  "Food name": "Wheat flour, white, fortified with iron and folic acid (Cabo Verde)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_087",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamins A, B1, B2, B3, B12 (Ghana, Sierra Leone)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_090",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamins B1, B2, B3, B12 (Guinea)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_086",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamins B1, B2, B3, B12 (Côte d’Ivoire, Mali, Niger, Senegal)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_088",
+  "Food name": "Wheat flour, white, fortified with iron, zinc, folic acid and vitamins B1, B2, B3, B12 (Liberia)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_089",
+  "Food name": "Wheat flour, white, fortified with iron and vitamins A, B1, B2, B3 (Nigeria)",
+  "Energy": "352",
+  "Protein": "10.4",
+  "Carbs": "72.2",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "01_082",
+  "Food name": "Wheat flour, wholemeal, unfortified",
+  "Energy": "354",
+  "Protein": "12.0",
+  "Carbs": "65.3",
+  "Fat": "2.2"
+ },
+ {
+  "Code": "01_073",
+  "Food name": "Wheat, bran, raw",
+  "Energy": "279",
+  "Protein": "15.1",
+  "Carbs": "23.3",
+  "Fat": "4.6"
+ },
+ {
+  "Code": "01_074",
+  "Food name": "Wheat, whole grains, raw",
+  "Energy": "329",
+  "Protein": "12.0",
+  "Carbs": "59.1",
+  "Fat": "2.2"
+ },
+ {
+  "Code": "01_142",
+  "Food name": "Wheat, whole grains, boiled* (as part of a recipe)",
+  "Energy": "185",
+  "Protein": "6.7",
+  "Carbs": "33.2",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "01_141",
+  "Food name": "Wheat, whole grains, boiled* (without salt), drained",
+  "Energy": "185",
+  "Protein": "6.7",
+  "Carbs": "33.2",
+  "Fat": "1.3"
+ },
+ {
+  "Code": "02_093",
+  "Food name": "Banakou né barâand kanss saagbo (Burkina Faso)*: foutou of cassava and unripe plantain",
+  "Energy": 116,
+  "Protein": 1.2,
+  "Carbs": 25,
+  "Fat": 0.5
+ },
+ {
+  "Code": "02_091",
+  "Food name": "Banakou né barâand moomd saagbo (Burkina Faso)*: foutou of cassava and ripe plantain",
+  "Energy": 115,
+  "Protein": 1.1,
+  "Carbs": 25.9,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_092",
+  "Food name": "Banakou né kou saagbo (Burkina Faso)*: foutou of yam and cassava",
+  "Energy": 102,
+  "Protein": 1.5,
+  "Carbs": 21.5,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_021",
+  "Food name": "Cassava, sweet, tuber, white flesh, dried",
+  "Energy": 348,
+  "Protein": 1.3,
+  "Carbs": 80,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "02_041",
+  "Food name": "Cassava, fermented paste from white cassava flour (wet fufu)",
+  "Energy": 165,
+  "Protein": 1,
+  "Carbs": 38.7,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "02_038",
+  "Food name": "Cassava, flour, from fermented white cassava (alibo\/elubo\/lafun)",
+  "Energy": 344,
+  "Protein": 1.5,
+  "Carbs": 81.2,
+  "Fat": 0.6
+ },
+ {
+  "Code": "02_040",
+  "Food name": "Cassava, flour, from fermented white cassava (dry fufu)",
+  "Energy": 346,
+  "Protein": 2.1,
+  "Carbs": 80.9,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "02_004",
+  "Food name": "Cassava, flour, from white cassava",
+  "Energy": 341,
+  "Protein": 1.6,
+  "Carbs": 79.9,
+  "Fat": 0.7
+ },
+ {
+  "Code": "02_039",
+  "Food name": "Cassava, grated, from fermented white cassava, toasted without oil (white gari)",
+  "Energy": 351,
+  "Protein": 1.2,
+  "Carbs": 82.9,
+  "Fat": 0.5
+ },
+ {
+  "Code": "02_001",
+  "Food name": "Cassava, tuber, white flesh, raw",
+  "Energy": 142,
+  "Protein": 1.3,
+  "Carbs": 31.6,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_051",
+  "Food name": "Cassava, tuber, white flesh, boiled* (as part of a recipe)",
+  "Energy": 121,
+  "Protein": 1.1,
+  "Carbs": 27,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_003",
+  "Food name": "Cassava, tuber, white flesh, boiled* (without salt), drained",
+  "Energy": 121,
+  "Protein": 1.1,
+  "Carbs": 27,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_002",
+  "Food name": "Cassava, tuber, white flesh, dried",
+  "Energy": 344,
+  "Protein": 1.7,
+  "Carbs": 79.3,
+  "Fat": 0.9
+ },
+ {
+  "Code": "02_037",
+  "Food name": "Cassava, tuber, yellow flesh, raw",
+  "Energy": 77,
+  "Protein": 0.7,
+  "Carbs": 16.6,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_053",
+  "Food name": "Cassava, tuber, yellow flesh, boiled* (as part of a recipe)",
+  "Energy": 66,
+  "Protein": 0.6,
+  "Carbs": 14.2,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_052",
+  "Food name": "Cassava, tuber, yellow flesh, boiled* (without salt), drained",
+  "Energy": 66,
+  "Protein": 0.6,
+  "Carbs": 14.2,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_005",
+  "Food name": "Cocoyam, tuber, white, raw",
+  "Energy": 136,
+  "Protein": 3.3,
+  "Carbs": 28.9,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_054",
+  "Food name": "Cocoyam, tuber, white, boiled* (as part of a recipe)",
+  "Energy": 143,
+  "Protein": 3.4,
+  "Carbs": 30.4,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_006",
+  "Food name": "Cocoyam, tuber, white, boiled* (without salt), drained",
+  "Energy": 143,
+  "Protein": 3.4,
+  "Carbs": 30.4,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_043",
+  "Food name": "Cocoyam, tuber, yellow, raw",
+  "Energy": 112,
+  "Protein": 3.3,
+  "Carbs": 23.2,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_056",
+  "Food name": "Cocoyam, tuber, yellow, boiled* (as part of a recipe)",
+  "Energy": 118,
+  "Protein": 3.4,
+  "Carbs": 24.4,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_055",
+  "Food name": "Cocoyam, tuber, yellow, boiled* (without salt), drained",
+  "Energy": 118,
+  "Protein": 3.4,
+  "Carbs": 24.4,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_086",
+  "Food name": "Cou nin zindo (Burkina Faso)*: yam and vegetable stew",
+  "Energy": 149,
+  "Protein": 1.8,
+  "Carbs": 16.5,
+  "Fat": 7.6
+ },
+ {
+  "Code": "02_081",
+  "Food name": "French fries, deep fried in unfortified vegetable oil*",
+  "Energy": 241,
+  "Protein": 2.6,
+  "Carbs": 30.3,
+  "Fat": 11.5
+ },
+ {
+  "Code": "02_089",
+  "Food name": "Fufu of ripe and unripe plantain with red palm oil (Burkina Faso)*",
+  "Energy": 323,
+  "Protein": 1.3,
+  "Carbs": 26,
+  "Fat": 23
+ },
+ {
+  "Code": "02_088",
+  "Food name": "Fufu of ripe plantain with red palm oil (Burkina Faso)*",
+  "Energy": 181,
+  "Protein": 1.2,
+  "Carbs": 28.7,
+  "Fat": 6.4
+ },
+ {
+  "Code": "02_096",
+  "Food name": "Fufu of unripe plantain with red palm oil (Burkina Faso)*",
+  "Energy": 185,
+  "Protein": 1.5,
+  "Carbs": 25.2,
+  "Fat": 7.5
+ },
+ {
+  "Code": "02_099",
+  "Food name": "Fufu of unripe plantain with shea butter (Burkina Faso)*",
+  "Energy": 188,
+  "Protein": 1.3,
+  "Carbs": 22.6,
+  "Fat": 9.3
+ },
+ {
+  "Code": "02_094",
+  "Food name": "Kou né barâand kanss saagbo (Burkina Faso)*: foutou of yam and unripe plantain",
+  "Energy": 102,
+  "Protein": 1.6,
+  "Carbs": 20.6,
+  "Fat": 0.4
+ },
+ {
+  "Code": "02_098",
+  "Food name": "Kou né barâand moomd saagbo (Burkina Faso)*: foutou of yam with ripe plantain",
+  "Energy": 115,
+  "Protein": 1.9,
+  "Carbs": 23.9,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_090",
+  "Food name": "Kou né kamoag fufu (Burkina Faso)*: fufu of yam with shea butter",
+  "Energy": 152,
+  "Protein": 1.6,
+  "Carbs": 18,
+  "Fat": 7.3
+ },
+ {
+  "Code": "02_087",
+  "Food name": "Kou né téhi kaam fufu (Burkina Faso)*: fufu of yam and red palm oil",
+  "Energy": 185,
+  "Protein": 2,
+  "Carbs": 21.8,
+  "Fat": 9
+ },
+ {
+  "Code": "02_097",
+  "Food name": "Kou saagbo (Burkina Faso)*: foutou of yam",
+  "Energy": 97,
+  "Protein": 1.8,
+  "Carbs": 19.6,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_084",
+  "Food name": "Plantain, deep fried in unfortified vegetable oil*",
+  "Energy": 375,
+  "Protein": 2.1,
+  "Carbs": 51.7,
+  "Fat": 16.9
+ },
+ {
+  "Code": "02_042",
+  "Food name": "Plantain, ripe, ivory flesh, raw",
+  "Energy": 143,
+  "Protein": 1.4,
+  "Carbs": 32.9,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_058",
+  "Food name": "Plantain, ripe, ivory flesh, boiled* (as part of a recipe)",
+  "Energy": 137,
+  "Protein": 1.3,
+  "Carbs": 31.3,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_057",
+  "Food name": "Plantain, ripe, ivory flesh, boiled* (without salt), drained",
+  "Energy": 151,
+  "Protein": 1.4,
+  "Carbs": 34.6,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_044",
+  "Food name": "Plantain, ripe, orange flesh, raw",
+  "Energy": 134,
+  "Protein": 1.2,
+  "Carbs": 30.4,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_060",
+  "Food name": "Plantain, ripe, orange flesh, boiled* (as part of a recipe)",
+  "Energy": 127,
+  "Protein": 1.1,
+  "Carbs": 28.9,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_059",
+  "Food name": "Plantain, ripe, orange flesh, boiled* (without salt), drained",
+  "Energy": 127,
+  "Protein": 1.1,
+  "Carbs": 28.9,
+  "Fat": 0.3
+ },
+ {
+  "Code": "02_046",
+  "Food name": "Plantain, unripe, ivory flesh, raw",
+  "Energy": 158,
+  "Protein": 1.9,
+  "Carbs": 31.9,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_065",
+  "Food name": "Plantain, unripe, ivory flesh, boiled* (as part of a recipe)",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_064",
+  "Food name": "Plantain, unripe, ivory flesh, boiled* (without salt), drained",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_047",
+  "Food name": "Plantain, unripe, orange flesh, raw",
+  "Energy": 158,
+  "Protein": 1.9,
+  "Carbs": 31.9,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_067",
+  "Food name": "Plantain, unripe, orange flesh, boiled* (as part of a recipe)",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_066",
+  "Food name": "Plantain, unripe, orange flesh, boiled* (without salt), drained",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_045",
+  "Food name": "Plantain, unripe, pale flesh, raw",
+  "Energy": 158,
+  "Protein": 1.9,
+  "Carbs": 31.9,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_063",
+  "Food name": "Plantain, unripe, pale flesh, boiled* (as part of a recipe)",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_062",
+  "Food name": "Plantain, unripe, pale flesh, boiled* (without salt), drained",
+  "Energy": 151,
+  "Protein": 1.8,
+  "Carbs": 30.3,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "02_048",
+  "Food name": "Plantain, unripe, pale flesh, flour",
+  "Energy": 329,
+  "Protein": 4.2,
+  "Carbs": 64.7,
+  "Fat": "3.0"
+ },
+ {
+  "Code": "02_095",
+  "Food name": "Porridge, tô, from gari and tomato paste (Burkina Faso)*",
+  "Energy": 134,
+  "Protein": 0.7,
+  "Carbs": 31.3,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_085",
+  "Food name": "Potato nin zindo (Burkina Faso)*: potato and vegetable stew",
+  "Energy": 186,
+  "Protein": 1.5,
+  "Carbs": 13.5,
+  "Fat": 13.7
+ },
+ {
+  "Code": "02_009",
+  "Food name": "Potato, raw",
+  "Energy": 79,
+  "Protein": 1.5,
+  "Carbs": 17.4,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_068",
+  "Food name": "Potato, boiled* (as part of a recipe)",
+  "Energy": 79,
+  "Protein": 1.5,
+  "Carbs": 17.4,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_010",
+  "Food name": "Potato, boiled* (without salt), drained",
+  "Energy": 79,
+  "Protein": 1.5,
+  "Carbs": 17.4,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_011",
+  "Food name": "Sweet potato, deep yellow flesh, raw",
+  "Energy": 116,
+  "Protein": 1.6,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_070",
+  "Food name": "Sweet potato, deep yellow flesh, boiled* (as part of a recipe)",
+  "Energy": 116,
+  "Protein": 1.6,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_012",
+  "Food name": "Sweet potato, deep yellow flesh, boiled* (without salt), drained",
+  "Energy": 116,
+  "Protein": 1.6,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_049",
+  "Food name": "Sweet potato, orange flesh, raw",
+  "Energy": 91,
+  "Protein": 1,
+  "Carbs": 19.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_073",
+  "Food name": "Sweet potato, orange flesh, boiled* (as part of a recipe)",
+  "Energy": 91,
+  "Protein": 1,
+  "Carbs": 19.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_072",
+  "Food name": "Sweet potato, orange flesh, boiled* (without salt), drained",
+  "Energy": 91,
+  "Protein": 1,
+  "Carbs": 19.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_022",
+  "Food name": "Sweet potato, pale flesh (white\/cream\/pale yellow), raw",
+  "Energy": 96,
+  "Protein": 1.5,
+  "Carbs": 20.5,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_069",
+  "Food name": "Sweet potato, pale flesh (white\/cream\/pale yellow), boiled* (as part of a recipe)",
+  "Energy": 96,
+  "Protein": 1.5,
+  "Carbs": 20.5,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_023",
+  "Food name": "Sweet potato, pale flesh (white\/cream\/pale yellow), boiled* (without salt), drained",
+  "Energy": 96,
+  "Protein": 1.5,
+  "Carbs": 20.5,
+  "Fat": 0.2
+ },
+ {
+  "Code": "02_013",
+  "Food name": "Sweet potato, yellow flesh, raw",
+  "Energy": 116,
+  "Protein": 1.5,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_071",
+  "Food name": "Sweet potato, yellow flesh, boiled* (as part of a recipe)",
+  "Energy": 116,
+  "Protein": 1.5,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_014",
+  "Food name": "Sweet potato, yellow flesh, boiled* (without salt), drained",
+  "Energy": 116,
+  "Protein": 1.5,
+  "Carbs": 25.5,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_083",
+  "Food name": "Sweet potato, deep fried in unfortified vegetable oil*",
+  "Energy": 324,
+  "Protein": 3.1,
+  "Carbs": 52.6,
+  "Fat": 9.9
+ },
+ {
+  "Code": "02_015",
+  "Food name": "Taro, tuber, white, raw",
+  "Energy": 127,
+  "Protein": 2.7,
+  "Carbs": 25.2,
+  "Fat": 0.8
+ },
+ {
+  "Code": "02_074",
+  "Food name": "Taro, tuber, white, boiled* (as part of a recipe)",
+  "Energy": 125,
+  "Protein": 2.6,
+  "Carbs": 24.9,
+  "Fat": 0.8
+ },
+ {
+  "Code": "02_016",
+  "Food name": "Taro, tuber, white, boiled* (without salt), drained",
+  "Energy": 125,
+  "Protein": 2.6,
+  "Carbs": 24.9,
+  "Fat": 0.8
+ },
+ {
+  "Code": "02_026",
+  "Food name": "Tiger nut, tuber, dried",
+  "Energy": 467,
+  "Protein": 4.8,
+  "Carbs": 48.5,
+  "Fat": "25.6"
+ },
+ {
+  "Code": "02_024",
+  "Food name": "Tiger nut, tuber, raw",
+  "Energy": 344,
+  "Protein": 4.4,
+  "Carbs": 32.1,
+  "Fat": 20.2
+ },
+ {
+  "Code": "02_075",
+  "Food name": "Tiger nut, tuber, boiled* (as part of a recipe)",
+  "Energy": 362,
+  "Protein": 4.6,
+  "Carbs": 33.8,
+  "Fat": 21.2
+ },
+ {
+  "Code": "02_025",
+  "Food name": "Tiger nut, tuber, boiled* (without salt), drained",
+  "Energy": 362,
+  "Protein": 4.6,
+  "Carbs": 33.8,
+  "Fat": 21.2
+ },
+ {
+  "Code": "02_017",
+  "Food name": "Water yam, tuber, raw",
+  "Energy": 117,
+  "Protein": 2.4,
+  "Carbs": 21.6,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "02_076",
+  "Food name": "Water yam, tuber, boiled* (as part of a recipe)",
+  "Energy": 123,
+  "Protein": 2.5,
+  "Carbs": 22.7,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_018",
+  "Food name": "Water yam, tuber, boiled* (without salt), drained",
+  "Energy": 123,
+  "Protein": 2.5,
+  "Carbs": 22.7,
+  "Fat": 0.1
+ },
+ {
+  "Code": "02_082",
+  "Food name": "Yam, tuber, deep fried in unfortified vegetable oil*",
+  "Energy": 262,
+  "Protein": 3.6,
+  "Carbs": 39.6,
+  "Fat": 8
+ },
+ {
+  "Code": "02_036",
+  "Food name": "Yam, tuber, flour, from white yam tuber",
+  "Energy": 327,
+  "Protein": 6.8,
+  "Carbs": 66.3,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "02_019",
+  "Food name": "Yam, tuber, pale, raw",
+  "Energy": 126,
+  "Protein": 2.3,
+  "Carbs": 25.5,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "02_077",
+  "Food name": "Yam, tuber, pale, boiled* (as part of a recipe)",
+  "Energy": 132,
+  "Protein": 2.4,
+  "Carbs": 26.8,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "02_020",
+  "Food name": "Yam, tuber, pale, boiled* (without salt), drained",
+  "Energy": 132,
+  "Protein": 2.4,
+  "Carbs": 26.8,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "02_027",
+  "Food name": "Yam, tuber, Isu akoko, raw (Nigeria), n=1",
+  "Energy": 139,
+  "Protein": 2,
+  "Carbs": 29.3,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_028",
+  "Food name": "Yam, tuber, Isu oko, raw (Nigeria), n=1",
+  "Energy": 114,
+  "Protein": 1.6,
+  "Carbs": 24.1,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "02_029",
+  "Food name": "Yam, tuber, Amara, raw (Nigeria), n=1",
+  "Energy": 145,
+  "Protein": 1.9,
+  "Carbs": 30.7,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_030",
+  "Food name": "Yam, tuber, Chika, kundu, raw (Nigeria), n=1",
+  "Energy": 126,
+  "Protein": 1.6,
+  "Carbs": 27,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "02_033",
+  "Food name": "Yam, tuber, Giwa, raw (Nigeria), n=1",
+  "Energy": 133,
+  "Protein": 1.9,
+  "Carbs": 28.1,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_031",
+  "Food name": "Yam, tuber, Isu Abuja, raw (Nigeria), n=1",
+  "Energy": 107,
+  "Protein": 1.6,
+  "Carbs": 22.5,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "02_032",
+  "Food name": "Yam, tuber, Pepa, raw (Nigeria), n=1",
+  "Energy": 138,
+  "Protein": 2,
+  "Carbs": 29,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_034",
+  "Food name": "Yam, tuber, combined cultivars, raw (Nigeria)",
+  "Energy": 129,
+  "Protein": 1.8,
+  "Carbs": 27.2,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "02_078",
+  "Food name": "Yam, tuber, combined cultivars (Nigeria), boiled* (as part of a recipe)",
+  "Energy": 136,
+  "Protein": 1.9,
+  "Carbs": 28.7,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_035",
+  "Food name": "Yam, tuber, combined cultivars (Nigeria), boiled* (without salt), drained",
+  "Energy": 136,
+  "Protein": 1.9,
+  "Carbs": 28.7,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_050",
+  "Food name": "Yam, tuber, three-leaved, pale, raw",
+  "Energy": 114,
+  "Protein": 1.8,
+  "Carbs": 23.8,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_080",
+  "Food name": "Yam, tuber, three-leaved, pale, boiled* (as part of a recipe)",
+  "Energy": 120,
+  "Protein": 1.9,
+  "Carbs": 25.1,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "02_079",
+  "Food name": "Yam, tuber, three-leaved, pale, boiled* (without salt, drained)",
+  "Energy": 120,
+  "Protein": 1.9,
+  "Carbs": 25.1,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "03_009",
+  "Food name": "African locust bean, dry, raw",
+  "Energy": 406,
+  "Protein": 29,
+  "Carbs": "37.8",
+  "Fat": "13.8"
+ },
+ {
+  "Code": "03_042",
+  "Food name": "African locust bean, fermented (soumbala)",
+  "Energy": 375,
+  "Protein": 33.1,
+  "Carbs": 18.4,
+  "Fat": 15.6
+ },
+ {
+  "Code": "03_063",
+  "Food name": "African locust bean, not soaked, boiled* (without salt), drained",
+  "Energy": 155,
+  "Protein": 11.1,
+  "Carbs": "14.5",
+  "Fat": "5.3"
+ },
+ {
+  "Code": "03_064",
+  "Food name": "African locust bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 98,
+  "Protein": 7,
+  "Carbs": "9.2",
+  "Fat": "3.3"
+ },
+ {
+  "Code": "03_065",
+  "Food name": "African locust bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 176,
+  "Protein": 12.6,
+  "Carbs": "16.4",
+  "Fat": "6.0"
+ },
+ {
+  "Code": "03_066",
+  "Food name": "African locust bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 127,
+  "Protein": 9.1,
+  "Carbs": "11.8",
+  "Fat": "4.3"
+ },
+ {
+  "Code": "03_010",
+  "Food name": "African yam bean, dry, raw",
+  "Energy": 316,
+  "Protein": 20.5,
+  "Carbs": 46.7,
+  "Fat": "1.5"
+ },
+ {
+  "Code": "03_011",
+  "Food name": "African yam bean, not soaked, boiled* (without salt), drained",
+  "Energy": 121,
+  "Protein": 7.9,
+  "Carbs": 17.8,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_060",
+  "Food name": "African yam bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 76,
+  "Protein": 5,
+  "Carbs": 11.3,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "03_061",
+  "Food name": "African yam bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 137,
+  "Protein": 9,
+  "Carbs": 20.2,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "03_062",
+  "Food name": "African yam bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 99,
+  "Protein": 6.5,
+  "Carbs": 14.5,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "03_044",
+  "Food name": "Afzelia africana, shelled, roasted, milled",
+  "Energy": 392,
+  "Protein": 18,
+  "Carbs": 7.5,
+  "Fat": "25.1"
+ },
+ {
+  "Code": "03_001",
+  "Food name": "Bambara groundnut, dry, raw",
+  "Energy": 323,
+  "Protein": 19.5,
+  "Carbs": 33.6,
+  "Fat": 5.9
+ },
+ {
+  "Code": "03_012",
+  "Food name": "Bambara groundnut, not soaked, boiled* (without salt), drained",
+  "Energy": 161,
+  "Protein": 9.8,
+  "Carbs": 16.8,
+  "Fat": 2.9
+ },
+ {
+  "Code": "03_068",
+  "Food name": "Bambara groundnut, soaked, boiled in different water* (without salt), drained",
+  "Energy": 161,
+  "Protein": 9.8,
+  "Carbs": 16.8,
+  "Fat": 2.9
+ },
+ {
+  "Code": "03_013",
+  "Food name": "Bambara groundnut, black white-eye, dry, raw (Ghana), n=1",
+  "Energy": 312,
+  "Protein": 24.5,
+  "Carbs": 29.5,
+  "Fat": 4.3
+ },
+ {
+  "Code": "03_014",
+  "Food name": "Bambara groundnut, brown white-eye, dry, raw (Ghana), n=1",
+  "Energy": 318,
+  "Protein": 20.6,
+  "Carbs": 31.4,
+  "Fat": 5.8
+ },
+ {
+  "Code": "03_015",
+  "Food name": "Bambara groundnut, cream black-eye, dry, raw (Ghana), n=1",
+  "Energy": 325,
+  "Protein": 17.6,
+  "Carbs": 35.4,
+  "Fat": 6.1
+ },
+ {
+  "Code": "03_016",
+  "Food name": "Bambara groundnut, cream pink-eye, dry, raw (Ghana), n=1",
+  "Energy": 317,
+  "Protein": 23.2,
+  "Carbs": 30.8,
+  "Fat": 4.7
+ },
+ {
+  "Code": "03_017",
+  "Food name": "Bambara groundnut, maroon white-eye, dry, raw (Ghana), n=1",
+  "Energy": 321,
+  "Protein": 18.1,
+  "Carbs": 33.4,
+  "Fat": 6.3
+ },
+ {
+  "Code": "03_018",
+  "Food name": "Bambara groundnut, combined varieties, dry, raw (Ghana)",
+  "Energy": 319,
+  "Protein": 20.8,
+  "Carbs": 32.1,
+  "Fat": 5.5
+ },
+ {
+  "Code": "03_019",
+  "Food name": "Bambara groundnut, combined varieties (Ghana), not soaked, boiled* (without salt), drained",
+  "Energy": 159,
+  "Protein": 10.4,
+  "Carbs": 16,
+  "Fat": 2.7
+ },
+ {
+  "Code": "03_071",
+  "Food name": "Bambara groundnut, combined varieties (Ghana), soaked, boiled in different water* (without salt), drained",
+  "Energy": 159,
+  "Protein": 10.4,
+  "Carbs": 16,
+  "Fat": 2.7
+ },
+ {
+  "Code": "03_002",
+  "Food name": "Bambara groundnut, red, dry, raw",
+  "Energy": 317,
+  "Protein": 18.4,
+  "Carbs": 30.4,
+  "Fat": 6
+ },
+ {
+  "Code": "03_020",
+  "Food name": "Bambara groundnut, red, not soaked, boiled* (without salt), drained",
+  "Energy": 158,
+  "Protein": 9.2,
+  "Carbs": 15.2,
+  "Fat": 3
+ },
+ {
+  "Code": "03_074",
+  "Food name": "Bambara groundnut, red, soaked, boiled in different water* (without salt), drained",
+  "Energy": 158,
+  "Protein": 9.2,
+  "Carbs": 15.2,
+  "Fat": 3
+ },
+ {
+  "Code": "03_003",
+  "Food name": "Bambara groundnut, white, dry, raw",
+  "Energy": 335,
+  "Protein": 20,
+  "Carbs": 35.7,
+  "Fat": 6.5
+ },
+ {
+  "Code": "03_021",
+  "Food name": "Bambara groundnut, white, not soaked, boiled* (without salt), drained",
+  "Energy": 167,
+  "Protein": 10,
+  "Carbs": 17.9,
+  "Fat": 3.3
+ },
+ {
+  "Code": "03_077",
+  "Food name": "Bambara groundnut, white, soaked, boiled in different water* (without salt), drained",
+  "Energy": 167,
+  "Protein": 10,
+  "Carbs": 17.9,
+  "Fat": 3.3
+ },
+ {
+  "Code": "03_022",
+  "Food name": "Bean, white, dry, raw",
+  "Energy": 320,
+  "Protein": 21.3,
+  "Carbs": 44.2,
+  "Fat": 2.3
+ },
+ {
+  "Code": "03_023",
+  "Food name": "Bean, white, not soaked, boiled* (without salt), drained",
+  "Energy": 123,
+  "Protein": 8.2,
+  "Carbs": 17,
+  "Fat": 0.9
+ },
+ {
+  "Code": "03_079",
+  "Food name": "Bean, white, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 74,
+  "Protein": 4.9,
+  "Carbs": 10.2,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_081",
+  "Food name": "Bean, white, soaked, boiled in different water* (without salt), drained",
+  "Energy": 123,
+  "Protein": 8.2,
+  "Carbs": 17,
+  "Fat": 0.9
+ },
+ {
+  "Code": "03_082",
+  "Food name": "Bean, white, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 74,
+  "Protein": 4.9,
+  "Carbs": 10.2,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_144",
+  "Food name": "Beng rougougdga (Burkina Faso)*: cowpeas and vegetables, boiled",
+  "Energy": 177,
+  "Protein": 7.2,
+  "Carbs": 16.7,
+  "Fat": 8.2
+ },
+ {
+  "Code": "03_148",
+  "Food name": "Beng rougougdga né ki wesla (Burkina Faso)*: cowpeas with pearl millet couscous",
+  "Energy": 177,
+  "Protein": 7.2,
+  "Carbs": 28,
+  "Fat": 3.1
+ },
+ {
+  "Code": "03_149",
+  "Food name": "Beng rougougdga né kmaan (Burkina Faso)*: cowpeas and degermed white maize, boiled",
+  "Energy": 139,
+  "Protein": 6.5,
+  "Carbs": 25.2,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_150",
+  "Food name": "Beng rougougdga né kui wesla (Burkina Faso)*: cowpeas and fonio, boiled",
+  "Energy": 207,
+  "Protein": 8.2,
+  "Carbs": 28.6,
+  "Fat": 5.7
+ },
+ {
+  "Code": "03_151",
+  "Food name": "Beng saagbo (Burkina Faso)*: tô (porridge) from cowpeas with maize flour and potash",
+  "Energy": 163,
+  "Protein": 6.7,
+  "Carbs": 18.3,
+  "Fat": 6.2
+ },
+ {
+  "Code": "03_154",
+  "Food name": "Boussan touba (Burkina Faso)*: fried cowpea pancakes",
+  "Energy": 253,
+  "Protein": 12.6,
+  "Carbs": 27.7,
+  "Fat": 8.9
+ },
+ {
+  "Code": "03_024",
+  "Food name": "Broad bean, dry, raw",
+  "Energy": 327,
+  "Protein": 25.2,
+  "Carbs": 40.7,
+  "Fat": 2.2
+ },
+ {
+  "Code": "03_025",
+  "Food name": "Broad bean, not soaked, boiled* (without salt), drained",
+  "Energy": 117,
+  "Protein": 9,
+  "Carbs": 14.5,
+  "Fat": 0.8
+ },
+ {
+  "Code": "03_083",
+  "Food name": "Broad bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 71,
+  "Protein": 5.5,
+  "Carbs": 8.8,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_084",
+  "Food name": "Broad bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 117,
+  "Protein": 9,
+  "Carbs": 14.5,
+  "Fat": 0.8
+ },
+ {
+  "Code": "03_085",
+  "Food name": "Broad bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 71,
+  "Protein": 5.5,
+  "Carbs": 8.8,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_004",
+  "Food name": "Cowpea, dry, raw",
+  "Energy": 325,
+  "Protein": 22.6,
+  "Carbs": 49,
+  "Fat": 1.5
+ },
+ {
+  "Code": "03_007",
+  "Food name": "Cowpea, not soaked, boiled* (without salt), drained",
+  "Energy": 122,
+  "Protein": 8.5,
+  "Carbs": 18.3,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_089",
+  "Food name": "Cowpea, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 73,
+  "Protein": 5.1,
+  "Carbs": 11.1,
+  "Fat": 0.3
+ },
+ {
+  "Code": "03_090",
+  "Food name": "Cowpea, soaked, boiled in different water* (without salt), drained",
+  "Energy": 122,
+  "Protein": 8.5,
+  "Carbs": 18.3,
+  "Fat": 0.5
+ },
+ {
+  "Code": "03_091",
+  "Food name": "Cowpea, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 73,
+  "Protein": 5.1,
+  "Carbs": 11.1,
+  "Fat": 0.3
+ },
+ {
+  "Code": "03_005",
+  "Food name": "Cowpea, black, dry, raw",
+  "Energy": 301,
+  "Protein": 20.5,
+  "Carbs": 40.8,
+  "Fat": 1.6
+ },
+ {
+  "Code": "03_026",
+  "Food name": "Cowpea, black, not soaked, boiled* (without salt), drained",
+  "Energy": 113,
+  "Protein": 8.2,
+  "Carbs": 14.8,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_092",
+  "Food name": "Cowpea, black, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 68,
+  "Protein": 4.9,
+  "Carbs": 8.9,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_093",
+  "Food name": "Cowpea, black, soaked, boiled in different water* (without salt), drained",
+  "Energy": 113,
+  "Protein": 8.2,
+  "Carbs": 14.8,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_094",
+  "Food name": "Cowpea, black, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 68,
+  "Protein": 4.9,
+  "Carbs": 8.9,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_027",
+  "Food name": "Cowpea, brown, dry, raw",
+  "Energy": 326,
+  "Protein": 23.6,
+  "Carbs": 47.1,
+  "Fat": "1.9"
+ },
+ {
+  "Code": "03_028",
+  "Food name": "Cowpea, brown, not soaked, boiled* (without salt), drained",
+  "Energy": 122,
+  "Protein": 8.9,
+  "Carbs": 17.6,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "03_095",
+  "Food name": "Cowpea, brown, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 74,
+  "Protein": 5.3,
+  "Carbs": 10.7,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "03_096",
+  "Food name": "Cowpea, brown, soaked, boiled in different water* (without salt), drained",
+  "Energy": 122,
+  "Protein": 8.9,
+  "Carbs": 17.6,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "03_097",
+  "Food name": "Cowpea, brown, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 74,
+  "Protein": 5.3,
+  "Carbs": 10.7,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "03_006",
+  "Food name": "Cowpea, white, dry, raw",
+  "Energy": 331,
+  "Protein": 23,
+  "Carbs": 50.3,
+  "Fat": 1.8
+ },
+ {
+  "Code": "03_029",
+  "Food name": "Cowpea, white, not soaked, boiled* (without salt), drained",
+  "Energy": 124,
+  "Protein": 8.6,
+  "Carbs": 18.8,
+  "Fat": 0.7
+ },
+ {
+  "Code": "03_098",
+  "Food name": "Cowpea, white, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 75,
+  "Protein": 5.2,
+  "Carbs": 11.4,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_099",
+  "Food name": "Cowpea, white, soaked, boiled in different water* (without salt), drained",
+  "Energy": 124,
+  "Protein": 8.6,
+  "Carbs": 18.8,
+  "Fat": 0.7
+ },
+ {
+  "Code": "03_100",
+  "Food name": "Cowpea, white, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 75,
+  "Protein": 5.2,
+  "Carbs": 11.4,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_045",
+  "Food name": "Cowpea, dehulled, raw",
+  "Energy": 334,
+  "Protein": 23.1,
+  "Carbs": 50.6,
+  "Fat": "1.4"
+ },
+ {
+  "Code": "03_101",
+  "Food name": "Cowpea, dehulled, not soaked, boiled* (without salt), drained",
+  "Energy": 125,
+  "Protein": 8.6,
+  "Carbs": 19,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "03_102",
+  "Food name": "Cowpea, dehulled, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 76,
+  "Protein": 5.2,
+  "Carbs": 11.5,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "03_103",
+  "Food name": "Cowpea, dehulled, soaked, boiled in different water* (without salt), drained",
+  "Energy": 125,
+  "Protein": 8.6,
+  "Carbs": 19,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "03_104",
+  "Food name": "Cowpea, dehulled, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 76,
+  "Protein": 5.2,
+  "Carbs": 11.5,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "03_143",
+  "Food name": "Cowpeas and rice, boiled (Burkina Faso)*",
+  "Energy": 125,
+  "Protein": 6.2,
+  "Carbs": 22.5,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_146",
+  "Food name": "Faro with eggs, cowpea, potash and vegetables (Burkina Faso)*",
+  "Energy": 149,
+  "Protein": 8.7,
+  "Carbs": 14.2,
+  "Fat": "5.5"
+ },
+ {
+  "Code": "03_147",
+  "Food name": "Haricot bambara (Burkina Faso)*: fried paste of cowpea and okra powder with egg and onion",
+  "Energy": 186,
+  "Protein": 10.1,
+  "Carbs": 16.1,
+  "Fat": "8.0"
+ },
+ {
+  "Code": "03_152",
+  "Food name": "Gonré-1 (Burkina Faso)*: steamed paste of dehulled cowpea and potash",
+  "Energy": 146,
+  "Protein": 10.1,
+  "Carbs": 22.2,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_153",
+  "Food name": "Gonré-2 (Burkina Faso)*: steamed paste of non-dehulled cowpea and potash",
+  "Energy": 108,
+  "Protein": 7.7,
+  "Carbs": 16,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_057",
+  "Food name": "Ground bean, dry, raw",
+  "Energy": 322,
+  "Protein": 23.8,
+  "Carbs": 43.2,
+  "Fat": "2.0"
+ },
+ {
+  "Code": "03_113",
+  "Food name": "Ground bean, not soaked, boiled* (without salt), drained",
+  "Energy": 123,
+  "Protein": 9.1,
+  "Carbs": 16.5,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "03_114",
+  "Food name": "Ground bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 78,
+  "Protein": 5.8,
+  "Carbs": 10.5,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "03_115",
+  "Food name": "Ground bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 123,
+  "Protein": 9.1,
+  "Carbs": 16.5,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "03_116",
+  "Food name": "Ground bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 78,
+  "Protein": 5.8,
+  "Carbs": 10.5,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "03_052",
+  "Food name": "Jack bean, whole, dry, raw",
+  "Energy": 335,
+  "Protein": 24.1,
+  "Carbs": 42.4,
+  "Fat": "4.2"
+ },
+ {
+  "Code": "03_109",
+  "Food name": "Jack bean, not soaked, boiled* (without salt), drained",
+  "Energy": 128,
+  "Protein": 9.2,
+  "Carbs": 16.3,
+  "Fat": "1.6"
+ },
+ {
+  "Code": "03_110",
+  "Food name": "Jack bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 81,
+  "Protein": 5.8,
+  "Carbs": 10.3,
+  "Fat": "1.0"
+ },
+ {
+  "Code": "03_111",
+  "Food name": "Jack bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 128,
+  "Protein": 9.2,
+  "Carbs": 16.3,
+  "Fat": "1.6"
+ },
+ {
+  "Code": "03_112",
+  "Food name": "Jack bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 81,
+  "Protein": 5.8,
+  "Carbs": 10.3,
+  "Fat": "1.0"
+ },
+ {
+  "Code": "03_030",
+  "Food name": "Lentil, dry, raw",
+  "Energy": 328,
+  "Protein": 23.6,
+  "Carbs": 46.3,
+  "Fat": 1.7
+ },
+ {
+  "Code": "03_031",
+  "Food name": "Lentil, not soaked, boiled* (without salt), drained",
+  "Energy": 124,
+  "Protein": 8.9,
+  "Carbs": 17.5,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_086",
+  "Food name": "Lentil, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 77,
+  "Protein": 5.6,
+  "Carbs": 10.9,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_087",
+  "Food name": "Lentil, soaked, boiled in different water* (without salt), drained",
+  "Energy": 124,
+  "Protein": 8.9,
+  "Carbs": 17.5,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_088",
+  "Food name": "Lentil, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 77,
+  "Protein": 5.6,
+  "Carbs": 10.9,
+  "Fat": 0.4
+ },
+ {
+  "Code": "03_058",
+  "Food name": "Lima bean, dry, raw",
+  "Energy": 315,
+  "Protein": 21.6,
+  "Carbs": 44.8,
+  "Fat": 1.5
+ },
+ {
+  "Code": "03_117",
+  "Food name": "Lima bean, not soaked, boiled* (without salt), drained",
+  "Energy": 126,
+  "Protein": 8.6,
+  "Carbs": 17.9,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_118",
+  "Food name": "Lima bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 73,
+  "Protein": 5,
+  "Carbs": 10.3,
+  "Fat": 0.3
+ },
+ {
+  "Code": "03_119",
+  "Food name": "Lima bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 126,
+  "Protein": 8.6,
+  "Carbs": 17.9,
+  "Fat": 0.6
+ },
+ {
+  "Code": "03_120",
+  "Food name": "Lima bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 73,
+  "Protein": 5,
+  "Carbs": 10.3,
+  "Fat": 0.3
+ },
+ {
+  "Code": "03_032",
+  "Food name": "Pigeon pea, dry, raw",
+  "Energy": 310,
+  "Protein": 20.8,
+  "Carbs": 41.6,
+  "Fat": "2.1"
+ },
+ {
+  "Code": "03_033",
+  "Food name": "Pigeon pea, not soaked, boiled* (without salt), drained",
+  "Energy": 135,
+  "Protein": 9,
+  "Carbs": 18.1,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_121",
+  "Food name": "Pigeon pea, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 6.5,
+  "Carbs": 13,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_122",
+  "Food name": "Pigeon pea, soaked, boiled in different water* (without salt), drained",
+  "Energy": 135,
+  "Protein": 9,
+  "Carbs": 18.1,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_123",
+  "Food name": "Pigeon pea, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 6.5,
+  "Carbs": 13,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_055",
+  "Food name": "Pigeon pea, brown, dry, raw",
+  "Energy": 309,
+  "Protein": 20.6,
+  "Carbs": 41.8,
+  "Fat": "2.0"
+ },
+ {
+  "Code": "03_132",
+  "Food name": "Pigeon pea, brown, not soaked, boiled* (without salt), drained",
+  "Energy": 134,
+  "Protein": 9,
+  "Carbs": 18.2,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_133",
+  "Food name": "Pigeon pea, brown, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 6.5,
+  "Carbs": 13.1,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_134",
+  "Food name": "Pigeon pea, brown, soaked, boiled in different water* (without salt), drained",
+  "Energy": 134,
+  "Protein": 9,
+  "Carbs": 18.2,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_135",
+  "Food name": "Pigeon pea, brown, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 6.5,
+  "Carbs": 13.1,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_054",
+  "Food name": "Pigeon pea, cream, dry, raw",
+  "Energy": 303,
+  "Protein": 18.4,
+  "Carbs": 42.7,
+  "Fat": "2.0"
+ },
+ {
+  "Code": "03_128",
+  "Food name": "Pigeon pea, cream, not soaked, boiled* (without salt), drained",
+  "Energy": 132,
+  "Protein": 8,
+  "Carbs": 18.6,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_129",
+  "Food name": "Pigeon pea, cream, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 95,
+  "Protein": 5.8,
+  "Carbs": 13.3,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_130",
+  "Food name": "Pigeon pea, cream, soaked, boiled in different water* (without salt), drained",
+  "Energy": 132,
+  "Protein": 8,
+  "Carbs": 18.6,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "03_131",
+  "Food name": "Pigeon pea, cream, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 95,
+  "Protein": 5.8,
+  "Carbs": 13.3,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_053",
+  "Food name": "Pigeon pea, white, dry, raw",
+  "Energy": 310,
+  "Protein": 16.6,
+  "Carbs": 42.4,
+  "Fat": "3.7"
+ },
+ {
+  "Code": "03_124",
+  "Food name": "Pigeon pea, white, not soaked, boiled* (without salt), drained",
+  "Energy": 135,
+  "Protein": 7.2,
+  "Carbs": 18.4,
+  "Fat": "1.6"
+ },
+ {
+  "Code": "03_125",
+  "Food name": "Pigeon pea, white, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 5.2,
+  "Carbs": 13.2,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "03_126",
+  "Food name": "Pigeon pea, white, soaked, boiled in different water* (without salt), drained",
+  "Energy": 135,
+  "Protein": 7.2,
+  "Carbs": 18.4,
+  "Fat": "1.6"
+ },
+ {
+  "Code": "03_127",
+  "Food name": "Pigeon pea, white, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 97,
+  "Protein": 5.2,
+  "Carbs": 13.2,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "03_142",
+  "Food name": "Porridge of cowpeas, yam and potash (Burkina Faso)*",
+  "Energy": 121,
+  "Protein": 6.5,
+  "Carbs": 20.3,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "03_145",
+  "Food name": "Soumma (Burkina Faso)*: bambara groundnuts boiled with potash",
+  "Energy": 163,
+  "Protein": 9.7,
+  "Carbs": 17.2,
+  "Fat": 2.9
+ },
+ {
+  "Code": "03_008",
+  "Food name": "Soya bean, dry, raw",
+  "Energy": 381,
+  "Protein": 31.3,
+  "Carbs": 14.2,
+  "Fat": 17
+ },
+ {
+  "Code": "03_034",
+  "Food name": "Soya bean, not soaked, boiled* (without salt), drained",
+  "Energy": 157,
+  "Protein": 12.9,
+  "Carbs": 5.8,
+  "Fat": 7
+ },
+ {
+  "Code": "03_136",
+  "Food name": "Soya bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 157,
+  "Protein": 12.9,
+  "Carbs": 5.8,
+  "Fat": 7
+ },
+ {
+  "Code": "03_036",
+  "Food name": "Soya bean, Anidaso variety, dry, raw (Ghana), n=1",
+  "Energy": 382,
+  "Protein": 35.9,
+  "Carbs": 12.1,
+  "Fat": "15.8"
+ },
+ {
+  "Code": "03_038",
+  "Food name": "Soya bean, Jenguma variety, dry, raw (Ghana), n=1",
+  "Energy": 395,
+  "Protein": 31.9,
+  "Carbs": 13.2,
+  "Fat": "18.6"
+ },
+ {
+  "Code": "03_037",
+  "Food name": "Soya bean, Quarshie variety, dry, raw (Ghana), n=1",
+  "Energy": 379,
+  "Protein": 35.4,
+  "Carbs": 17.9,
+  "Fat": "13.1"
+ },
+ {
+  "Code": "03_035",
+  "Food name": "Soya bean, Salintuya-1 variety, dry, raw (Ghana), n=1",
+  "Energy": 383,
+  "Protein": 35.5,
+  "Carbs": 12.2,
+  "Fat": "16.1"
+ },
+ {
+  "Code": "03_039",
+  "Food name": "Soya bean, combined varieties, dry, raw (Ghana)",
+  "Energy": 385,
+  "Protein": 34.7,
+  "Carbs": 13.8,
+  "Fat": "15.9"
+ },
+ {
+  "Code": "03_040",
+  "Food name": "Soya bean, combined varieties (Ghana), not soaked, boiled* (without salt), drained",
+  "Energy": 158,
+  "Protein": 14.3,
+  "Carbs": 5.7,
+  "Fat": "6.5"
+ },
+ {
+  "Code": "03_137",
+  "Food name": "Soya bean, combined varieties (Ghana), soaked, boiled in different water* (without salt), drained",
+  "Energy": 158,
+  "Protein": 14.3,
+  "Carbs": 5.7,
+  "Fat": "6.5"
+ },
+ {
+  "Code": "03_051",
+  "Food name": "Sweet dattock, whole, raw",
+  "Energy": 372,
+  "Protein": 10.6,
+  "Carbs": 33.9,
+  "Fat": "17.2"
+ },
+ {
+  "Code": "03_105",
+  "Food name": "Sweet dattock, not soaked, boiled* (without salt), drained",
+  "Energy": 143,
+  "Protein": 4.1,
+  "Carbs": 13,
+  "Fat": "6.6"
+ },
+ {
+  "Code": "03_106",
+  "Food name": "Sweet dattock, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 90,
+  "Protein": 2.6,
+  "Carbs": 8.2,
+  "Fat": "4.2"
+ },
+ {
+  "Code": "03_107",
+  "Food name": "Sweet dattock, soaked, boiled in different water* (without salt), drained",
+  "Energy": 143,
+  "Protein": 4.1,
+  "Carbs": 13,
+  "Fat": "6.6"
+ },
+ {
+  "Code": "03_108",
+  "Food name": "Sweet dattock, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 90,
+  "Protein": 2.6,
+  "Carbs": 8.2,
+  "Fat": "4.2"
+ },
+ {
+  "Code": "03_059",
+  "Food name": "Velvet bean, dry, raw",
+  "Energy": 334,
+  "Protein": 28.8,
+  "Carbs": 33.9,
+  "Fat": 4.7
+ },
+ {
+  "Code": "03_138",
+  "Food name": "Velvet bean, not soaked, boiled* (without salt), drained",
+  "Energy": 128,
+  "Protein": 11,
+  "Carbs": 13,
+  "Fat": 1.8
+ },
+ {
+  "Code": "03_139",
+  "Food name": "Velvet bean, not soaked, boiled* (without salt), with cooking liquid",
+  "Energy": 81,
+  "Protein": 7,
+  "Carbs": 8.2,
+  "Fat": 1.1
+ },
+ {
+  "Code": "03_140",
+  "Food name": "Velvet bean, soaked, boiled in different water* (without salt), drained",
+  "Energy": 128,
+  "Protein": 11,
+  "Carbs": 13,
+  "Fat": 1.8
+ },
+ {
+  "Code": "03_141",
+  "Food name": "Velvet bean, soaked, boiled in different water* (without salt), with cooking liquid",
+  "Energy": 81,
+  "Protein": 7,
+  "Carbs": 8.2,
+  "Fat": 1.1
+ },
+ {
+  "Code": "04_023",
+  "Food name": "Amaranth, leaves, fresh, raw",
+  "Energy": 40,
+  "Protein": 4.1,
+  "Carbs": 3,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_086",
+  "Food name": "Amaranth, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 42,
+  "Protein": 4.4,
+  "Carbs": 3.2,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_024",
+  "Food name": "Amaranth, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 41,
+  "Protein": 4.2,
+  "Carbs": 3.1,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_002",
+  "Food name": "Baobab, leaves, dried",
+  "Energy": 241,
+  "Protein": 13.7,
+  "Carbs": 19.8,
+  "Fat": 2.3
+ },
+ {
+  "Code": "04_001",
+  "Food name": "Baobab, leaves, fresh, raw",
+  "Energy": 62,
+  "Protein": 3.9,
+  "Carbs": 5.4,
+  "Fat": 0.4
+ },
+ {
+  "Code": "04_087",
+  "Food name": "Baobab, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 66,
+  "Protein": 4.2,
+  "Carbs": 5.7,
+  "Fat": 0.4
+ },
+ {
+  "Code": "04_025",
+  "Food name": "Baobab, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 64,
+  "Protein": 4,
+  "Carbs": 5.5,
+  "Fat": 0.4
+ },
+ {
+  "Code": "04_081",
+  "Food name": "Bay, leaves, dried",
+  "Energy": 353,
+  "Protein": 7.6,
+  "Carbs": 48.7,
+  "Fat": 8.4
+ },
+ {
+  "Code": "04_003",
+  "Food name": "Bean, green, raw",
+  "Energy": 40,
+  "Protein": 2,
+  "Carbs": 5.2,
+  "Fat": 0.3
+ },
+ {
+  "Code": "04_088",
+  "Food name": "Bean, green, boiled* (as part of a recipe)",
+  "Energy": 43,
+  "Protein": 2.1,
+  "Carbs": 5.6,
+  "Fat": 0.3
+ },
+ {
+  "Code": "04_026",
+  "Food name": "Bean, green, boiled* (without salt), drained",
+  "Energy": 44,
+  "Protein": 2.2,
+  "Carbs": 5.8,
+  "Fat": 0.3
+ },
+ {
+  "Code": "04_005",
+  "Food name": "Cabbage, white, raw",
+  "Energy": 26,
+  "Protein": 1.6,
+  "Carbs": 3.6,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_090",
+  "Food name": "Cabbage, white, boiled* (as part of a recipe)",
+  "Energy": 28,
+  "Protein": 1.8,
+  "Carbs": 3.9,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_089",
+  "Food name": "Cabbage, white, boiled* (without salt), drained",
+  "Energy": 27,
+  "Protein": 1.7,
+  "Carbs": 3.7,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_006",
+  "Food name": "Carrot, raw",
+  "Energy": 34,
+  "Protein": 0.9,
+  "Carbs": 5.5,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_091",
+  "Food name": "Carrot, boiled* (as part of a recipe)",
+  "Energy": 35,
+  "Protein": 1,
+  "Carbs": 5.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_007",
+  "Food name": "Carrot, boiled* (without salt), drained",
+  "Energy": 36,
+  "Protein": 1,
+  "Carbs": 5.9,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_008",
+  "Food name": "Cassava, leaves, fresh, raw",
+  "Energy": 93,
+  "Protein": 7.6,
+  "Carbs": 9.1,
+  "Fat": 1.1
+ },
+ {
+  "Code": "04_092",
+  "Food name": "Cassava, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 99,
+  "Protein": 8,
+  "Carbs": 9.7,
+  "Fat": 1.2
+ },
+ {
+  "Code": "04_028",
+  "Food name": "Cassava, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 95,
+  "Protein": 7.7,
+  "Carbs": 9.3,
+  "Fat": 1.2
+ },
+ {
+  "Code": "04_009",
+  "Food name": "Cocoyam, leaves, fresh, raw",
+  "Energy": 39,
+  "Protein": 3.5,
+  "Carbs": 2.4,
+  "Fat": 0.7
+ },
+ {
+  "Code": "04_097",
+  "Food name": "Cocoyam, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 41,
+  "Protein": 3.7,
+  "Carbs": 2.5,
+  "Fat": 0.7
+ },
+ {
+  "Code": "04_029",
+  "Food name": "Cocoyam, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 39,
+  "Protein": 3.6,
+  "Carbs": 2.4,
+  "Fat": 0.7
+ },
+ {
+  "Code": "04_031",
+  "Food name": "Cowpea, leaves, dried",
+  "Energy": 262,
+  "Protein": 24.4,
+  "Carbs": 19.9,
+  "Fat": "1.8"
+ },
+ {
+  "Code": "04_010",
+  "Food name": "Cowpea, leaves, fresh, raw",
+  "Energy": 37,
+  "Protein": 4.4,
+  "Carbs": 1.7,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_098",
+  "Food name": "Cowpea, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 39,
+  "Protein": 4.6,
+  "Carbs": 1.8,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_030",
+  "Food name": "Cowpea, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 37,
+  "Protein": 4.5,
+  "Carbs": 1.8,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_032",
+  "Food name": "Cucumber, unpeeled, raw",
+  "Energy": 12,
+  "Protein": 0.7,
+  "Carbs": 0.9,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_012",
+  "Food name": "Eggplant, fruit, raw",
+  "Energy": 31,
+  "Protein": 1.1,
+  "Carbs": 4,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_102",
+  "Food name": "Eggplant, fruit, boiled* (as part of a recipe)",
+  "Energy": 39,
+  "Protein": 1.4,
+  "Carbs": 4.9,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_034",
+  "Food name": "Eggplant, fruit, boiled* (without salt), drained",
+  "Energy": 33,
+  "Protein": 1.2,
+  "Carbs": 4.3,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_013",
+  "Food name": "Eggplant, leaves, fresh, raw",
+  "Energy": 48,
+  "Protein": 4.4,
+  "Carbs": 3.7,
+  "Fat": 0.8
+ },
+ {
+  "Code": "04_105",
+  "Food name": "Eggplant, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 51,
+  "Protein": 4.7,
+  "Carbs": 3.9,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_035",
+  "Food name": "Eggplant, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 49,
+  "Protein": 4.5,
+  "Carbs": 3.7,
+  "Fat": 0.8
+ },
+ {
+  "Code": "04_014",
+  "Food name": "False sesame, leaves, dried",
+  "Energy": 269,
+  "Protein": 17.7,
+  "Carbs": 29.1,
+  "Fat": 3.6
+ },
+ {
+  "Code": "04_036",
+  "Food name": "False sesame, leaves, fresh, raw",
+  "Energy": 61,
+  "Protein": 5.3,
+  "Carbs": 5.4,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "04_106",
+  "Food name": "False sesame, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 65,
+  "Protein": 5.6,
+  "Carbs": 5.8,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "04_037",
+  "Food name": "False sesame, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 62,
+  "Protein": 5.4,
+  "Carbs": 5.5,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "04_015",
+  "Food name": "Garlic, flesh, raw",
+  "Energy": 126,
+  "Protein": 6.5,
+  "Carbs": 21.6,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_082",
+  "Food name": "Ginger, root, raw",
+  "Energy": 63,
+  "Protein": 2.2,
+  "Carbs": 9,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_131",
+  "Food name": "Green leafy vegetable, average, fresh, raw",
+  "Energy": 43,
+  "Protein": 3.3,
+  "Carbs": 4.1,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_133",
+  "Food name": "Green leafy vegetable, average, fresh, boiled* (as part of a recipe)",
+  "Energy": 46,
+  "Protein": 3.6,
+  "Carbs": 4.3,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_132",
+  "Food name": "Green leafy vegetable, average, fresh, boiled* (without salt), drained",
+  "Energy": 44,
+  "Protein": 3.4,
+  "Carbs": 4.2,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_073",
+  "Food name": "Hibiscus cannabinus, leaves, fresh, raw",
+  "Energy": 47,
+  "Protein": 2.8,
+  "Carbs": 5.2,
+  "Fat": 0.6
+ },
+ {
+  "Code": "04_100",
+  "Food name": "Hibiscus cannabinus, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 50,
+  "Protein": 3,
+  "Carbs": 5.5,
+  "Fat": 0.6
+ },
+ {
+  "Code": "04_099",
+  "Food name": "Hibiscus cannabinus, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 48,
+  "Protein": 2.9,
+  "Carbs": 5.3,
+  "Fat": 0.6
+ },
+ {
+  "Code": "04_016",
+  "Food name": "Hibiscus, leaves, fresh, raw",
+  "Energy": 40,
+  "Protein": 2.7,
+  "Carbs": 4.5,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_117",
+  "Food name": "Hibiscus, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 42,
+  "Protein": 2.9,
+  "Carbs": 4.8,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_056",
+  "Food name": "Hibiscus, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 41,
+  "Protein": 2.8,
+  "Carbs": 4.6,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_075",
+  "Food name": "Jute mallow (bush-okra), leaves, dried",
+  "Energy": 264,
+  "Protein": 22.4,
+  "Carbs": 20.7,
+  "Fat": "2.5"
+ },
+ {
+  "Code": "04_038",
+  "Food name": "Jute mallow (bush-okra), leaves, fresh, raw",
+  "Energy": 48,
+  "Protein": 4.2,
+  "Carbs": 3.2,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_107",
+  "Food name": "Jute mallow (bush-okra), leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 53,
+  "Protein": 4.6,
+  "Carbs": 3.4,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_039",
+  "Food name": "Jute mallow (bush-okra), leaves, fresh, boiled* (without salt), drained",
+  "Energy": 50,
+  "Protein": 4.4,
+  "Carbs": 3.2,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_040",
+  "Food name": "Lettuce, raw",
+  "Energy": 17,
+  "Protein": 1,
+  "Carbs": 1.7,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_076",
+  "Food name": "Maize, seeds, fresh, raw",
+  "Energy": 178,
+  "Protein": 5.8,
+  "Carbs": 23.8,
+  "Fat": 3.4
+ },
+ {
+  "Code": "04_109",
+  "Food name": "Maize, seeds, fresh, boiled* (as part of a recipe)",
+  "Energy": 189,
+  "Protein": 6,
+  "Carbs": 24.8,
+  "Fat": "3.6"
+ },
+ {
+  "Code": "04_108",
+  "Food name": "Maize, seeds, fresh, boiled* (without salt), drained",
+  "Energy": 189,
+  "Protein": 6,
+  "Carbs": 24.8,
+  "Fat": "3.6"
+ },
+ {
+  "Code": "04_085",
+  "Food name": "Mint, leaves, raw",
+  "Energy": 46,
+  "Protein": 4.7,
+  "Carbs": 2.3,
+  "Fat": 0.7
+ },
+ {
+  "Code": "04_011",
+  "Food name": "Moringa (drumstick), leaves, fresh, raw",
+  "Energy": 81,
+  "Protein": 8.4,
+  "Carbs": 4.5,
+  "Fat": "1.4"
+ },
+ {
+  "Code": "04_101",
+  "Food name": "Moringa (drumstick), leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 86,
+  "Protein": 8.9,
+  "Carbs": 4.8,
+  "Fat": "1.5"
+ },
+ {
+  "Code": "04_033",
+  "Food name": "Moringa (drumstick), leaves, fresh, boiled* (without salt), drained",
+  "Energy": 82,
+  "Protein": 8.5,
+  "Carbs": 4.6,
+  "Fat": "1.5"
+ },
+ {
+  "Code": "04_074",
+  "Food name": "Native eggplant, fruit, raw",
+  "Energy": 32,
+  "Protein": 1.3,
+  "Carbs": 3.9,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_104",
+  "Food name": "Native eggplant, fruit, boiled* (as part of a recipe)",
+  "Energy": 40,
+  "Protein": 1.7,
+  "Carbs": 4.8,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_103",
+  "Food name": "Native eggplant, fruit, boiled* (without salt), drained",
+  "Energy": 35,
+  "Protein": 1.4,
+  "Carbs": 4.2,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_004",
+  "Food name": "Okra, leaves, fresh, raw",
+  "Energy": 45,
+  "Protein": 2.5,
+  "Carbs": 5.1,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "04_110",
+  "Food name": "Okra, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 48,
+  "Protein": 2.6,
+  "Carbs": 5.4,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "04_041",
+  "Food name": "Okra, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 46,
+  "Protein": 2.5,
+  "Carbs": 5.2,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "04_077",
+  "Food name": "Okra, fruit, dried",
+  "Energy": 245,
+  "Protein": 12.8,
+  "Carbs": 21.8,
+  "Fat": "1.7"
+ },
+ {
+  "Code": "04_017",
+  "Food name": "Okra, fruit, fresh, raw",
+  "Energy": 34,
+  "Protein": 1.7,
+  "Carbs": 4.2,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_111",
+  "Food name": "Okra, fruit, fresh, boiled* (as part of a recipe)",
+  "Energy": 34,
+  "Protein": 1.7,
+  "Carbs": 4.2,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_042",
+  "Food name": "Okra, fruit, fresh, boiled* (without salt), drained",
+  "Energy": 31,
+  "Protein": 1.5,
+  "Carbs": 3.8,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_044",
+  "Food name": "Onion, dried",
+  "Energy": 354,
+  "Protein": 9.6,
+  "Carbs": 71.1,
+  "Fat": 1.1
+ },
+ {
+  "Code": "04_018",
+  "Food name": "Onion, fresh, raw",
+  "Energy": 37,
+  "Protein": 1.1,
+  "Carbs": 7.1,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_112",
+  "Food name": "Onion, fresh, boiled* (as part of a recipe)",
+  "Energy": 46,
+  "Protein": 1.4,
+  "Carbs": 8.7,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_043",
+  "Food name": "Onion, fresh, boiled* (without salt), drained",
+  "Energy": 46,
+  "Protein": 1.4,
+  "Carbs": 8.7,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "04_045",
+  "Food name": "Parsley, fresh, raw",
+  "Energy": 42,
+  "Protein": 3.5,
+  "Carbs": 3.9,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_049",
+  "Food name": "Pepper, sweet, green, fresh, raw",
+  "Energy": 34,
+  "Protein": 0.9,
+  "Carbs": 5.6,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_114",
+  "Food name": "Pepper, sweet, green, fresh, boiled* (as part of a recipe)",
+  "Energy": 39,
+  "Protein": 1,
+  "Carbs": 6.4,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_050",
+  "Food name": "Pepper, sweet, green, fresh, boiled* (without salt), drained",
+  "Energy": 39,
+  "Protein": 1,
+  "Carbs": 6.4,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_047",
+  "Food name": "Pepper, sweet, red, fresh, raw",
+  "Energy": 48,
+  "Protein": 2,
+  "Carbs": 7.1,
+  "Fat": 0.8
+ },
+ {
+  "Code": "04_113",
+  "Food name": "Pepper, sweet, red, fresh, boiled* (as part of a recipe)",
+  "Energy": 56,
+  "Protein": 2.3,
+  "Carbs": 8.1,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_048",
+  "Food name": "Pepper, sweet, red, fresh, boiled* (without salt), drained",
+  "Energy": 56,
+  "Protein": 2.3,
+  "Carbs": 8.1,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_046",
+  "Food name": "Pepper, chilli, fresh, raw",
+  "Energy": 47,
+  "Protein": 1.8,
+  "Carbs": 7.5,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "04_055",
+  "Food name": "Pumpkin, leaves, dried",
+  "Energy": 286,
+  "Protein": 38.3,
+  "Carbs": 18.3,
+  "Fat": "2.7"
+ },
+ {
+  "Code": "04_053",
+  "Food name": "Pumpkin, leaves, fresh, raw",
+  "Energy": 32,
+  "Protein": 4.1,
+  "Carbs": 2.4,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_116",
+  "Food name": "Pumpkin, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 34,
+  "Protein": 4.3,
+  "Carbs": 2.5,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_054",
+  "Food name": "Pumpkin, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 32,
+  "Protein": 4,
+  "Carbs": 2.4,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_051",
+  "Food name": "Pumpkin, squash, light orange flesh, raw",
+  "Energy": 34,
+  "Protein": 1,
+  "Carbs": 6,
+  "Fat": 0.1
+ },
+ {
+  "Code": "04_115",
+  "Food name": "Pumpkin, squash, light orange flesh, boiled* (as part of a recipe)",
+  "Energy": 30,
+  "Protein": 0.9,
+  "Carbs": 5.3,
+  "Fat": 0.1
+ },
+ {
+  "Code": "04_052",
+  "Food name": "Pumpkin, squash, light orange flesh, boiled* (without salt), drained",
+  "Energy": 37,
+  "Protein": 1.1,
+  "Carbs": 6.6,
+  "Fat": 0.1
+ },
+ {
+  "Code": "04_071",
+  "Food name": "Sicklepod, leaves, dried",
+  "Energy": 286,
+  "Protein": 21.4,
+  "Carbs": "37.8",
+  "Fat": "0.9"
+ },
+ {
+  "Code": "04_084",
+  "Food name": "Sicklepod, leaves, fresh, raw",
+  "Energy": 95,
+  "Protein": 5.9,
+  "Carbs": "13.9",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_094",
+  "Food name": "Sicklepod, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 101,
+  "Protein": 6.3,
+  "Carbs": "14.8",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_093",
+  "Food name": "Sicklepod, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 97,
+  "Protein": 6.1,
+  "Carbs": "14.2",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_072",
+  "Food name": "Spider plant, leaves, fresh, raw",
+  "Energy": 44,
+  "Protein": 4.8,
+  "Carbs": 1.9,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "04_096",
+  "Food name": "Spider plant, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 46,
+  "Protein": 5.1,
+  "Carbs": 2,
+  "Fat": "1.0"
+ },
+ {
+  "Code": "04_095",
+  "Food name": "Spider plant, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 44,
+  "Protein": 4.9,
+  "Carbs": 2,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "04_057",
+  "Food name": "Spinach, leaves, fresh, raw",
+  "Energy": 23,
+  "Protein": 2.9,
+  "Carbs": 0.7,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_118",
+  "Food name": "Spinach, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 28,
+  "Protein": 3.4,
+  "Carbs": 0.9,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_058",
+  "Food name": "Spinach, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 25,
+  "Protein": 3,
+  "Carbs": 0.8,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_059",
+  "Food name": "Sweet potato, leaves, fresh, raw",
+  "Energy": 50,
+  "Protein": 4.6,
+  "Carbs": 4.9,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_121",
+  "Food name": "Sweet potato, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 54,
+  "Protein": 4.9,
+  "Carbs": 5.2,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_060",
+  "Food name": "Sweet potato, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 53,
+  "Protein": 4.8,
+  "Carbs": 5.1,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_062",
+  "Food name": "Tamarind, leaves, dried",
+  "Energy": 286,
+  "Protein": 14,
+  "Carbs": 26.4,
+  "Fat": 3.5
+ },
+ {
+  "Code": "04_019",
+  "Food name": "Tamarind, leaves, fresh, raw",
+  "Energy": 64,
+  "Protein": 3.1,
+  "Carbs": 5.8,
+  "Fat": 0.8
+ },
+ {
+  "Code": "04_122",
+  "Food name": "Tamarind, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 68,
+  "Protein": 3.3,
+  "Carbs": 6.2,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_061",
+  "Food name": "Tamarind, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 66,
+  "Protein": 3.2,
+  "Carbs": 5.9,
+  "Fat": 0.8
+ },
+ {
+  "Code": "04_020",
+  "Food name": "Taro, leaves, fresh, raw",
+  "Energy": 39,
+  "Protein": 2.5,
+  "Carbs": 2.7,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "04_123",
+  "Food name": "Taro, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 42,
+  "Protein": 2.7,
+  "Carbs": 2.8,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "04_063",
+  "Food name": "Taro, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 40,
+  "Protein": 2.6,
+  "Carbs": 2.7,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "04_083",
+  "Food name": "Thyme, dried",
+  "Energy": 298,
+  "Protein": 9.1,
+  "Carbs": 30.2,
+  "Fat": 7.4
+ },
+ {
+  "Code": "04_065",
+  "Food name": "Tomato, canned, packed in juice",
+  "Energy": 18,
+  "Protein": 1,
+  "Carbs": 2,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_066",
+  "Food name": "Tomato, paste, concentrated, without salt",
+  "Energy": 80,
+  "Protein": 3.2,
+  "Carbs": 13.6,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "04_067",
+  "Food name": "Tomato, powder",
+  "Energy": 321,
+  "Protein": 12.9,
+  "Carbs": 58.2,
+  "Fat": 0.4
+ },
+ {
+  "Code": "04_021",
+  "Food name": "Tomato, red, ripe, raw",
+  "Energy": 22,
+  "Protein": 1.1,
+  "Carbs": 3.4,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_124",
+  "Food name": "Tomato, red, ripe, boiled* (as part of a recipe)",
+  "Energy": 28,
+  "Protein": 1.4,
+  "Carbs": 4.4,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_064",
+  "Food name": "Tomato, red, ripe, boiled* (without salt), drained",
+  "Energy": 28,
+  "Protein": 1.4,
+  "Carbs": 4.4,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "04_068",
+  "Food name": "Turnip, raw",
+  "Energy": 28,
+  "Protein": 1,
+  "Carbs": 4.4,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_125",
+  "Food name": "Turnip, boiled* (as part of a recipe)",
+  "Energy": 31,
+  "Protein": 1.1,
+  "Carbs": 4.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_069",
+  "Food name": "Turnip, boiled* (without salt), drained",
+  "Energy": 31,
+  "Protein": 1.1,
+  "Carbs": 4.8,
+  "Fat": 0.2
+ },
+ {
+  "Code": "04_022",
+  "Food name": "Vernonia, leaves, bitter, fresh, raw",
+  "Energy": 65,
+  "Protein": 5,
+  "Carbs": 6.7,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_126",
+  "Food name": "Vernonia, leaves, bitter, fresh, boiled* (as part of a recipe)",
+  "Energy": 69,
+  "Protein": 5.3,
+  "Carbs": 7.1,
+  "Fat": 1
+ },
+ {
+  "Code": "04_070",
+  "Food name": "Vernonia, leaves, bitter, fresh, boiled* (without salt), drained",
+  "Energy": 66,
+  "Protein": 5.1,
+  "Carbs": 6.8,
+  "Fat": 0.9
+ },
+ {
+  "Code": "04_079",
+  "Food name": "Vernonia, leaves, sweet, fresh, raw",
+  "Energy": 56,
+  "Protein": 2.5,
+  "Carbs": 8.9,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_128",
+  "Food name": "Vernonia, leaves, sweet, fresh, boiled* (as part of a recipe)",
+  "Energy": 59,
+  "Protein": 2.6,
+  "Carbs": 9.5,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_127",
+  "Food name": "Vernonia, leaves, sweet, fresh, boiled* (without salt), drained",
+  "Energy": 57,
+  "Protein": 2.5,
+  "Carbs": 9.1,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "04_078",
+  "Food name": "Waterleaf, leaves, fresh, raw",
+  "Energy": 40,
+  "Protein": 2.3,
+  "Carbs": 4.3,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_120",
+  "Food name": "Waterleaf, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 43,
+  "Protein": 2.5,
+  "Carbs": 4.6,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_119",
+  "Food name": "Waterleaf, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 41,
+  "Protein": 2.4,
+  "Carbs": 4.4,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_080",
+  "Food name": "Wild spinach, leaves, fresh, raw",
+  "Energy": 45,
+  "Protein": 5.1,
+  "Carbs": 2.5,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_130",
+  "Food name": "Wild spinach, leaves, fresh, boiled* (as part of a recipe)",
+  "Energy": 47,
+  "Protein": 5.4,
+  "Carbs": 2.6,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "04_129",
+  "Food name": "Wild spinach, leaves, fresh, boiled* (without salt), drained",
+  "Energy": 45,
+  "Protein": 5.2,
+  "Carbs": 2.5,
+  "Fat": "0.7"
+ },
+ {
+  "Code": "05_055",
+  "Food name": "African black plum\/chocolate berry, ripe, raw",
+  "Energy": 112,
+  "Protein": 0.4,
+  "Carbs": "26.4",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_023",
+  "Food name": "African fan palm, fruit, raw",
+  "Energy": 43,
+  "Protein": 0.5,
+  "Carbs": 8.8,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_024",
+  "Food name": "African locust bean, flour from fruit",
+  "Energy": 299,
+  "Protein": 4.6,
+  "Carbs": 52.2,
+  "Fat": "1.3"
+ },
+ {
+  "Code": "05_001",
+  "Food name": "African locust bean, fruit, raw",
+  "Energy": 285,
+  "Protein": 3.3,
+  "Carbs": 49.8,
+  "Fat": 1.8
+ },
+ {
+  "Code": "05_053",
+  "Food name": "African star apple, fruit, raw",
+  "Energy": 132,
+  "Protein": 3.4,
+  "Carbs": "16.4",
+  "Fat": "5.2"
+ },
+ {
+  "Code": "05_025",
+  "Food name": "Akee, fruit, raw",
+  "Energy": 208,
+  "Protein": 4.4,
+  "Carbs": "4.7",
+  "Fat": "18.8"
+ },
+ {
+  "Code": "05_046",
+  "Food name": "Apple, green, with skin, raw",
+  "Energy": 59,
+  "Protein": 0.2,
+  "Carbs": 12.1,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "05_047",
+  "Food name": "Apple, red, with skin, raw",
+  "Energy": 62,
+  "Protein": 0.2,
+  "Carbs": 12.7,
+  "Fat": "0.6"
+ },
+ {
+  "Code": "05_026",
+  "Food name": "Apple, with skin, raw",
+  "Energy": 59,
+  "Protein": 0.3,
+  "Carbs": 12.2,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "05_027",
+  "Food name": "Apple, without skin, raw",
+  "Energy": 59,
+  "Protein": 0.2,
+  "Carbs": 13.2,
+  "Fat": 0.2
+ },
+ {
+  "Code": "05_002",
+  "Food name": "Avocado, fruit, raw",
+  "Energy": 156,
+  "Protein": 1.6,
+  "Carbs": 2.1,
+  "Fat": 14.8
+ },
+ {
+  "Code": "05_048",
+  "Food name": "Banana, sweet, flesh, unripe (green), raw",
+  "Energy": 115,
+  "Protein": 1,
+  "Carbs": 24.9,
+  "Fat": "0.5"
+ },
+ {
+  "Code": "05_003",
+  "Food name": "Banana, white flesh, ripe, raw",
+  "Energy": 121,
+  "Protein": 1.3,
+  "Carbs": 27.7,
+  "Fat": 0.2
+ },
+ {
+  "Code": "05_028",
+  "Food name": "Banana, yellow flesh, ripe, raw",
+  "Energy": 89,
+  "Protein": 1.3,
+  "Carbs": 19.2,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_004",
+  "Food name": "Baobab, fruit\/monkey bread, raw",
+  "Energy": 305,
+  "Protein": 2.1,
+  "Carbs": "70.0",
+  "Fat": "0.3"
+ },
+ {
+  "Code": "05_005",
+  "Food name": "Breadfruit, fruit, raw",
+  "Energy": 96,
+  "Protein": 1.4,
+  "Carbs": 17.9,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "05_050",
+  "Food name": "Carambola (star fruit), raw",
+  "Energy": 30,
+  "Protein": 0.8,
+  "Carbs": 4.6,
+  "Fat": 0.3
+ },
+ {
+  "Code": "05_006",
+  "Food name": "Cashew apple, fruit, raw",
+  "Energy": 55,
+  "Protein": 1,
+  "Carbs": 10.9,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "05_029",
+  "Food name": "Clementine, raw",
+  "Energy": 49,
+  "Protein": 0.9,
+  "Carbs": 10.3,
+  "Fat": 0.2
+ },
+ {
+  "Code": "05_031",
+  "Food name": "Date, dried, raw",
+  "Energy": 282,
+  "Protein": 2.2,
+  "Carbs": 64.1,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_030",
+  "Food name": "Date, soft, raw",
+  "Energy": 202,
+  "Protein": 1.6,
+  "Carbs": "45.8",
+  "Fat": 0.1
+ },
+ {
+  "Code": "05_008",
+  "Food name": "Dattock, fruit, dried",
+  "Energy": 322,
+  "Protein": 3.4,
+  "Carbs": "71.2",
+  "Fat": "1.0"
+ },
+ {
+  "Code": "05_007",
+  "Food name": "Dattock, fruit, raw",
+  "Energy": 125,
+  "Protein": 1.9,
+  "Carbs": "27.3",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "05_033",
+  "Food name": "Fig, dried",
+  "Energy": 266,
+  "Protein": 3.1,
+  "Carbs": 56,
+  "Fat": "1.2"
+ },
+ {
+  "Code": "05_032",
+  "Food name": "Fig, raw",
+  "Energy": 74,
+  "Protein": 1,
+  "Carbs": 13.9,
+  "Fat": 0.6
+ },
+ {
+  "Code": "05_009",
+  "Food name": "Fig, sycomorus, raw",
+  "Energy": 67,
+  "Protein": 1.4,
+  "Carbs": 12.4,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "05_034",
+  "Food name": "Fruit cocktail, canned in syrup, undrained",
+  "Energy": 73,
+  "Protein": 0.4,
+  "Carbs": 17.2,
+  "Fat": 0.1
+ },
+ {
+  "Code": "05_035",
+  "Food name": "Grapefruit, white, raw",
+  "Energy": 32,
+  "Protein": 0.7,
+  "Carbs": 6.2,
+  "Fat": 0.1
+ },
+ {
+  "Code": "05_051",
+  "Food name": "Grapes, raw",
+  "Energy": 71,
+  "Protein": 0.6,
+  "Carbs": 16,
+  "Fat": "0.3"
+ },
+ {
+  "Code": "05_010",
+  "Food name": "Guava, fruit, raw",
+  "Energy": 68,
+  "Protein": 1,
+  "Carbs": 12.3,
+  "Fat": "0.4"
+ },
+ {
+  "Code": "05_011",
+  "Food name": "Gumvine, fruit, raw",
+  "Energy": 75,
+  "Protein": 0.6,
+  "Carbs": "17.0",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_012",
+  "Food name": "Jujube, raw",
+  "Energy": 29,
+  "Protein": 0.7,
+  "Carbs": 4.6,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_013",
+  "Food name": "Landolphia, fruit, raw",
+  "Energy": 86,
+  "Protein": 0.7,
+  "Carbs": "19.8",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_014",
+  "Food name": "Lemon, raw",
+  "Energy": 36,
+  "Protein": 0.7,
+  "Carbs": 5.8,
+  "Fat": 0.6
+ },
+ {
+  "Code": "05_036",
+  "Food name": "Mango, deep orange flesh, raw",
+  "Energy": 77,
+  "Protein": 0.4,
+  "Carbs": 17.7,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_015",
+  "Food name": "Mango, orange flesh, ripe, raw",
+  "Energy": 70,
+  "Protein": 0.6,
+  "Carbs": 15.3,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_037",
+  "Food name": "Mango, pale flesh, raw",
+  "Energy": 52,
+  "Protein": 0.9,
+  "Carbs": 10.7,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_039",
+  "Food name": "Melon, cantaloupe, orange flesh, raw",
+  "Energy": 38,
+  "Protein": 0.8,
+  "Carbs": "8.0",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_038",
+  "Food name": "Melon, honeydew, pale green flesh, raw",
+  "Energy": 43,
+  "Protein": 0.7,
+  "Carbs": 9,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_052",
+  "Food name": "Mombin\/hog-plum, fruit, raw",
+  "Energy": 63,
+  "Protein": 1.6,
+  "Carbs": 12.6,
+  "Fat": 0.3
+ },
+ {
+  "Code": "05_040",
+  "Food name": "Oil palm, fruit, raw",
+  "Energy": 540,
+  "Protein": 1.9,
+  "Carbs": "12.9",
+  "Fat": "52.6"
+ },
+ {
+  "Code": "05_016",
+  "Food name": "Orange, raw",
+  "Energy": 44,
+  "Protein": 0.7,
+  "Carbs": 8.7,
+  "Fat": 0.4
+ },
+ {
+  "Code": "05_017",
+  "Food name": "Papaya, fruit, ripe, raw",
+  "Energy": 59,
+  "Protein": 0.4,
+  "Carbs": 13,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_018",
+  "Food name": "Pineapple, fruit, raw",
+  "Energy": 53,
+  "Protein": 0.4,
+  "Carbs": 11.4,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_041",
+  "Food name": "Pomegranate, fruit, raw",
+  "Energy": 76,
+  "Protein": 1.3,
+  "Carbs": 14.9,
+  "Fat": 0.3
+ },
+ {
+  "Code": "05_044",
+  "Food name": "Shea, fruit, raw",
+  "Energy": 101,
+  "Protein": 1.5,
+  "Carbs": 19.8,
+  "Fat": 0.9
+ },
+ {
+  "Code": "05_019",
+  "Food name": "Soapberry, fruit, raw",
+  "Energy": 110,
+  "Protein": 1.6,
+  "Carbs": "25.5",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_054",
+  "Food name": "Soursop, fruit, raw",
+  "Energy": 77,
+  "Protein": 1.2,
+  "Carbs": 13.9,
+  "Fat": "0.8"
+ },
+ {
+  "Code": "05_045",
+  "Food name": "Sweet apple, fruit, raw",
+  "Energy": 93,
+  "Protein": 1.5,
+  "Carbs": 18.8,
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_056",
+  "Food name": "Sweet baobab paste (Burkina Faso)*",
+  "Energy": 95,
+  "Protein": 0.4,
+  "Carbs": 22.4,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "05_020",
+  "Food name": "Tamarind, immature fruit, raw",
+  "Energy": 59,
+  "Protein": 2,
+  "Carbs": "8.2",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "05_021",
+  "Food name": "Tamarind, fruit, ripe, raw",
+  "Energy": 278,
+  "Protein": 3.7,
+  "Carbs": 61.3,
+  "Fat": "0.9"
+ },
+ {
+  "Code": "05_022",
+  "Food name": "Watermelon, fruit, raw",
+  "Energy": 25,
+  "Protein": 0.5,
+  "Carbs": 5,
+  "Fat": "0.1"
+ },
+ {
+  "Code": "06_031",
+  "Food name": "African breadfruit, seed without hull, dried",
+  "Energy": 351,
+  "Protein": 13.3,
+  "Carbs": 70.9,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "06_039",
+  "Food name": "Benniseed, dried, raw",
+  "Energy": 530,
+  "Protein": 17.4,
+  "Carbs": 17.1,
+  "Fat": "40.5"
+ },
+ {
+  "Code": "06_033",
+  "Food name": "Bitter cola, seeds, dried, raw",
+  "Energy": 373,
+  "Protein": 5.2,
+  "Carbs": 76.3,
+  "Fat": "4.4"
+ },
+ {
+  "Code": "06_032",
+  "Food name": "Bitter cola, seeds, fresh, raw",
+  "Energy": 183,
+  "Protein": 2.6,
+  "Carbs": 37.3,
+  "Fat": "2.1"
+ },
+ {
+  "Code": "06_001",
+  "Food name": "Cashew nut, raw",
+  "Energy": 591,
+  "Protein": 16.1,
+  "Carbs": 27.8,
+  "Fat": 45.4
+ },
+ {
+  "Code": "06_005",
+  "Food name": "Coconut, kernel, dried, raw",
+  "Energy": 579,
+  "Protein": 7.3,
+  "Carbs": 14.2,
+  "Fat": "51.3"
+ },
+ {
+  "Code": "06_004",
+  "Food name": "Coconut, immature kernel, fresh, raw",
+  "Energy": 147,
+  "Protein": 1.5,
+  "Carbs": 6.1,
+  "Fat": "12.2"
+ },
+ {
+  "Code": "06_002",
+  "Food name": "Coconut, mature kernel, fresh, raw",
+  "Energy": 383,
+  "Protein": 3.3,
+  "Carbs": 5,
+  "Fat": 36.8
+ },
+ {
+  "Code": "06_006",
+  "Food name": "Coconut milk, fresh or canned",
+  "Energy": 201,
+  "Protein": 0.1,
+  "Carbs": 3.9,
+  "Fat": 20.3
+ },
+ {
+  "Code": "06_019",
+  "Food name": "Cola nut, dried, raw",
+  "Energy": 282,
+  "Protein": 7,
+  "Carbs": 40.9,
+  "Fat": 2.1
+ },
+ {
+  "Code": "06_018",
+  "Food name": "Cola nut, fresh, raw",
+  "Energy": 135,
+  "Protein": 2.8,
+  "Carbs": 20.2,
+  "Fat": 1
+ },
+ {
+  "Code": "06_008",
+  "Food name": "Dikanut, kernel, dried, raw",
+  "Energy": 650,
+  "Protein": 7.6,
+  "Carbs": 5.5,
+  "Fat": "62.6"
+ },
+ {
+  "Code": "06_009",
+  "Food name": "False sesame seeds, dried, raw",
+  "Energy": 454,
+  "Protein": 15.4,
+  "Carbs": 20.4,
+  "Fat": "29.3"
+ },
+ {
+  "Code": "06_028",
+  "Food name": "Groundnut flour, partially defatted",
+  "Energy": 381,
+  "Protein": 42.5,
+  "Carbs": 22.6,
+  "Fat": "9.9"
+ },
+ {
+  "Code": "06_027",
+  "Food name": "Groundnut flour, with fat",
+  "Energy": 579,
+  "Protein": 25.9,
+  "Carbs": 9.6,
+  "Fat": 46.4
+ },
+ {
+  "Code": "06_026",
+  "Food name": "Groundnut paste, from groundnuts only",
+  "Energy": 605,
+  "Protein": 23.9,
+  "Carbs": 11,
+  "Fat": "49.9"
+ },
+ {
+  "Code": "06_023",
+  "Food name": "Groundnut, Chinese, shelled, dried, raw (Ghana), n=1",
+  "Energy": 562,
+  "Protein": 20.5,
+  "Carbs": 23.2,
+  "Fat": "41.1"
+ },
+ {
+  "Code": "06_025",
+  "Food name": "Groundnut, combined varieties, shelled, dried, raw (Ghana)",
+  "Energy": 566,
+  "Protein": 22.4,
+  "Carbs": 14.7,
+  "Fat": "44.5"
+ },
+ {
+  "Code": "06_021",
+  "Food name": "Groundnut, F-mix variety, shelled, dried, raw (Ghana), n=1",
+  "Energy": 575,
+  "Protein": 22.3,
+  "Carbs": 10.4,
+  "Fat": "47.6"
+ },
+ {
+  "Code": "06_022",
+  "Food name": "Groundnut, JL 24 variety, shelled, dried, raw (Ghana), n=1",
+  "Energy": 531,
+  "Protein": 25.2,
+  "Carbs": 17.6,
+  "Fat": "38.1"
+ },
+ {
+  "Code": "06_024",
+  "Food name": "Groundnut, Manipintar variety, shelled, dried, raw (Ghana), n=1",
+  "Energy": 577,
+  "Protein": 23.3,
+  "Carbs": 11.7,
+  "Fat": "46.7"
+ },
+ {
+  "Code": "06_012",
+  "Food name": "Groundnut, red, shelled, dried, raw (Benin)",
+  "Energy": 577,
+  "Protein": 21.7,
+  "Carbs": 16.5,
+  "Fat": 45.1
+ },
+ {
+  "Code": "06_011",
+  "Food name": "Groundnut, rose, shelled, dried, raw (Benin)",
+  "Energy": 567,
+  "Protein": 20.4,
+  "Carbs": 20.3,
+  "Fat": 43.2
+ },
+ {
+  "Code": "06_010",
+  "Food name": "Groundnut, shelled, dried, raw",
+  "Energy": 574,
+  "Protein": 22.4,
+  "Carbs": 17.4,
+  "Fat": 44.2
+ },
+ {
+  "Code": "06_020",
+  "Food name": "Groundnut, Sinkarzie variety, shelled, dried, raw (Ghana), n=1",
+  "Energy": 585,
+  "Protein": 20.6,
+  "Carbs": 11.7,
+  "Fat": "48.8"
+ },
+ {
+  "Code": "06_030",
+  "Food name": "Hibiscus seed, red, dried, raw",
+  "Energy": 417,
+  "Protein": 0.6,
+  "Carbs": 58.1,
+  "Fat": 17.8
+ },
+ {
+  "Code": "06_035",
+  "Food name": "Melon seed (citrullus spp.), kernel only, dried, raw",
+  "Energy": 565,
+  "Protein": 19.5,
+  "Carbs": 19,
+  "Fat": "44.4"
+ },
+ {
+  "Code": "06_013",
+  "Food name": "Melon seed, kernel only, dried, raw",
+  "Energy": 574,
+  "Protein": 27.6,
+  "Carbs": 11.6,
+  "Fat": 45
+ },
+ {
+  "Code": "06_036",
+  "Food name": "Melon seed, small, elongated, kernel only, dried, raw",
+  "Energy": 566,
+  "Protein": 15.1,
+  "Carbs": 29,
+  "Fat": "41.9"
+ },
+ {
+  "Code": "06_037",
+  "Food name": "Melon seed, small, flat, kernel only, dried, raw",
+  "Energy": 587,
+  "Protein": 23.3,
+  "Carbs": 12.6,
+  "Fat": "47.9"
+ },
+ {
+  "Code": "06_029",
+  "Food name": "Oil palm, nut (kernel), shelled, raw",
+  "Energy": 558,
+  "Protein": 6.2,
+  "Carbs": 28.1,
+  "Fat": "45.8"
+ },
+ {
+  "Code": "06_038",
+  "Food name": "Pumpkin seed, kernel only, dried, raw",
+  "Energy": 567,
+  "Protein": 27.7,
+  "Carbs": 9,
+  "Fat": 45.4
+ },
+ {
+  "Code": "06_015",
+  "Food name": "Sesame seed, whole, dried, raw",
+  "Energy": 601,
+  "Protein": 16.6,
+  "Carbs": 4.9,
+  "Fat": 54.1
+ },
+ {
+  "Code": "06_016",
+  "Food name": "Shea nut, kernel, dried, raw",
+  "Energy": 567,
+  "Protein": 6.8,
+  "Carbs": 34.1,
+  "Fat": "43.5"
+ },
+ {
+  "Code": "07_008",
+  "Food name": "Ant, flying, dried",
+  "Energy": "514",
+  "Protein": "42.2",
+  "Carbs": "11.2",
+  "Fat": "31.9"
+ },
+ {
+  "Code": "07_026",
+  "Food name": "Bamboo caterpillar, deep fried, salted",
+  "Energy": "644",
+  "Protein": "25.5",
+  "Carbs": "11.0",
+  "Fat": "55.3"
+ },
+ {
+  "Code": "07_019",
+  "Food name": "Beef kidney, raw",
+  "Energy": "98",
+  "Protein": "16.4",
+  "Carbs": "0",
+  "Fat": "3.6"
+ },
+ {
+  "Code": "07_090",
+  "Food name": "Beef kidney, boiled* (without salt), drained",
+  "Energy": "156",
+  "Protein": "26.0",
+  "Carbs": "0.1",
+  "Fat": "5.8"
+ },
+ {
+  "Code": "07_091",
+  "Food name": "Beef kidney, grilled* (without salt or fat)",
+  "Energy": "154",
+  "Protein": "25.6",
+  "Carbs": "0.1",
+  "Fat": "5.7"
+ },
+ {
+  "Code": "07_020",
+  "Food name": "Beef kidney, stewed* (as part of a recipe)",
+  "Energy": "156",
+  "Protein": "26.0",
+  "Carbs": "0.1",
+  "Fat": "5.8"
+ },
+ {
+  "Code": "07_001",
+  "Food name": "Beef liver, raw",
+  "Energy": "128",
+  "Protein": "19.3",
+  "Carbs": "3.4",
+  "Fat": "4.2"
+ },
+ {
+  "Code": "07_018",
+  "Food name": "Beef liver, boiled* (without salt), drained",
+  "Energy": "194",
+  "Protein": "29.2",
+  "Carbs": "5.2",
+  "Fat": "6.3"
+ },
+ {
+  "Code": "07_088",
+  "Food name": "Beef liver, grilled* (without salt or fat)",
+  "Energy": "158",
+  "Protein": "23.8",
+  "Carbs": "4.2",
+  "Fat": "5.2"
+ },
+ {
+  "Code": "07_089",
+  "Food name": "Beef liver, stewed* (as part of a recipe)",
+  "Energy": "171",
+  "Protein": "25.7",
+  "Carbs": "4.5",
+  "Fat": "5.6"
+ },
+ {
+  "Code": "07_014",
+  "Food name": "Beef meat, fatty, ca. 30% fat, raw",
+  "Energy": "321",
+  "Protein": "17.5",
+  "Carbs": "0",
+  "Fat": "27.9"
+ },
+ {
+  "Code": "07_015",
+  "Food name": "Beef meat, fatty, ca. 30% fat, boiled* (without salt), drained",
+  "Energy": "456",
+  "Protein": "29.1",
+  "Carbs": "0",
+  "Fat": "37.8"
+ },
+ {
+  "Code": "07_016",
+  "Food name": "Beef meat, fatty, ca. 30% fat, grilled* (without salt or fat)",
+  "Energy": "400",
+  "Protein": "24.3",
+  "Carbs": "0",
+  "Fat": "33.7"
+ },
+ {
+  "Code": "07_087",
+  "Food name": "Beef meat, fatty, ca. 30% fat, stewed* (as part of a recipe)",
+  "Energy": "452",
+  "Protein": "24.6",
+  "Carbs": "0",
+  "Fat": "39.3"
+ },
+ {
+  "Code": "07_023",
+  "Food name": "Beef meat, ground, ca. 10% fat, raw",
+  "Energy": "174",
+  "Protein": "20.3",
+  "Carbs": "0",
+  "Fat": "10.3"
+ },
+ {
+  "Code": "07_024",
+  "Food name": "Beef meat, ground, ca. 10% fat, grilled* (without salt or fat)",
+  "Energy": "217",
+  "Protein": "28.1",
+  "Carbs": "0",
+  "Fat": "11.6"
+ },
+ {
+  "Code": "07_134",
+  "Food name": "Beef meat, ground, ca. 10% fat, stewed* (as part of a recipe)",
+  "Energy": "242",
+  "Protein": "28.1",
+  "Carbs": "0",
+  "Fat": "14.3"
+ },
+ {
+  "Code": "07_009",
+  "Food name": "Beef meat, lean, ca. 5% fat, raw",
+  "Energy": "131",
+  "Protein": "22.5",
+  "Carbs": "0",
+  "Fat": "4.6"
+ },
+ {
+  "Code": "07_010",
+  "Food name": "Beef meat, lean, ca. 5% fat, boiled* (without salt), drained",
+  "Energy": "219",
+  "Protein": "37.5",
+  "Carbs": "0",
+  "Fat": "7.6"
+ },
+ {
+  "Code": "07_011",
+  "Food name": "Beef meat, lean, ca. 5% fat, grilled* (without salt or fat)",
+  "Energy": "182",
+  "Protein": "31.3",
+  "Carbs": "0",
+  "Fat": "6.3"
+ },
+ {
+  "Code": "07_085",
+  "Food name": "Beef meat, lean, ca. 5% fat, stewed* (as part of a recipe)",
+  "Energy": "185",
+  "Protein": "31.7",
+  "Carbs": "0",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "07_017",
+  "Food name": "Beef meat, lean, cured, dried",
+  "Energy": "142",
+  "Protein": "31.1",
+  "Carbs": "0",
+  "Fat": "1.9"
+ },
+ {
+  "Code": "07_002",
+  "Food name": "Beef meat, moderately fat, ca. 20% fat, raw",
+  "Energy": "239",
+  "Protein": "18.6",
+  "Carbs": "0",
+  "Fat": "18.2"
+ },
+ {
+  "Code": "07_012",
+  "Food name": "Beef meat, moderately fat, ca. 20% fat, boiled* (without salt), drained",
+  "Energy": "320",
+  "Protein": "31.0",
+  "Carbs": "0",
+  "Fat": "21.7"
+ },
+ {
+  "Code": "07_013",
+  "Food name": "Beef meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)",
+  "Energy": "286",
+  "Protein": "25.9",
+  "Carbs": "0",
+  "Fat": "20.3"
+ },
+ {
+  "Code": "07_086",
+  "Food name": "Beef meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)",
+  "Energy": "336",
+  "Protein": "26.2",
+  "Carbs": "0",
+  "Fat": "25.7"
+ },
+ {
+  "Code": "07_021",
+  "Food name": "Beef tripe, raw",
+  "Energy": "84",
+  "Protein": "12.0",
+  "Carbs": "0",
+  "Fat": "4.0"
+ },
+ {
+  "Code": "07_022",
+  "Food name": "Beef tripe, boiled* (without salt), drained",
+  "Energy": "118",
+  "Protein": "16.8",
+  "Carbs": "0",
+  "Fat": "5.6"
+ },
+ {
+  "Code": "07_133",
+  "Food name": "Beef tripe, grilled* (without salt or fat)",
+  "Energy": "118",
+  "Protein": "16.8",
+  "Carbs": "0",
+  "Fat": "5.6"
+ },
+ {
+  "Code": "07_092",
+  "Food name": "Beef tripe, stewed* (as part of a recipe)",
+  "Energy": "118",
+  "Protein": "16.8",
+  "Carbs": "0",
+  "Fat": "5.6"
+ },
+ {
+  "Code": "07_025",
+  "Food name": "Beef, corned beef, canned",
+  "Energy": "208",
+  "Protein": "17.2",
+  "Carbs": "3.6",
+  "Fat": "13.8"
+ },
+ {
+  "Code": "07_064",
+  "Food name": "Camel meat, raw",
+  "Energy": "149",
+  "Protein": "19.9",
+  "Carbs": "0",
+  "Fat": "7.7"
+ },
+ {
+  "Code": "07_093",
+  "Food name": "Camel meat, boiled* (without salt), drained",
+  "Energy": "206",
+  "Protein": "33.1",
+  "Carbs": "0",
+  "Fat": "8.2"
+ },
+ {
+  "Code": "07_094",
+  "Food name": "Camel meat, grilled* (without salt or fat)",
+  "Energy": "182",
+  "Protein": "27.6",
+  "Carbs": "0",
+  "Fat": "8.0"
+ },
+ {
+  "Code": "07_095",
+  "Food name": "Camel meat, stewed* (as part of a recipe)",
+  "Energy": "210",
+  "Protein": "28.0",
+  "Carbs": "0",
+  "Fat": "10.8"
+ },
+ {
+  "Code": "07_039",
+  "Food name": "Chicken giblets, raw",
+  "Energy": "134",
+  "Protein": "17.6",
+  "Carbs": "1.0",
+  "Fat": "6.6"
+ },
+ {
+  "Code": "07_106",
+  "Food name": "Chicken giblets, boiled* (without salt), drained",
+  "Energy": "167",
+  "Protein": "25.9",
+  "Carbs": "1.5",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "07_107",
+  "Food name": "Chicken giblets, grilled* (without salt or fat)",
+  "Energy": "166",
+  "Protein": "25.5",
+  "Carbs": "1.4",
+  "Fat": "6.5"
+ },
+ {
+  "Code": "07_040",
+  "Food name": "Chicken giblets, stewed* (as part of a recipe)",
+  "Energy": "194",
+  "Protein": "25.5",
+  "Carbs": "1.4",
+  "Fat": "9.6"
+ },
+ {
+  "Code": "07_041",
+  "Food name": "Chicken liver, raw",
+  "Energy": "114",
+  "Protein": "18.3",
+  "Carbs": "1.3",
+  "Fat": "4.0"
+ },
+ {
+  "Code": "07_108",
+  "Food name": "Chicken liver, boiled* (without salt), drained",
+  "Energy": "173",
+  "Protein": "27.7",
+  "Carbs": "2.0",
+  "Fat": "6.1"
+ },
+ {
+  "Code": "07_109",
+  "Food name": "Chicken liver, grilled* (without salt or fat)",
+  "Energy": "141",
+  "Protein": "22.6",
+  "Carbs": "1.6",
+  "Fat": "4.9"
+ },
+ {
+  "Code": "07_042",
+  "Food name": "Chicken liver, stewed* (as part of a recipe)",
+  "Energy": "152",
+  "Protein": "24.4",
+  "Carbs": "1.7",
+  "Fat": "5.3"
+ },
+ {
+  "Code": "07_030",
+  "Food name": "Chicken, dark meat with skin, raw",
+  "Energy": "232",
+  "Protein": "16.7",
+  "Carbs": "0",
+  "Fat": "18.3"
+ },
+ {
+  "Code": "07_031",
+  "Food name": "Chicken, dark meat with skin, boiled* (without salt), drained",
+  "Energy": "268",
+  "Protein": "22.0",
+  "Carbs": "0",
+  "Fat": "20.0"
+ },
+ {
+  "Code": "07_032",
+  "Food name": "Chicken, dark meat with skin, grilled* (without salt or fat)",
+  "Energy": "264",
+  "Protein": "21.4",
+  "Carbs": "0",
+  "Fat": "19.8"
+ },
+ {
+  "Code": "07_103",
+  "Food name": "Chicken, dark meat with skin, stewed* (as part of a recipe)",
+  "Energy": "331",
+  "Protein": "23.8",
+  "Carbs": "0",
+  "Fat": "26.2"
+ },
+ {
+  "Code": "07_003",
+  "Food name": "Chicken, dark meat without skin, raw",
+  "Energy": "146",
+  "Protein": "19.4",
+  "Carbs": "0",
+  "Fat": "7.6"
+ },
+ {
+  "Code": "07_028",
+  "Food name": "Chicken, dark meat without skin, boiled* (without salt), drained",
+  "Energy": "172",
+  "Protein": "25.5",
+  "Carbs": "0",
+  "Fat": "7.8"
+ },
+ {
+  "Code": "07_029",
+  "Food name": "Chicken, dark meat without skin, grilled* (without salt or fat)",
+  "Energy": "169",
+  "Protein": "24.8",
+  "Carbs": "0",
+  "Fat": "7.8"
+ },
+ {
+  "Code": "07_102",
+  "Food name": "Chicken, dark meat without skin, stewed* (as part of a recipe)",
+  "Energy": "209",
+  "Protein": "27.7",
+  "Carbs": "0",
+  "Fat": "10.9"
+ },
+ {
+  "Code": "07_036",
+  "Food name": "Chicken, light meat with skin, raw",
+  "Energy": "165",
+  "Protein": "20.1",
+  "Carbs": "0",
+  "Fat": "9.4"
+ },
+ {
+  "Code": "07_037",
+  "Food name": "Chicken, light meat with skin, boiled* (without salt), drained",
+  "Energy": "197",
+  "Protein": "26.4",
+  "Carbs": "0",
+  "Fat": "10.2"
+ },
+ {
+  "Code": "07_038",
+  "Food name": "Chicken, light meat with skin, grilled* (without salt or fat)",
+  "Energy": "194",
+  "Protein": "25.8",
+  "Carbs": "0",
+  "Fat": "10.1"
+ },
+ {
+  "Code": "07_104",
+  "Food name": "Chicken, light meat with skin, stewed* (as part of a recipe)",
+  "Energy": "236",
+  "Protein": "28.7",
+  "Carbs": "0",
+  "Fat": "13.4"
+ },
+ {
+  "Code": "07_033",
+  "Food name": "Chicken, light meat without skin, raw",
+  "Energy": "116",
+  "Protein": "23.0",
+  "Carbs": "0",
+  "Fat": "2.7"
+ },
+ {
+  "Code": "07_034",
+  "Food name": "Chicken, light meat without skin, boiled* (without salt), drained",
+  "Energy": "153",
+  "Protein": "30.3",
+  "Carbs": "0",
+  "Fat": "3.6"
+ },
+ {
+  "Code": "07_035",
+  "Food name": "Chicken, light meat without skin, grilled* (without salt or fat)",
+  "Energy": "149",
+  "Protein": "29.5",
+  "Carbs": "0",
+  "Fat": "3.5"
+ },
+ {
+  "Code": "07_105",
+  "Food name": "Chicken, light meat without skin, stewed* (as part of a recipe)",
+  "Energy": "166",
+  "Protein": "32.9",
+  "Carbs": "0",
+  "Fat": "3.9"
+ },
+ {
+  "Code": "07_075",
+  "Food name": "Cricket, dried, raw",
+  "Energy": "435",
+  "Protein": "54.5",
+  "Carbs": "1.5",
+  "Fat": "21.2"
+ },
+ {
+  "Code": "07_074",
+  "Food name": "Cricket, fresh, raw",
+  "Energy": "151",
+  "Protein": "19.0",
+  "Carbs": "0.4",
+  "Fat": "7.4"
+ },
+ {
+  "Code": "07_076",
+  "Food name": "Cricket, bush (katydid), raw",
+  "Energy": "189",
+  "Protein": "13.6",
+  "Carbs": "0.9",
+  "Fat": "14.3"
+ },
+ {
+  "Code": "07_044",
+  "Food name": "Crocodile meat, raw",
+  "Energy": "121",
+  "Protein": "19.4",
+  "Carbs": "0",
+  "Fat": "4.8"
+ },
+ {
+  "Code": "07_045",
+  "Food name": "Crocodile meat, boiled* (without salt), drained",
+  "Energy": "209",
+  "Protein": "33.5",
+  "Carbs": "0",
+  "Fat": "8.3"
+ },
+ {
+  "Code": "07_110",
+  "Food name": "Crocodile meat, grilled* (without salt or fat)",
+  "Energy": "209",
+  "Protein": "33.5",
+  "Carbs": "0",
+  "Fat": "8.3"
+ },
+ {
+  "Code": "07_111",
+  "Food name": "Crocodile meat, stewed* (as part of a recipe)",
+  "Energy": "209",
+  "Protein": "33.5",
+  "Carbs": "0",
+  "Fat": "8.3"
+ },
+ {
+  "Code": "07_136",
+  "Food name": "Fried mopane worms with vegetables (Burkina Faso)*",
+  "Energy": "175",
+  "Protein": "9.2",
+  "Carbs": "4.7",
+  "Fat": "12.7"
+ },
+ {
+  "Code": "07_027",
+  "Food name": "Game meat, dried, salted",
+  "Energy": "330",
+  "Protein": "66.7",
+  "Carbs": "0",
+  "Fat": "7.0"
+ },
+ {
+  "Code": "07_069",
+  "Food name": "Goat meat, lean, raw",
+  "Energy": "115",
+  "Protein": "19.2",
+  "Carbs": "0",
+  "Fat": "4.3"
+ },
+ {
+  "Code": "07_113",
+  "Food name": "Goat meat, lean, boiled* (without salt), drained",
+  "Energy": "172",
+  "Protein": "28.6",
+  "Carbs": "0",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "07_114",
+  "Food name": "Goat meat, lean, grilled* (without salt or fat)",
+  "Energy": "167",
+  "Protein": "27.8",
+  "Carbs": "0",
+  "Fat": "6.2"
+ },
+ {
+  "Code": "07_115",
+  "Food name": "Goat meat, lean, stewed* (as part of a recipe)",
+  "Energy": "202",
+  "Protein": "33.6",
+  "Carbs": "0",
+  "Fat": "7.5"
+ },
+ {
+  "Code": "07_046",
+  "Food name": "Goat meat, moderately fat, ca. 10% fat, raw",
+  "Energy": "160",
+  "Protein": "17.6",
+  "Carbs": "0",
+  "Fat": "10.0"
+ },
+ {
+  "Code": "07_047",
+  "Food name": "Goat meat, moderately fat, ca. 10% fat, boiled* (without salt), drained",
+  "Energy": "208",
+  "Protein": "26.3",
+  "Carbs": "0",
+  "Fat": "11.4"
+ },
+ {
+  "Code": "07_048",
+  "Food name": "Goat meat, moderately fat, ca. 10% fat, grilled* (without salt or fat)",
+  "Energy": "204",
+  "Protein": "25.6",
+  "Carbs": "0",
+  "Fat": "11.3"
+ },
+ {
+  "Code": "07_112",
+  "Food name": "Goat meat, moderately fat, ca. 10% fat, stewed* (as part of a recipe)",
+  "Energy": "281",
+  "Protein": "31.0",
+  "Carbs": "0",
+  "Fat": "17.5"
+ },
+ {
+  "Code": "07_070",
+  "Food name": "Guinea fowl meat, raw",
+  "Energy": "106",
+  "Protein": "21.5",
+  "Carbs": "0",
+  "Fat": "2.2"
+ },
+ {
+  "Code": "07_116",
+  "Food name": "Guinea fowl meat, boiled* (without salt), drained",
+  "Energy": "140",
+  "Protein": "28.3",
+  "Carbs": "0",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "07_117",
+  "Food name": "Guinea fowl meat, grilled* (without salt or fat)",
+  "Energy": "136",
+  "Protein": "27.6",
+  "Carbs": "0",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "07_118",
+  "Food name": "Guinea fowl meat, stewed* (as part of a recipe)",
+  "Energy": "152",
+  "Protein": "30.7",
+  "Carbs": "0",
+  "Fat": "3.2"
+ },
+ {
+  "Code": "07_135",
+  "Food name": "Kédjénou (Burkina Faso)*: chicken stew with vegetables",
+  "Energy": "48",
+  "Protein": "4.9",
+  "Carbs": "2.0",
+  "Fat": "2.2"
+ },
+ {
+  "Code": "07_051",
+  "Food name": "Lamb brain, raw",
+  "Energy": "118",
+  "Protein": "13.1",
+  "Carbs": "0.1",
+  "Fat": "7.3"
+ },
+ {
+  "Code": "07_129",
+  "Food name": "Lamb brain, boiled* (without salt), drained",
+  "Energy": "132",
+  "Protein": "16.3",
+  "Carbs": "0.1",
+  "Fat": "7.4"
+ },
+ {
+  "Code": "07_130",
+  "Food name": "Lamb brain, grilled* (without salt or fat)",
+  "Energy": "132",
+  "Protein": "16.3",
+  "Carbs": "0.1",
+  "Fat": "7.4"
+ },
+ {
+  "Code": "07_052",
+  "Food name": "Lamb brain, stewed* (as part of a recipe)",
+  "Energy": "148",
+  "Protein": "16.3",
+  "Carbs": "0.1",
+  "Fat": "9.1"
+ },
+ {
+  "Code": "07_053",
+  "Food name": "Lamb liver, raw",
+  "Energy": "165",
+  "Protein": "19.5",
+  "Carbs": "7.0",
+  "Fat": "6.6"
+ },
+ {
+  "Code": "07_054",
+  "Food name": "Lamb liver, boiled* (without salt), drained",
+  "Energy": "218",
+  "Protein": "29.5",
+  "Carbs": "10.6",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "07_131",
+  "Food name": "Lamb liver, grilled* (without salt or fat)",
+  "Energy": "189",
+  "Protein": "24.0",
+  "Carbs": "8.6",
+  "Fat": "6.5"
+ },
+ {
+  "Code": "07_132",
+  "Food name": "Lamb liver, stewed* (as part of a recipe)",
+  "Energy": "220",
+  "Protein": "26.0",
+  "Carbs": "9.3",
+  "Fat": "8.8"
+ },
+ {
+  "Code": "07_072",
+  "Food name": "Lamb\/mutton meat, lean, ca. 10% fat, raw",
+  "Energy": "139",
+  "Protein": "19.3",
+  "Carbs": "0",
+  "Fat": "6.9"
+ },
+ {
+  "Code": "07_126",
+  "Food name": "Lamb\/mutton meat, lean, ca. 10% fat, boiled* (without salt), drained",
+  "Energy": "177",
+  "Protein": "28.7",
+  "Carbs": "0",
+  "Fat": "6.9"
+ },
+ {
+  "Code": "07_127",
+  "Food name": "Lamb\/mutton meat, lean, ca. 10% fat, grilled* (without salt or fat)",
+  "Energy": "174",
+  "Protein": "27.9",
+  "Carbs": "0",
+  "Fat": "6.9"
+ },
+ {
+  "Code": "07_128",
+  "Food name": "Lamb\/mutton meat, lean, ca. 10% fat, stewed* (as part of a recipe)",
+  "Energy": "221",
+  "Protein": "30.6",
+  "Carbs": "0",
+  "Fat": "11.0"
+ },
+ {
+  "Code": "07_004",
+  "Food name": "Lamb\/mutton meat, moderately fat, ca. 20% fat, raw",
+  "Energy": "255",
+  "Protein": "16.3",
+  "Carbs": "0",
+  "Fat": "21.1"
+ },
+ {
+  "Code": "07_049",
+  "Food name": "Lamb\/mutton meat, moderately fat, ca. 20% fat, boiled* (without salt), drained",
+  "Energy": "324",
+  "Protein": "24.3",
+  "Carbs": "0",
+  "Fat": "25.1"
+ },
+ {
+  "Code": "07_050",
+  "Food name": "Lamb\/mutton meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)",
+  "Energy": "318",
+  "Protein": "23.6",
+  "Carbs": "0",
+  "Fat": "24.8"
+ },
+ {
+  "Code": "07_125",
+  "Food name": "Lamb\/mutton meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)",
+  "Energy": "405",
+  "Protein": "25.9",
+  "Carbs": "0",
+  "Fat": "33.5"
+ },
+ {
+  "Code": "07_079",
+  "Food name": "Larvae, fresh, raw",
+  "Energy": "190",
+  "Protein": "15.2",
+  "Carbs": "2.8",
+  "Fat": "12.6"
+ },
+ {
+  "Code": "07_056",
+  "Food name": "Mopane worm, canned",
+  "Energy": "97",
+  "Protein": "14.1",
+  "Carbs": "0.7",
+  "Fat": "3.6"
+ },
+ {
+  "Code": "07_067",
+  "Food name": "Ostrich meat, raw",
+  "Energy": "105",
+  "Protein": "21.0",
+  "Carbs": "0",
+  "Fat": "2.4"
+ },
+ {
+  "Code": "07_099",
+  "Food name": "Ostrich meat, boiled* (without salt), drained",
+  "Energy": "139",
+  "Protein": "27.6",
+  "Carbs": "0",
+  "Fat": "3.1"
+ },
+ {
+  "Code": "07_100",
+  "Food name": "Ostrich meat, grilled* (without salt or fat)",
+  "Energy": "135",
+  "Protein": "26.9",
+  "Carbs": "0",
+  "Fat": "3.0"
+ },
+ {
+  "Code": "07_101",
+  "Food name": "Ostrich meat, stewed* (as part of a recipe)",
+  "Energy": "150",
+  "Protein": "30.0",
+  "Carbs": "0",
+  "Fat": "3.4"
+ },
+ {
+  "Code": "07_005",
+  "Food name": "Pork meat, fatty, ca. 40% fat, raw",
+  "Energy": "392",
+  "Protein": "12.5",
+  "Carbs": "0",
+  "Fat": "38.0"
+ },
+ {
+  "Code": "07_059",
+  "Food name": "Pork meat, fatty, ca. 40% fat, boiled* (without salt), drained",
+  "Energy": "540",
+  "Protein": "19.2",
+  "Carbs": "0",
+  "Fat": "51.5"
+ },
+ {
+  "Code": "07_060",
+  "Food name": "Pork meat, fatty, ca. 40% fat, grilled* (without salt or fat)",
+  "Energy": "510",
+  "Protein": "17.9",
+  "Carbs": "0",
+  "Fat": "48.7"
+ },
+ {
+  "Code": "07_123",
+  "Food name": "Pork meat, fatty, ca. 40% fat, stewed* (as part of a recipe)",
+  "Energy": "603",
+  "Protein": "19.2",
+  "Carbs": "0",
+  "Fat": "58.5"
+ },
+ {
+  "Code": "07_071",
+  "Food name": "Pork meat, lean, ca. 10% fat, raw",
+  "Energy": "152",
+  "Protein": "18.6",
+  "Carbs": "0",
+  "Fat": "8.6"
+ },
+ {
+  "Code": "07_119",
+  "Food name": "Pork meat, lean, ca. 10% fat, boiled* (without salt), drained",
+  "Energy": "199",
+  "Protein": "28.5",
+  "Carbs": "0",
+  "Fat": "9.5"
+ },
+ {
+  "Code": "07_120",
+  "Food name": "Pork meat, lean, ca. 10% fat, grilled* (without salt or fat)",
+  "Energy": "190",
+  "Protein": "26.5",
+  "Carbs": "0",
+  "Fat": "9.3"
+ },
+ {
+  "Code": "07_121",
+  "Food name": "Pork meat, lean, ca. 10% fat, stewed* (as part of a recipe)",
+  "Energy": "202",
+  "Protein": "24.7",
+  "Carbs": "0",
+  "Fat": "11.5"
+ },
+ {
+  "Code": "07_006",
+  "Food name": "Pork meat, moderately fat, ca. 20% fat, raw",
+  "Energy": "277",
+  "Protein": "16.3",
+  "Carbs": "0",
+  "Fat": "23.5"
+ },
+ {
+  "Code": "07_057",
+  "Food name": "Pork meat, moderately fat, ca. 20% fat, boiled* (without salt), drained",
+  "Energy": "362",
+  "Protein": "25.0",
+  "Carbs": "0",
+  "Fat": "29.2"
+ },
+ {
+  "Code": "07_058",
+  "Food name": "Pork meat, moderately fat, ca. 20% fat, grilled* (without salt or fat)",
+  "Energy": "345",
+  "Protein": "23.2",
+  "Carbs": "0",
+  "Fat": "28.0"
+ },
+ {
+  "Code": "07_122",
+  "Food name": "Pork meat, moderately fat, ca. 20% fat, stewed* (as part of a recipe)",
+  "Energy": "425",
+  "Protein": "25.0",
+  "Carbs": "0",
+  "Fat": "36.2"
+ },
+ {
+  "Code": "07_007",
+  "Food name": "Rabbit meat, raw",
+  "Energy": "142",
+  "Protein": "21.3",
+  "Carbs": "0",
+  "Fat": 6.3
+ },
+ {
+  "Code": "07_124",
+  "Food name": "Rabbit meat, boiled* (without salt), drained",
+  "Energy": "177",
+  "Protein": "30.9",
+  "Carbs": "0",
+  "Fat": "6.0"
+ },
+ {
+  "Code": "07_062",
+  "Food name": "Rabbit meat, grilled* (without salt or fat)",
+  "Energy": "177",
+  "Protein": "30.9",
+  "Carbs": "0",
+  "Fat": "6.0"
+ },
+ {
+  "Code": "07_061",
+  "Food name": "Rabbit meat, stewed* (as part of a recipe)",
+  "Energy": "205",
+  "Protein": "30.9",
+  "Carbs": "0",
+  "Fat": "9.1"
+ },
+ {
+  "Code": "07_063",
+  "Food name": "Sausage, wiener (beef, pork, chicken) canned",
+  "Energy": "234",
+  "Protein": "12.4",
+  "Carbs": "1.2",
+  "Fat": "19.9"
+ },
+ {
+  "Code": "07_083",
+  "Food name": "Snail, raw",
+  "Energy": "88",
+  "Protein": "14.6",
+  "Carbs": "3.6",
+  "Fat": "1.7"
+ },
+ {
+  "Code": "07_084",
+  "Food name": "Snail, cooked",
+  "Energy": "138",
+  "Protein": "25.2",
+  "Carbs": "8.3",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "07_066",
+  "Food name": "Springbok meat, raw",
+  "Energy": "111",
+  "Protein": "23.1",
+  "Carbs": "0",
+  "Fat": "2.0"
+ },
+ {
+  "Code": "07_096",
+  "Food name": "Springbok meat, boiled* (without salt), drained",
+  "Energy": "185",
+  "Protein": "38.5",
+  "Carbs": "0",
+  "Fat": "3.4"
+ },
+ {
+  "Code": "07_097",
+  "Food name": "Springbok meat, grilled* (without salt or fat)",
+  "Energy": "154",
+  "Protein": "32.1",
+  "Carbs": "0",
+  "Fat": "2.8"
+ },
+ {
+  "Code": "07_098",
+  "Food name": "Springbok meat, stewed* (as part of a recipe)",
+  "Energy": "156",
+  "Protein": "32.6",
+  "Carbs": "0",
+  "Fat": "2.9"
+ },
+ {
+  "Code": "07_082",
+  "Food name": "Termite, dried, raw",
+  "Energy": "518",
+  "Protein": "34.1",
+  "Carbs": "8.7",
+  "Fat": "37.7"
+ },
+ {
+  "Code": "07_081",
+  "Food name": "Termite, fresh, raw",
+  "Energy": "153",
+  "Protein": "11.9",
+  "Carbs": "3.2",
+  "Fat": "9.7"
+ },
+ {
+  "Code": "08_005",
+  "Food name": "Egg, chicken, local breed, raw",
+  "Energy": 148,
+  "Protein": 12.7,
+  "Carbs": 0.8,
+  "Fat": "10.4"
+ },
+ {
+  "Code": "08_010",
+  "Food name": "Egg, chicken, local breed, boiled* (without salt)",
+  "Energy": 147.6,
+  "Protein": 12.7,
+  "Carbs": 0.8,
+  "Fat": "10.4"
+ },
+ {
+  "Code": "08_001",
+  "Food name": "Egg, chicken, raw",
+  "Energy": 150,
+  "Protein": 13.5,
+  "Carbs": 0.2,
+  "Fat": "10.6"
+ },
+ {
+  "Code": "08_002",
+  "Food name": "Egg, chicken, boiled* (without salt)",
+  "Energy": 150.2,
+  "Protein": 13.5,
+  "Carbs": 0.2,
+  "Fat": "10.6"
+ },
+ {
+  "Code": "08_003",
+  "Food name": "Egg, chicken, fried in oil",
+  "Energy": 197,
+  "Protein": 13.6,
+  "Carbs": 2,
+  "Fat": 14.9
+ },
+ {
+  "Code": "08_009",
+  "Food name": "Egg, duck, raw",
+  "Energy": 179,
+  "Protein": 11.8,
+  "Carbs": 2.4,
+  "Fat": 13.6
+ },
+ {
+  "Code": "08_014",
+  "Food name": "Egg, duck, boiled* (without salt)",
+  "Energy": 179.2,
+  "Protein": 11.8,
+  "Carbs": 2.4,
+  "Fat": 13.6
+ },
+ {
+  "Code": "08_008",
+  "Food name": "Egg, guinea fowl, raw",
+  "Energy": 184,
+  "Protein": 12.9,
+  "Carbs": 2.2,
+  "Fat": 13.8
+ },
+ {
+  "Code": "08_013",
+  "Food name": "Egg, guinea fowl, boiled* (without salt)",
+  "Energy": 184.60000000000002,
+  "Protein": 12.9,
+  "Carbs": 2.2,
+  "Fat": 13.8
+ },
+ {
+  "Code": "08_006",
+  "Food name": "Egg, quail, raw",
+  "Energy": 180,
+  "Protein": 15.6,
+  "Carbs": 2.7,
+  "Fat": 11.9
+ },
+ {
+  "Code": "08_011",
+  "Food name": "Egg, quail, boiled* (without salt)",
+  "Energy": 180.3,
+  "Protein": 15.6,
+  "Carbs": 2.7,
+  "Fat": 11.9
+ },
+ {
+  "Code": "08_007",
+  "Food name": "Egg, turkey, raw",
+  "Energy": 184,
+  "Protein": 11.5,
+  "Carbs": 5.1,
+  "Fat": "13.0"
+ },
+ {
+  "Code": "08_012",
+  "Food name": "Egg, turkey, boiled* (without salt)",
+  "Energy": 183.4,
+  "Protein": 11.5,
+  "Carbs": 5.1,
+  "Fat": "13.0"
+ },
+ {
+  "Code": "08_004",
+  "Food name": "Omelette, from chicken egg",
+  "Energy": 150,
+  "Protein": 10.6,
+  "Carbs": 0.6,
+  "Fat": 11.7
+ },
+ {
+  "Code": "09_007",
+  "Food name": "African carp, fillet, raw",
+  "Energy": 90,
+  "Protein": 18.2,
+  "Carbs": 0,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_061",
+  "Food name": "African carp, fillet, boiled* (as part of a recipe)",
+  "Energy": 108.7,
+  "Protein": 22,
+  "Carbs": 0,
+  "Fat": 2.3
+ },
+ {
+  "Code": "09_009",
+  "Food name": "African carp, fillet, grilled* (without salt or fat)",
+  "Energy": 129.9,
+  "Protein": 26.4,
+  "Carbs": 0,
+  "Fat": 2.7
+ },
+ {
+  "Code": "09_008",
+  "Food name": "African carp, fillet, steamed* (without salt)",
+  "Energy": 108.7,
+  "Protein": 22,
+  "Carbs": 0,
+  "Fat": 2.3
+ },
+ {
+  "Code": "09_012",
+  "Food name": "Anchovy, canned in oil, drained",
+  "Energy": 203,
+  "Protein": 28.9,
+  "Carbs": 0,
+  "Fat": 9.7
+ },
+ {
+  "Code": "09_001",
+  "Food name": "Anchovy, fillet, raw",
+  "Energy": 116,
+  "Protein": 18.9,
+  "Carbs": 0,
+  "Fat": 4.4
+ },
+ {
+  "Code": "09_062",
+  "Food name": "Anchovy, fillet, boiled* (as part of a recipe)",
+  "Energy": 138.9,
+  "Protein": 22.8,
+  "Carbs": 0,
+  "Fat": 5.3
+ },
+ {
+  "Code": "09_011",
+  "Food name": "Anchovy, fillet, grilled* (without salt or fat)",
+  "Energy": 167.2,
+  "Protein": 27.4,
+  "Carbs": 0,
+  "Fat": 6.4
+ },
+ {
+  "Code": "09_010",
+  "Food name": "Anchovy, fillet, steamed* (without salt)",
+  "Energy": 138.9,
+  "Protein": 22.8,
+  "Carbs": 0,
+  "Fat": 5.3
+ },
+ {
+  "Code": "09_048",
+  "Food name": "Atlantic cod (Northeast Atlantic), fillet, raw",
+  "Energy": 80,
+  "Protein": 18.6,
+  "Carbs": 0,
+  "Fat": 0.6
+ },
+ {
+  "Code": "09_068",
+  "Food name": "Atlantic cod (Northeast Atlantic), fillet, boiled* (as part of a recipe)",
+  "Energy": 98,
+  "Protein": 22.7,
+  "Carbs": 0,
+  "Fat": 0.8
+ },
+ {
+  "Code": "09_067",
+  "Food name": "Atlantic cod (Northeast Atlantic), fillet, grilled* (without salt or fat)",
+  "Energy": 106.4,
+  "Protein": 24.8,
+  "Carbs": 0,
+  "Fat": 0.8
+ },
+ {
+  "Code": "09_066",
+  "Food name": "Atlantic cod (Northeast Atlantic), fillet, steamed* (without salt)",
+  "Energy": 98,
+  "Protein": 22.7,
+  "Carbs": 0,
+  "Fat": 0.8
+ },
+ {
+  "Code": "09_049",
+  "Food name": "Atlantic horse mackerel, wild, fillet without skin, raw",
+  "Energy": 123,
+  "Protein": 18.6,
+  "Carbs": 0,
+  "Fat": 5.4
+ },
+ {
+  "Code": "09_072",
+  "Food name": "Atlantic horse mackerel, wild, fillet without skin, boiled* (as part of a recipe)",
+  "Energy": 175.7,
+  "Protein": 26.6,
+  "Carbs": 0,
+  "Fat": 7.7
+ },
+ {
+  "Code": "09_071",
+  "Food name": "Atlantic horse mackerel, wild, fillet without skin, grilled* (without salt or fat)",
+  "Energy": 138.2,
+  "Protein": 23.3,
+  "Carbs": 0,
+  "Fat": 5
+ },
+ {
+  "Code": "09_070",
+  "Food name": "Atlantic horse mackerel, wild, fillet without skin, steamed* (without salt)",
+  "Energy": 148.70000000000002,
+  "Protein": 26.6,
+  "Carbs": 0,
+  "Fat": 4.7
+ },
+ {
+  "Code": "09_002",
+  "Food name": "Barracuda, fillet, raw",
+  "Energy": 84,
+  "Protein": 19,
+  "Carbs": 0,
+  "Fat": 0.9
+ },
+ {
+  "Code": "09_063",
+  "Food name": "Barracuda, fillet, boiled* (as part of a recipe)",
+  "Energy": 100.6,
+  "Protein": 22.9,
+  "Carbs": 0,
+  "Fat": 1
+ },
+ {
+  "Code": "09_014",
+  "Food name": "Barracuda, fillet, grilled* (without salt or fat)",
+  "Energy": 120.8,
+  "Protein": 27.5,
+  "Carbs": 0,
+  "Fat": 1.2
+ },
+ {
+  "Code": "09_013",
+  "Food name": "Barracuda, fillet, steamed* (without salt)",
+  "Energy": 100.6,
+  "Protein": 22.9,
+  "Carbs": 0,
+  "Fat": 1
+ },
+ {
+  "Code": "09_015",
+  "Food name": "Bayad, fillet, raw",
+  "Energy": 79,
+  "Protein": 17.1,
+  "Carbs": 0,
+  "Fat": 1.2
+ },
+ {
+  "Code": "09_064",
+  "Food name": "Bayad, fillet, boiled* (as part of a recipe)",
+  "Energy": 95,
+  "Protein": 20.6,
+  "Carbs": 0,
+  "Fat": 1.4
+ },
+ {
+  "Code": "09_017",
+  "Food name": "Bayad, fillet, grilled* (without salt or fat)",
+  "Energy": 114.5,
+  "Protein": 24.8,
+  "Carbs": 0,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_016",
+  "Food name": "Bayad, fillet, steamed* (without salt)",
+  "Energy": 95,
+  "Protein": 20.6,
+  "Carbs": 0,
+  "Fat": 1.4
+ },
+ {
+  "Code": "09_021",
+  "Food name": "Carp, fillet, raw",
+  "Energy": 117,
+  "Protein": 17.6,
+  "Carbs": 0,
+  "Fat": "5.2"
+ },
+ {
+  "Code": "09_065",
+  "Food name": "Carp, fillet, boiled* (as part of a recipe)",
+  "Energy": 141.5,
+  "Protein": 21.2,
+  "Carbs": 0,
+  "Fat": 6.3
+ },
+ {
+  "Code": "09_023",
+  "Food name": "Carp, fillet, grilled* (without salt or fat)",
+  "Energy": 141.6,
+  "Protein": 25.5,
+  "Carbs": 0,
+  "Fat": 4.4
+ },
+ {
+  "Code": "09_022",
+  "Food name": "Carp, fillet, steamed* (without salt)",
+  "Energy": 128.9,
+  "Protein": 21.2,
+  "Carbs": 0,
+  "Fat": 4.9
+ },
+ {
+  "Code": "09_018",
+  "Food name": "Catfish, fillet, raw",
+  "Energy": 101,
+  "Protein": 16.5,
+  "Carbs": 0,
+  "Fat": 3.8
+ },
+ {
+  "Code": "09_108",
+  "Food name": "Catfish, fillet, boiled* (as part of a recipe)",
+  "Energy": 121,
+  "Protein": 19.9,
+  "Carbs": 0,
+  "Fat": 4.6
+ },
+ {
+  "Code": "09_020",
+  "Food name": "Catfish, fillet, grilled* (without salt or fat)",
+  "Energy": 145.5,
+  "Protein": 24,
+  "Carbs": 0,
+  "Fat": 5.5
+ },
+ {
+  "Code": "09_019",
+  "Food name": "Catfish, fillet, steamed* (without salt)",
+  "Energy": 121,
+  "Protein": 19.9,
+  "Carbs": 0,
+  "Fat": 4.6
+ },
+ {
+  "Code": "09_055",
+  "Food name": "Crab, flesh (body and claw), raw",
+  "Energy": 93,
+  "Protein": 16,
+  "Carbs": 4.4,
+  "Fat": 1.3
+ },
+ {
+  "Code": "09_098",
+  "Food name": "Crab, flesh (body and claw), boiled* (as part of a recipe)",
+  "Energy": 106.7,
+  "Protein": 18.3,
+  "Carbs": 5,
+  "Fat": 1.5
+ },
+ {
+  "Code": "09_097",
+  "Food name": "Crab, flesh (body and claw), grilled* (without salt or fat)",
+  "Energy": 108.30000000000001,
+  "Protein": 18.6,
+  "Carbs": 5.1,
+  "Fat": 1.5
+ },
+ {
+  "Code": "09_096",
+  "Food name": "Crab, flesh (body and claw), steamed* (without salt)",
+  "Energy": 106.7,
+  "Protein": 18.3,
+  "Carbs": 5,
+  "Fat": 1.5
+ },
+ {
+  "Code": "09_053",
+  "Food name": "Fish, whole, dried",
+  "Energy": 316,
+  "Protein": 60.4,
+  "Carbs": 0,
+  "Fat": 8.2
+ },
+ {
+  "Code": "09_003",
+  "Food name": "Mackerel, fillet, raw",
+  "Energy": 120,
+  "Protein": 19.6,
+  "Carbs": 0,
+  "Fat": 4.6
+ },
+ {
+  "Code": "09_069",
+  "Food name": "Mackerel, fillet, boiled* (as part of a recipe)",
+  "Energy": 171.4,
+  "Protein": 28,
+  "Carbs": 0,
+  "Fat": 6.6
+ },
+ {
+  "Code": "09_025",
+  "Food name": "Mackerel, fillet, grilled* (without salt or fat)",
+  "Energy": 150.2,
+  "Protein": 24.5,
+  "Carbs": 0,
+  "Fat": 5.8
+ },
+ {
+  "Code": "09_024",
+  "Food name": "Mackerel, fillet, steamed* (without salt)",
+  "Energy": 171.4,
+  "Protein": 28,
+  "Carbs": 0,
+  "Fat": 6.6
+ },
+ {
+  "Code": "09_109",
+  "Food name": "Mackerel, jack, canned in oil, drained",
+  "Energy": 149,
+  "Protein": 23.2,
+  "Carbs": 0,
+  "Fat": 6.3
+ },
+ {
+  "Code": "09_050",
+  "Food name": "Mahi mahi, fillet, raw",
+  "Energy": 100,
+  "Protein": 22.1,
+  "Carbs": 0,
+  "Fat": "1.3"
+ },
+ {
+  "Code": "09_075",
+  "Food name": "Mahi mahi, fillet, boiled* (as part of a recipe)",
+  "Energy": 120.80000000000001,
+  "Protein": 26.6,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_074",
+  "Food name": "Mahi mahi, fillet, grilled* (without salt or fat)",
+  "Energy": 145.1,
+  "Protein": 32,
+  "Carbs": 0,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_073",
+  "Food name": "Mahi mahi, fillet, steamed* (without salt)",
+  "Energy": 120.80000000000001,
+  "Protein": 26.6,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_051",
+  "Food name": "Mola carplet, small whole fish, viscera, fins and scales removed, raw",
+  "Energy": 105,
+  "Protein": 16,
+  "Carbs": 0,
+  "Fat": 4.6
+ },
+ {
+  "Code": "09_078",
+  "Food name": "Mola carplet, small whole fish, viscera, fins and scales removed, boiled* (as part of a recipe)",
+  "Energy": 126.7,
+  "Protein": 19.3,
+  "Carbs": 0,
+  "Fat": 5.5
+ },
+ {
+  "Code": "09_077",
+  "Food name": "Mola carplet, small whole fish, viscera, fins and scales removed, grilled* (without salt or fat)",
+  "Energy": 152.2,
+  "Protein": 23.2,
+  "Carbs": 0,
+  "Fat": 6.6
+ },
+ {
+  "Code": "09_076",
+  "Food name": "Mola carplet, small whole fish, viscera, fins and scales removed, steamed* (without salt)",
+  "Energy": 126.7,
+  "Protein": 19.3,
+  "Carbs": 0,
+  "Fat": 5.5
+ },
+ {
+  "Code": "09_026",
+  "Food name": "Mormyrid, fillet, raw",
+  "Energy": 84,
+  "Protein": 18.2,
+  "Carbs": 0,
+  "Fat": 1.3
+ },
+ {
+  "Code": "09_079",
+  "Food name": "Mormyrid, fillet, boiled* (as part of a recipe)",
+  "Energy": 102,
+  "Protein": 21.9,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_028",
+  "Food name": "Mormyrid, fillet, grilled* (without salt or fat)",
+  "Energy": 122.3,
+  "Protein": 26.3,
+  "Carbs": 0,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_027",
+  "Food name": "Mormyrid, fillet, steamed* (without salt)",
+  "Energy": 102,
+  "Protein": 21.9,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_052",
+  "Food name": "Mullet, fillet, raw",
+  "Energy": 94,
+  "Protein": 20.5,
+  "Carbs": 0,
+  "Fat": "1.3"
+ },
+ {
+  "Code": "09_085",
+  "Food name": "Mullet, fillet, boiled* (as part of a recipe)",
+  "Energy": 113.2,
+  "Protein": 24.7,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_084",
+  "Food name": "Mullet, fillet, grilled* (without salt or fat)",
+  "Energy": 135.9,
+  "Protein": 29.7,
+  "Carbs": 0,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_083",
+  "Food name": "Mullet, fillet, steamed* (without salt)",
+  "Energy": 113.2,
+  "Protein": 24.7,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_060",
+  "Food name": "North African catfish, fillet, raw",
+  "Energy": 103,
+  "Protein": 17.8,
+  "Carbs": 0,
+  "Fat": 3.5
+ },
+ {
+  "Code": "09_082",
+  "Food name": "North African catfish, fillet, boiled* (as part of a recipe)",
+  "Energy": 123.80000000000001,
+  "Protein": 21.5,
+  "Carbs": 0,
+  "Fat": 4.2
+ },
+ {
+  "Code": "09_081",
+  "Food name": "North African catfish, fillet, grilled* (without salt or fat)",
+  "Energy": 149.1,
+  "Protein": 25.8,
+  "Carbs": 0,
+  "Fat": 5.1
+ },
+ {
+  "Code": "09_080",
+  "Food name": "North African catfish, fillet, steamed* (without salt)",
+  "Energy": 123.80000000000001,
+  "Protein": 21.5,
+  "Carbs": 0,
+  "Fat": 4.2
+ },
+ {
+  "Code": "09_032",
+  "Food name": "Perch, Nile, fillet, raw",
+  "Energy": 93,
+  "Protein": 20.5,
+  "Carbs": 0,
+  "Fat": 1.2
+ },
+ {
+  "Code": "09_086",
+  "Food name": "Perch, Nile, fillet, boiled* (as part of a recipe)",
+  "Energy": 111.39999999999999,
+  "Protein": 24.7,
+  "Carbs": 0,
+  "Fat": 1.4
+ },
+ {
+  "Code": "09_034",
+  "Food name": "Perch, Nile, fillet, grilled* (without salt or fat)",
+  "Energy": 134.1,
+  "Protein": 29.7,
+  "Carbs": 0,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_033",
+  "Food name": "Perch, Nile, fillet, steamed* (without salt)",
+  "Energy": 111.39999999999999,
+  "Protein": 24.7,
+  "Carbs": 0,
+  "Fat": 1.4
+ },
+ {
+  "Code": "09_037",
+  "Food name": "Sardine, canned in oil, drained, with bones",
+  "Energy": 239,
+  "Protein": 24.8,
+  "Carbs": 0,
+  "Fat": 15.5
+ },
+ {
+  "Code": "09_004",
+  "Food name": "Sardine, fillet, raw",
+  "Energy": 106,
+  "Protein": 19.8,
+  "Carbs": 0,
+  "Fat": 3
+ },
+ {
+  "Code": "09_087",
+  "Food name": "Sardine, fillet, boiled* (as part of a recipe)",
+  "Energy": 127.6,
+  "Protein": 23.8,
+  "Carbs": 0,
+  "Fat": 3.6
+ },
+ {
+  "Code": "09_036",
+  "Food name": "Sardine, fillet, grilled* (without salt or fat)",
+  "Energy": 154.4,
+  "Protein": 28.7,
+  "Carbs": 0,
+  "Fat": 4.4
+ },
+ {
+  "Code": "09_035",
+  "Food name": "Sardine, fillet, steamed* (without salt)",
+  "Energy": 127.6,
+  "Protein": 23.8,
+  "Carbs": 0,
+  "Fat": 3.6
+ },
+ {
+  "Code": "09_056",
+  "Food name": "Sea snail\/whelk, flesh, raw",
+  "Energy": 130,
+  "Protein": 23.8,
+  "Carbs": 7.8,
+  "Fat": 0.4
+ },
+ {
+  "Code": "09_101",
+  "Food name": "Sea snail\/whelk, boiled* (as part of a recipe)",
+  "Energy": 156.5,
+  "Protein": 28.7,
+  "Carbs": 9.3,
+  "Fat": 0.5
+ },
+ {
+  "Code": "09_100",
+  "Food name": "Sea snail\/whelk, grilled* (without salt or fat)",
+  "Energy": 188.60000000000002,
+  "Protein": 34.6,
+  "Carbs": 11.2,
+  "Fat": 0.6
+ },
+ {
+  "Code": "09_099",
+  "Food name": "Sea snail\/whelk, steamed* (without salt)",
+  "Energy": 156.5,
+  "Protein": 28.7,
+  "Carbs": 9.3,
+  "Fat": 0.5
+ },
+ {
+  "Code": "09_038",
+  "Food name": "Shiny-nose, fillet, raw",
+  "Energy": 94,
+  "Protein": 21.1,
+  "Carbs": 0,
+  "Fat": "1.1"
+ },
+ {
+  "Code": "09_088",
+  "Food name": "Shiny-nose, fillet, boiled* (as part of a recipe)",
+  "Energy": 113.7,
+  "Protein": 25.5,
+  "Carbs": 0,
+  "Fat": 1.3
+ },
+ {
+  "Code": "09_040",
+  "Food name": "Shiny-nose, fillet, grilled* (without salt or fat)",
+  "Energy": 137.2,
+  "Protein": 30.7,
+  "Carbs": 0,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_039",
+  "Food name": "Shiny-nose, fillet, steamed* (without salt)",
+  "Energy": 113.7,
+  "Protein": 25.5,
+  "Carbs": 0,
+  "Fat": 1.3
+ },
+ {
+  "Code": "09_057",
+  "Food name": "Shrimp (crayfish), whole, dried",
+  "Energy": 322,
+  "Protein": 63.1,
+  "Carbs": 7.9,
+  "Fat": 4.2
+ },
+ {
+  "Code": "09_058",
+  "Food name": "Shrimp, palaemonid, flesh, raw",
+  "Energy": 103,
+  "Protein": 22.2,
+  "Carbs": 0.3,
+  "Fat": 1.4
+ },
+ {
+  "Code": "09_104",
+  "Food name": "Shrimp, palaemonid, flesh, boiled* (as part of a recipe)",
+  "Energy": 123.3,
+  "Protein": 26.7,
+  "Carbs": 0.3,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_103",
+  "Food name": "Shrimp, palaemonid, flesh, grilled* (without salt or fat)",
+  "Energy": 118.80000000000001,
+  "Protein": 25.8,
+  "Carbs": 0.3,
+  "Fat": 1.6
+ },
+ {
+  "Code": "09_102",
+  "Food name": "Shrimp, palaemonid, flesh, steamed* (without salt)",
+  "Energy": 123.3,
+  "Protein": 26.7,
+  "Carbs": 0.3,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_059",
+  "Food name": "Shrimp, penaeid, flesh, raw",
+  "Energy": 98,
+  "Protein": 21.6,
+  "Carbs": 1,
+  "Fat": 0.9
+ },
+ {
+  "Code": "09_107",
+  "Food name": "Shrimp, penaeid, flesh, boiled* (as part of a recipe)",
+  "Energy": 118.2,
+  "Protein": 26,
+  "Carbs": 1.3,
+  "Fat": 1
+ },
+ {
+  "Code": "09_106",
+  "Food name": "Shrimp, penaeid, flesh, grilled* (without salt or fat)",
+  "Energy": 114.2,
+  "Protein": 25.1,
+  "Carbs": 1.2,
+  "Fat": 1
+ },
+ {
+  "Code": "09_105",
+  "Food name": "Shrimp, penaeid, flesh, steamed* (without salt)",
+  "Energy": 118.2,
+  "Protein": 26,
+  "Carbs": 1.3,
+  "Fat": 1
+ },
+ {
+  "Code": "09_041",
+  "Food name": "Tilapia, fillet, raw",
+  "Energy": 88,
+  "Protein": 18.6,
+  "Carbs": 0,
+  "Fat": "1.5"
+ },
+ {
+  "Code": "09_089",
+  "Food name": "Tilapia, fillet, boiled* (as part of a recipe)",
+  "Energy": 100.89999999999999,
+  "Protein": 21.4,
+  "Carbs": 0,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_043",
+  "Food name": "Tilapia, fillet, grilled* (without salt or fat)",
+  "Energy": 111.5,
+  "Protein": 23.6,
+  "Carbs": 0,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_042",
+  "Food name": "Tilapia, fillet, steamed* (without salt)",
+  "Energy": 100.89999999999999,
+  "Protein": 21.4,
+  "Carbs": 0,
+  "Fat": 1.7
+ },
+ {
+  "Code": "09_110",
+  "Food name": "Tuna, canned in water, drained",
+  "Energy": 119,
+  "Protein": 24.9,
+  "Carbs": 0,
+  "Fat": 2.2
+ },
+ {
+  "Code": "09_111",
+  "Food name": "Tuna, canned in oil, drained",
+  "Energy": 186,
+  "Protein": 25.4,
+  "Carbs": 0,
+  "Fat": 9.4
+ },
+ {
+  "Code": "09_005",
+  "Food name": "Tuna, fillet, raw",
+  "Energy": 118,
+  "Protein": 23.6,
+  "Carbs": 0,
+  "Fat": 2.6
+ },
+ {
+  "Code": "09_092",
+  "Food name": "Tuna, fillet, boiled* (as part of a recipe)",
+  "Energy": 147.7,
+  "Protein": 29.5,
+  "Carbs": 0,
+  "Fat": 3.3
+ },
+ {
+  "Code": "09_091",
+  "Food name": "Tuna, fillet, grilled* (without salt or fat)",
+  "Energy": 159.1,
+  "Protein": 31.9,
+  "Carbs": 0,
+  "Fat": 3.5
+ },
+ {
+  "Code": "09_090",
+  "Food name": "Tuna, fillet, steamed* (without salt)",
+  "Energy": 147.7,
+  "Protein": 29.5,
+  "Carbs": 0,
+  "Fat": 3.3
+ },
+ {
+  "Code": "09_054",
+  "Food name": "Venus clams, flesh, raw",
+  "Energy": 61,
+  "Protein": 9.2,
+  "Carbs": 3.5,
+  "Fat": 1.2
+ },
+ {
+  "Code": "09_095",
+  "Food name": "Venus clams, flesh, boiled* (as part of a recipe)",
+  "Energy": 97.5,
+  "Protein": 14.6,
+  "Carbs": 5.5,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_094",
+  "Food name": "Venus clams, flesh, steamed* (without salt)",
+  "Energy": 97.5,
+  "Protein": 14.6,
+  "Carbs": 5.5,
+  "Fat": 1.9
+ },
+ {
+  "Code": "09_006",
+  "Food name": "White grouper, fillet, raw",
+  "Energy": 96,
+  "Protein": 19.4,
+  "Carbs": 0,
+  "Fat": 2.1
+ },
+ {
+  "Code": "09_093",
+  "Food name": "White grouper, fillet, boiled* (as part of a recipe)",
+  "Energy": 115.7,
+  "Protein": 23.3,
+  "Carbs": 0,
+  "Fat": 2.5
+ },
+ {
+  "Code": "09_047",
+  "Food name": "White grouper, fillet, grilled* (without salt or fat)",
+  "Energy": 139,
+  "Protein": 28,
+  "Carbs": 0,
+  "Fat": 3
+ },
+ {
+  "Code": "09_046",
+  "Food name": "White grouper, fillet, steamed* (without salt)",
+  "Energy": 115.7,
+  "Protein": 23.3,
+  "Carbs": 0,
+  "Fat": 2.5
+ },
+ {
+  "Code": "10_019",
+  "Food name": "Breastmilk, colostrum",
+  "Energy": "59",
+  "Protein": "1.9",
+  "Carbs": "7.1",
+  "Fat": "2.6"
+ },
+ {
+  "Code": "10_004",
+  "Food name": "Breastmilk, mature",
+  "Energy": "70",
+  "Protein": "1.1",
+  "Carbs": "8.4",
+  "Fat": "3.5"
+ },
+ {
+  "Code": "10_006",
+  "Food name": "Cheese, cheddar, from cow’s milk",
+  "Energy": "397",
+  "Protein": "24.7",
+  "Carbs": "1.8",
+  "Fat": "32.3"
+ },
+ {
+  "Code": "10_028",
+  "Food name": "Cheese, fresh curd, from cow’s milk",
+  "Energy": "219",
+  "Protein": "15.5",
+  "Carbs": "3.8",
+  "Fat": "15.7"
+ },
+ {
+  "Code": "10_008",
+  "Food name": "Cheese, Gouda, from cow’s milk",
+  "Energy": "380",
+  "Protein": "23.9",
+  "Carbs": "0.3",
+  "Fat": "31.5"
+ },
+ {
+  "Code": "10_007",
+  "Food name": "Cheese, hard type, from goat’s milk",
+  "Energy": "447",
+  "Protein": "30.5",
+  "Carbs": "1.2",
+  "Fat": "35.6"
+ },
+ {
+  "Code": "10_027",
+  "Food name": "Cheese, processed, spreadable, shelf-stable (e.g. Laughing Cow)",
+  "Energy": "271",
+  "Protein": "14.8",
+  "Carbs": "7.0",
+  "Fat": "20.4"
+ },
+ {
+  "Code": "10_009",
+  "Food name": "Cream, from cow’s milk, ca. 38% fat",
+  "Energy": "351",
+  "Protein": "2.1",
+  "Carbs": "3.5",
+  "Fat": "36.6"
+ },
+ {
+  "Code": "10_010",
+  "Food name": "Cream, from cow’s milk, reduced fat, ca. 18% fat",
+  "Energy": "183",
+  "Protein": "2.7",
+  "Carbs": "4.0",
+  "Fat": "17.3"
+ },
+ {
+  "Code": "10_011",
+  "Food name": "Infant formula, powder, for 3 months, fortified",
+  "Energy": "519",
+  "Protein": "12.1",
+  "Carbs": "55.4",
+  "Fat": "27.7"
+ },
+ {
+  "Code": "10_012",
+  "Food name": "Infant formula, powder, for 6 months, fortified",
+  "Energy": "475",
+  "Protein": "18.0",
+  "Carbs": "56.6",
+  "Fat": "19.7"
+ },
+ {
+  "Code": "10_018",
+  "Food name": "Milk, camel, fresh",
+  "Energy": "58",
+  "Protein": "3.0",
+  "Carbs": "2.4",
+  "Fat": "4.0"
+ },
+ {
+  "Code": "10_015",
+  "Food name": "Milk, cow, canned, condensed, sweetened",
+  "Energy": "329",
+  "Protein": "7.5",
+  "Carbs": "55.6",
+  "Fat": "8.5"
+ },
+ {
+  "Code": "10_016",
+  "Food name": "Milk, cow, canned, evaporated",
+  "Energy": "157",
+  "Protein": "7.4",
+  "Carbs": "12.6",
+  "Fat": "8.6"
+ },
+ {
+  "Code": "10_017",
+  "Food name": "Milk, cow, powder, skimmed, unfortified",
+  "Energy": "356",
+  "Protein": "36.4",
+  "Carbs": "50.4",
+  "Fat": "1.0"
+ },
+ {
+  "Code": "10_002",
+  "Food name": "Milk, cow, powder, whole, unfortified",
+  "Energy": "493",
+  "Protein": "25.8",
+  "Carbs": "37.3",
+  "Fat": "26.8"
+ },
+ {
+  "Code": "10_013",
+  "Food name": "Milk, cow, reduced fat, 1.5–2% fat",
+  "Energy": "48",
+  "Protein": "3.4",
+  "Carbs": "4.6",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "10_014",
+  "Food name": "Milk, cow, skimmed, 0.5% fat",
+  "Energy": "37",
+  "Protein": "3.5",
+  "Carbs": "4.6",
+  "Fat": "0.6"
+ },
+ {
+  "Code": "10_022",
+  "Food name": "Milk, cow, whole, fermented",
+  "Energy": "62",
+  "Protein": "3.3",
+  "Carbs": "4.0",
+  "Fat": "3.6"
+ },
+ {
+  "Code": "10_001",
+  "Food name": "Milk, cow, whole, pasteurized or UHT, 3.5% fat",
+  "Energy": "64",
+  "Protein": "3.3",
+  "Carbs": "5.1",
+  "Fat": "3.4"
+ },
+ {
+  "Code": "10_029",
+  "Food name": "Milk, cow, whole, raw, 4.5% fat",
+  "Energy": "78",
+  "Protein": "3.1",
+  "Carbs": "5.0",
+  "Fat": "5.0"
+ },
+ {
+  "Code": "10_003",
+  "Food name": "Milk, goat, fresh",
+  "Energy": "83",
+  "Protein": "3.9",
+  "Carbs": "4.9",
+  "Fat": "5.3"
+ },
+ {
+  "Code": "10_024",
+  "Food name": "Milk, sheep or goat, fermented",
+  "Energy": "85",
+  "Protein": "4.8",
+  "Carbs": "6.4",
+  "Fat": "4.5"
+ },
+ {
+  "Code": "10_023",
+  "Food name": "Milk, sheep, fresh",
+  "Energy": "100",
+  "Protein": "5.9",
+  "Carbs": "4.7",
+  "Fat": "6.4"
+ },
+ {
+  "Code": "10_026",
+  "Food name": "Yoghurt, from reduced fat\/skimmed cow’s milk, sweetened\/with fruit",
+  "Energy": "83",
+  "Protein": "3.5",
+  "Carbs": "14.0",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "10_025",
+  "Food name": "Yoghurt, plain, from reduced fat\/skimmed cow’s milk",
+  "Energy": "58",
+  "Protein": "3.8",
+  "Carbs": "7.5",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "10_005",
+  "Food name": "Yoghurt, plain, from whole cow’s milk",
+  "Energy": "82",
+  "Protein": "2.9",
+  "Carbs": "7.1",
+  "Fat": "4.7"
+ },
+ {
+  "Code": "11_011",
+  "Food name": "Butter, from cow’s milk, salted",
+  "Energy": "739",
+  "Protein": "1.0",
+  "Carbs": "0.2",
+  "Fat": "81.5"
+ },
+ {
+  "Code": "11_001",
+  "Food name": "Butter, from cow’s milk, unsalted",
+  "Energy": "743",
+  "Protein": "1.0",
+  "Carbs": "1.2",
+  "Fat": "81.5"
+ },
+ {
+  "Code": "11_002",
+  "Food name": "Coconut oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_018",
+  "Food name": "Coconut oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_017",
+  "Food name": "Coconut oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_013",
+  "Food name": "Corn (maize) oil, unfortified",
+  "Energy": "899",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "99.9"
+ },
+ {
+  "Code": "11_033",
+  "Food name": "Corn (maize) oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "899",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "99.9"
+ },
+ {
+  "Code": "11_032",
+  "Food name": "Corn (maize) oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "899",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "99.9"
+ },
+ {
+  "Code": "11_005",
+  "Food name": "Cottonseed oil, yellow brown, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_020",
+  "Food name": "Cottonseed oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_019",
+  "Food name": "Cottonseed oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_003",
+  "Food name": "Groundnut oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_021",
+  "Food name": "Groundnut oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_022",
+  "Food name": "Groundnut oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_029",
+  "Food name": "Margarine, fortified with vitamin A and D (Nigeria)",
+  "Energy": "728",
+  "Protein": "0.4",
+  "Carbs": "0.8",
+  "Fat": "80.4"
+ },
+ {
+  "Code": "11_006",
+  "Food name": "Margarine, fortified with vitamin A",
+  "Energy": "728",
+  "Protein": "0.4",
+  "Carbs": "0.8",
+  "Fat": "80.4"
+ },
+ {
+  "Code": "11_012",
+  "Food name": "Palm kernel oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_026",
+  "Food name": "Palm kernel oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_025",
+  "Food name": "Palm kernel oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_004",
+  "Food name": "Palm oil, red",
+  "Energy": "898",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "99.8"
+ },
+ {
+  "Code": "11_007",
+  "Food name": "Palm oil, refined and decoloured, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_024",
+  "Food name": "Palm oil, refined and decoloured, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_023",
+  "Food name": "Palm oil, refined and decoloured, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_008",
+  "Food name": "Shea butter, white",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_009",
+  "Food name": "Soya oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_027",
+  "Food name": "Soya oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_028",
+  "Food name": "Soya oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_016",
+  "Food name": "Sunflower oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_035",
+  "Food name": "Sunflower oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_034",
+  "Food name": "Sunflower oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_015",
+  "Food name": "Oil, from cow’s milk butter (ghee)",
+  "Energy": "892",
+  "Protein": "0.2",
+  "Carbs": "0",
+  "Fat": "99.0"
+ },
+ {
+  "Code": "11_014",
+  "Food name": "Olive oil",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_010",
+  "Food name": "Vegetable oil, unfortified",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_031",
+  "Food name": "Vegetable oil, fortified with vitamin A, 600–1000 mcg\/100g (Ghana, Nigeria, Sierra Leone)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "11_030",
+  "Food name": "Vegetable oil, fortified with vitamin A, 1100–2400 mcg\/100g (Benin, Burkina Faso, Côte d’Ivoire, Guinea, Guinea-Bissau, Liberia, Mali, Niger, Senegal, Togo)",
+  "Energy": "900",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "100.0"
+ },
+ {
+  "Code": "12_001",
+  "Food name": "Beer, European (4.6% v\/v alcohol)",
+  "Energy": "41",
+  "Protein": "0.3",
+  "Carbs": "3.7",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_020",
+  "Food name": "Beer, European (>6% v\/v alcohol)",
+  "Energy": "61",
+  "Protein": "0.2",
+  "Carbs": "4.9",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_002",
+  "Food name": "Beer, maize (ca. 3% v\/v alcohol)",
+  "Energy": "33",
+  "Protein": "0.6",
+  "Carbs": "3.3",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_003",
+  "Food name": "Beer, millet (ca. 3% v\/v alcohol)",
+  "Energy": "43",
+  "Protein": "0.7",
+  "Carbs": "5.7",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_004",
+  "Food name": "Beer, sorghum (ca. 3% v\/v alcohol)",
+  "Energy": "27",
+  "Protein": "0.4",
+  "Carbs": "1.9",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_024",
+  "Food name": "Carbonated drink (e.g. Coca-Cola, Sprite)",
+  "Energy": "40",
+  "Protein": "tr",
+  "Carbs": "9.9",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_023",
+  "Food name": "Coconut water",
+  "Energy": "22",
+  "Protein": "0.2",
+  "Carbs": "4.2",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "12_005",
+  "Food name": "Coffee, instant, powder",
+  "Energy": "343",
+  "Protein": "17.5",
+  "Carbs": "64.8",
+  "Fat": "0.5"
+ },
+ {
+  "Code": "12_009",
+  "Food name": "Coffee, liquid",
+  "Energy": "2",
+  "Protein": "0.1",
+  "Carbs": "0.4",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_012",
+  "Food name": "Juice, canned or bottled, sweetened (e.g. apple)",
+  "Energy": "48",
+  "Protein": "0.1",
+  "Carbs": "11.5",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_013",
+  "Food name": "Juice, canned or bottled, unsweetened (e.g. grapefruit)",
+  "Energy": "34",
+  "Protein": "0.3",
+  "Carbs": "7.9",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_010",
+  "Food name": "Juice, lemon, fresh, unsweetened",
+  "Energy": "36",
+  "Protein": "0.4",
+  "Carbs": "8.3",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_011",
+  "Food name": "Juice, orange, fresh, unsweetened",
+  "Energy": "42",
+  "Protein": "0.7",
+  "Carbs": "9.3",
+  "Fat": "0.2"
+ },
+ {
+  "Code": "12_016",
+  "Food name": "Ovaltine beverage with reduced fat milk, without sugar, fortified*",
+  "Energy": "84",
+  "Protein": "3.9",
+  "Carbs": "12.9",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "12_017",
+  "Food name": "Ovaltine beverage with skimmed milk, without sugar, fortified*",
+  "Energy": "75",
+  "Protein": "3.9",
+  "Carbs": "13.0",
+  "Fat": "0.7"
+ },
+ {
+  "Code": "12_015",
+  "Food name": "Ovaltine beverage with whole milk, without sugar, fortified*",
+  "Energy": "108",
+  "Protein": "3.6",
+  "Carbs": "13.4",
+  "Fat": "4.4"
+ },
+ {
+  "Code": "12_014",
+  "Food name": "Nectar, mango, canned",
+  "Energy": "53",
+  "Protein": "0.1",
+  "Carbs": "12.8",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_006",
+  "Food name": "Palm wine (ca. 3.8% v\/v alcohol)",
+  "Energy": "34",
+  "Protein": "0.4",
+  "Carbs": "2.5",
+  "Fat": "0.1"
+ },
+ {
+  "Code": "12_007",
+  "Food name": "Sap, palm, fresh (0.3% v\/v alcohol)",
+  "Energy": "47",
+  "Protein": "0.3",
+  "Carbs": "10.8",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_025",
+  "Food name": "Soybean milk, fluid, from soybeans only, unfortified",
+  "Energy": "45",
+  "Protein": "3.0",
+  "Carbs": "3.9",
+  "Fat": "1.8"
+ },
+ {
+  "Code": "12_008",
+  "Food name": "Tea, infusion",
+  "Energy": "0",
+  "Protein": "0.1",
+  "Carbs": "0",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_019",
+  "Food name": "Water, tap",
+  "Energy": "0",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "0"
+ },
+ {
+  "Code": "12_021",
+  "Food name": "Water with fresh lemon juice, unsweetened*",
+  "Energy": "5",
+  "Protein": "0.1",
+  "Carbs": "1.3",
+  "Fat": "0.0"
+ },
+ {
+  "Code": "12_022",
+  "Food name": "Water with fresh lemon juice, sweetened*",
+  "Energy": "45",
+  "Protein": "0.1",
+  "Carbs": "11.1",
+  "Fat": "0.0"
+ },
+ {
+  "Code": "13_016",
+  "Food name": "Allspice, ground",
+  "Energy": "348",
+  "Protein": "6.1",
+  "Carbs": "50.5",
+  "Fat": "8.7"
+ },
+ {
+  "Code": "13_004",
+  "Food name": "Anis seed",
+  "Energy": "384",
+  "Protein": "17.6",
+  "Carbs": "35.4",
+  "Fat": "15.9"
+ },
+ {
+  "Code": "13_019",
+  "Food name": "Baking soda (sodium bicarbonate)",
+  "Energy": "0",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_020",
+  "Food name": "Calabash nutmeg, seed, dried",
+  "Energy": "352",
+  "Protein": "9.7",
+  "Carbs": "47.0",
+  "Fat": "9.9"
+ },
+ {
+  "Code": "13_006",
+  "Food name": "Chilli pepper, dried",
+  "Energy": "347",
+  "Protein": "15.0",
+  "Carbs": "21.2",
+  "Fat": "15.5"
+ },
+ {
+  "Code": "13_007",
+  "Food name": "Cinnamon, ground",
+  "Energy": "243",
+  "Protein": "4.0",
+  "Carbs": "27.5",
+  "Fat": "1.2"
+ },
+ {
+  "Code": "13_008",
+  "Food name": "Cube, beef, dry",
+  "Energy": "190",
+  "Protein": "15.5",
+  "Carbs": "15.5",
+  "Fat": "7.4"
+ },
+ {
+  "Code": "13_009",
+  "Food name": "Cumin, seed",
+  "Energy": "385",
+  "Protein": "13.9",
+  "Carbs": "17.0",
+  "Fat": "22.3"
+ },
+ {
+  "Code": "13_022",
+  "Food name": "Curry powder",
+  "Energy": "293",
+  "Protein": "11.9",
+  "Carbs": "6.8",
+  "Fat": "12.4"
+ },
+ {
+  "Code": "13_011",
+  "Food name": "Ginger, root, dried",
+  "Energy": "329",
+  "Protein": "7.6",
+  "Carbs": "59.1",
+  "Fat": "3.8"
+ },
+ {
+  "Code": "13_001",
+  "Food name": "Honey",
+  "Energy": "326",
+  "Protein": "0.4",
+  "Carbs": "81.0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_023",
+  "Food name": "Jam or marmalade",
+  "Energy": "281",
+  "Protein": "0.4",
+  "Carbs": "69.4",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_013",
+  "Food name": "Mustard, prepared, yellow",
+  "Energy": "60",
+  "Protein": "3.7",
+  "Carbs": "1.8",
+  "Fat": "3.3"
+ },
+ {
+  "Code": "13_012",
+  "Food name": "Mustard, powder",
+  "Energy": "518",
+  "Protein": "26.1",
+  "Carbs": "15.9",
+  "Fat": "36.2"
+ },
+ {
+  "Code": "13_014",
+  "Food name": "Pepper, black",
+  "Energy": "276",
+  "Protein": "10.1",
+  "Carbs": "36.2",
+  "Fat": "2.7"
+ },
+ {
+  "Code": "13_024",
+  "Food name": "Potash, solid",
+  "Energy": "0",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_015",
+  "Food name": "Salt",
+  "Energy": "0",
+  "Protein": "0",
+  "Carbs": "0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_002",
+  "Food name": "Sugar, white",
+  "Energy": "400",
+  "Protein": "0",
+  "Carbs": "100.0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_027",
+  "Food name": "Sugar, white, fortified with vitamin A (Nigeria)",
+  "Energy": "400",
+  "Protein": "0",
+  "Carbs": "100.0",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_021",
+  "Food name": "Sweets, chocolate, milk",
+  "Energy": "532",
+  "Protein": "4.4",
+  "Carbs": "55.1",
+  "Fat": "31.1"
+ },
+ {
+  "Code": "13_028",
+  "Food name": "Ovaltine powder, fortified",
+  "Energy": "375",
+  "Protein": "7.3",
+  "Carbs": "80.1",
+  "Fat": "1.9"
+ },
+ {
+  "Code": "13_026",
+  "Food name": "Uda (Ethiopian pepper), fruit\/seed, dried",
+  "Energy": "361",
+  "Protein": "9.4",
+  "Carbs": "43.9",
+  "Fat": "10.6"
+ },
+ {
+  "Code": "13_003",
+  "Food name": "Vinegar",
+  "Energy": "19",
+  "Protein": "0.1",
+  "Carbs": "4.7",
+  "Fat": "0"
+ },
+ {
+  "Code": "13_017",
+  "Food name": "Yeast, dried",
+  "Energy": "342",
+  "Protein": "38.4",
+  "Carbs": "21.2",
+  "Fat": "6.3"
+ },
+ {
+  "Code": "13_018",
+  "Food name": "Yeast extract, Marmite",
+  "Energy": "155",
+  "Protein": "27.5",
+  "Carbs": "8.7",
+  "Fat": "0.4"
+ },
+ {
+  "Code": "14_021",
+  "Food name": "Babenda-1 (Burkina Faso)*: sauce from green leaves (amaranth, tchénébdo and hibiscus), groundnut powder, rice and onion",
+  "Energy": "69",
+  "Protein": "3.2",
+  "Carbs": "6.4",
+  "Fat": "3.0"
+ },
+ {
+  "Code": "14_030",
+  "Food name": "Babenda-2 (Burkina Faso)*: sauce from green leaves (amaranth, hibiscus and spider plant), rice and groundnut powder",
+  "Energy": "66",
+  "Protein": "3.0",
+  "Carbs": "6.7",
+  "Fat": "2.6"
+ },
+ {
+  "Code": "14_025",
+  "Food name": "Banakou vand zéédo (Burkina Faso)*: cassava leaf sauce with fish, vegetables and red palm oil",
+  "Energy": "264",
+  "Protein": "6.4",
+  "Carbs": "4.6",
+  "Fat": "23.7"
+ },
+ {
+  "Code": "14_029",
+  "Food name": "Bengedo (Burkina Faso)*: cowpea leaf sauce with fish, vegetables, groundnut paste and fermented African locust beans",
+  "Energy": "156",
+  "Protein": "7.5",
+  "Carbs": "2.9",
+  "Fat": 12.2
+ },
+ {
+  "Code": "14_014",
+  "Food name": "Bite zindo (Burkina Faso)*: hibiscus leaf sauce with fish, fermented African locust beans and tomatoes",
+  "Energy": "104",
+  "Protein": "3.5",
+  "Carbs": "3.6",
+  "Fat": "7.9"
+ },
+ {
+  "Code": "14_015",
+  "Food name": "Blouvank koèég zéédo (Burkina Faso)*: jute mallow leaf sauce with lamb, vegetables, fermented African locust beans and red palm oil",
+  "Energy": "85",
+  "Protein": "3.4",
+  "Carbs": "1.6",
+  "Fat": 7
+ },
+ {
+  "Code": "14_016",
+  "Food name": "Blouvank zéédo (Burkina Faso)*: jute mallow leaf sauce with fish, vegetables and red palm oil",
+  "Energy": "75",
+  "Protein": "3.1",
+  "Carbs": "2.5",
+  "Fat": "5.5"
+ },
+ {
+  "Code": "14_012",
+  "Food name": "Clear sauce with fish, red palm oil and vegetables (Burkina Faso)*",
+  "Energy": "81",
+  "Protein": "5.4",
+  "Carbs": "2.1",
+  "Fat": "5.4"
+ },
+ {
+  "Code": "14_027",
+  "Food name": "Curry sauce with beef meat and vegetables (Burkina Faso)*",
+  "Energy": "110",
+  "Protein": "4.2",
+  "Carbs": "3.8",
+  "Fat": "8.4"
+ },
+ {
+  "Code": "14_003",
+  "Food name": "Éindo tomate ne ziim zéindo (Burkina Faso)*: sauce with fish, tomato and fermented African locust beans",
+  "Energy": "195",
+  "Protein": "7.2",
+  "Carbs": "4.2",
+  "Fat": 16.2
+ },
+ {
+  "Code": "14_004",
+  "Food name": "Epinard zéédo (Burkina Faso)*: spinach sauce with fish and vegetables",
+  "Energy": "168",
+  "Protein": "6.7",
+  "Carbs": "3.5",
+  "Fat": "13.6"
+ },
+ {
+  "Code": "14_001",
+  "Food name": "Fish and vegetable soup for children (Burkina Faso)*",
+  "Energy": "64",
+  "Protein": "6.5",
+  "Carbs": "5.8",
+  "Fat": "1.4"
+ },
+ {
+  "Code": "14_008",
+  "Food name": "Groundnut sauce with fish and vegetables (Burkina Faso)*",
+  "Energy": "166",
+  "Protein": "6.6",
+  "Carbs": "5.3",
+  "Fat": "12.5"
+ },
+ {
+  "Code": "14_026",
+  "Food name": "Intro sauce with fish and vegetables (Burkina Faso)*",
+  "Energy": "69",
+  "Protein": "2.8",
+  "Carbs": "2.4",
+  "Fat": "4.6"
+ },
+ {
+  "Code": "14_031",
+  "Food name": "Katre nagouri vând koèng zéindo (Burkina Faso)*: dried sicklepod leaf sauce with vegetables, shea butter, groundnut paste and fermented African locust beans",
+  "Energy": "228",
+  "Protein": "4.6",
+  "Carbs": "4.9",
+  "Fat": 20.5
+ },
+ {
+  "Code": "14_032",
+  "Food name": "Katre nagouri vând maasse zéindo (Burkina Faso)*: fresh sicklepod leaf sauce with vegetables, shea butter, groundnut paste and fermented African locust beans",
+  "Energy": "153",
+  "Protein": "4.1",
+  "Carbs": "6.5",
+  "Fat": 11.6
+ },
+ {
+  "Code": "14_013",
+  "Food name": "Koum péèleg zindo (Burkina Faso)*: white eggplant sauce with lamb and vegetables",
+  "Energy": "134",
+  "Protein": "4.0",
+  "Carbs": "3.7",
+  "Fat": 11
+ },
+ {
+  "Code": "14_011",
+  "Food name": "Koum vând zéédo (Burkina Faso)*: wild eggplant leaf sauce with fish and vegetables",
+  "Energy": "206",
+  "Protein": "4.0",
+  "Carbs": "4.8",
+  "Fat": "18.5"
+ },
+ {
+  "Code": "14_007",
+  "Food name": "Koum zindo (Burkina Faso)*: eggplant sauce with fish and vegetables",
+  "Energy": "161",
+  "Protein": "4.1",
+  "Carbs": "4.8",
+  "Fat": "13.3"
+ },
+ {
+  "Code": "14_018",
+  "Food name": "Maân koèg zéindo-1 (Burkina Faso)*: djoumblé (dried okra) sauce with beef, vegetables and red palm oil",
+  "Energy": "144",
+  "Protein": "6.0",
+  "Carbs": "2.4",
+  "Fat": "11.7"
+ },
+ {
+  "Code": "14_017",
+  "Food name": "Maân koèg zéindo-2 (Burkina Faso)*: dried okra sauce with lamb, vegetables and fermented African locust beans",
+  "Energy": "145",
+  "Protein": "4.7",
+  "Carbs": "2.2",
+  "Fat": 12.4
+ },
+ {
+  "Code": "14_019",
+  "Food name": "Maân mâass zéindo (Burkina Faso)*: fresh okra sauce with fish, vegetables, red palm oil and fermented African locust beans",
+  "Energy": "74",
+  "Protein": "3.4",
+  "Carbs": "2.6",
+  "Fat": "5.2"
+ },
+ {
+  "Code": "14_009",
+  "Food name": "Nayoungn vand zindo (Burkina Faso)*: sweet potato leaf sauce, fish, red palm oil and vegetables",
+  "Energy": "156",
+  "Protein": "5.0",
+  "Carbs": "4.3",
+  "Fat": "12.6"
+ },
+ {
+  "Code": "14_002",
+  "Food name": "Pésgo né tomate zéindo (Burkina Faso)*: sauce with lamb, tomato and vegetables",
+  "Energy": "188",
+  "Protein": "5.9",
+  "Carbs": "4.4",
+  "Fat": 15.9
+ },
+ {
+  "Code": "14_006",
+  "Food name": "Siikam zéédo (Burkina Faso)*: groundnut sauce with vegetables, fish and fermented African locust beans",
+  "Energy": "135",
+  "Protein": "5.7",
+  "Carbs": "3.3",
+  "Fat": 10.4
+ },
+ {
+  "Code": "14_028",
+  "Food name": "Siné zindo (Burkina Faso)*: sesame sauce with fish and vegetables",
+  "Energy": "203",
+  "Protein": "6.3",
+  "Carbs": "3.1",
+  "Fat": "17.7"
+ },
+ {
+  "Code": "14_033",
+  "Food name": "Soup from chicken, beer yeast, vegetables and fermented African locust beans (Burkina Faso)*",
+  "Energy": "81",
+  "Protein": "5.4",
+  "Carbs": "2.1",
+  "Fat": "5.4"
+ },
+ {
+  "Code": "14_034",
+  "Food name": "Soup with cabbage and vegetables (Burkina Faso)*",
+  "Energy": "21",
+  "Protein": "1.1",
+  "Carbs": "3.2",
+  "Fat": 0.1
+ },
+ {
+  "Code": "14_005",
+  "Food name": "Téi kam zéédo (Burkina Faso)*: red palm oil sauce with fish and vegetables",
+  "Energy": "127",
+  "Protein": "5.7",
+  "Carbs": "3.8",
+  "Fat": 9.5
+ },
+ {
+  "Code": "14_024",
+  "Food name": "Téi né maane zéindo (Burkina Faso)*: oil palm fruit sauce with okra powder, fish and vegetables",
+  "Energy": "96",
+  "Protein": "2.7",
+  "Carbs": 2.8,
+  "Fat": 8
+ },
+ {
+  "Code": "14_023",
+  "Food name": "Téi zéindo (Burkina Faso)*: simple oil palm fruit sauce with fish and vegetables",
+  "Energy": "199",
+  "Protein": "1.7",
+  "Carbs": 5.1,
+  "Fat": 18.8
+ },
+ {
+  "Code": "14_020",
+  "Food name": "Toeg koing zéédo (Burkina Faso)*: dried baobab leaf sauce with fish, vegetables and fermented African locust beans",
+  "Energy": "44",
+  "Protein": "2.8",
+  "Carbs": "1.7",
+  "Fat": "2.5"
+ },
+ {
+  "Code": "14_022",
+  "Food name": "Toeg maas zéédo (Burkina Faso)*: fresh baobab leaf sauce with fish, vegetables and fermented African locust beans",
+  "Energy": "60",
+  "Protein": "3.1",
+  "Carbs": "1.9",
+  "Fat": "4.1"
+ },
+ {
+  "Code": "14_010",
+  "Food name": "Yassa sauce with lamb, onion and mustard (Burkina Faso)*",
+  "Energy": "226",
+  "Protein": "4.3",
+  "Carbs": "5.1",
+  "Fat": 20.5
+ }
+]

@@ -8,6 +8,7 @@ from eckity.statistics.best_average_worst_statistics import BestAverageWorstStat
 from eckity.subpopulation import Subpopulation
 
 from find_meal_evaluator import FindMealEvaluator, NUM_ITEMS
+from foodlistJson import get_food_data_json
 
 
 def main():
@@ -23,12 +24,13 @@ def main():
     ----------
     DEAP Knapsack Example: https://deap.readthedocs.io/en/master/examples/ga_knapsack.html
     """
+    jsonfilon = get_food_data_json()
     # Initialize the evolutionary algorithm
     algo = SimpleEvolution(
         Subpopulation(creators=GABitStringVectorCreator(length=NUM_ITEMS),
                       population_size=50,
                       # user-defined fitness evaluation method
-                      evaluator = FindMealEvaluator,
+                      evaluator = FindMealEvaluator(items=jsonfilon),
                       # maximization problem (fitness is sum of percentage of fat, carbs and protein),
                       # so higher fitness is better
                       higher_is_better=True,
