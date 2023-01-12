@@ -7,9 +7,8 @@ from eckity.genetic_operators.selections.tournament_selection import TournamentS
 from eckity.statistics.best_average_worst_statistics import BestAverageWorstStatistics
 from eckity.subpopulation import Subpopulation
 
-from find_meal_evaluator import FindMealEvaluator, NUM_ITEMS
-from foodlistJson import get_food_data_json
-
+from find_meal_evaluator import FindMealEvaluator
+import json
 
 def main():
     """
@@ -24,13 +23,17 @@ def main():
     ----------
     DEAP Knapsack Example: https://deap.readthedocs.io/en/master/examples/ga_knapsack.html
     """
-    jsonfilon = get_food_data_json()
+
+    with  open("excelReader.json", "r") as json_file:
+        items_dict = json.load(json_file)
+        num_items = len(items_dict)
+        print("num of items: {}\n".format(num_items))
     # Initialize the evolutionary algorithm
     algo = SimpleEvolution(
-        Subpopulation(creators=GABitStringVectorCreator(length=NUM_ITEMS),
-                      population_size=50,
+        Subpopulation(creators=GABitStringVectorCreator(length=1028),
+                      population_size=150,
                       # user-defined fitness evaluation method
-                      evaluator = FindMealEvaluator(items=jsonfilon),
+                      evaluator = FindMealEvaluator(items=items_dict),
                       # maximization problem (fitness is sum of percentage of fat, carbs and protein),
                       # so higher fitness is better
                       higher_is_better=True,
@@ -56,7 +59,18 @@ def main():
     # evolve the generated initial population
     algo.evolve()
     # Execute (show) the best solution
-    print(algo.execute())
+    result_list = algo.execute()
+    def is_one (item):
+        return item == 1
+    chosen_items = filter(is_one, result_list)
+    print("THe best meal for you contains the following {} items:\n".format(len(list(chosen_items))))
+    j = 0
+    for i in range(len(result_list)):
+        if result_list[i] == 1:
+            item_name = (items_dict[i])["Food name"]
+            item_code = (items_dict[i])["Code"]
+            print("item number {} (Code: {}): {}\n".format(j, item_code, item_name))
+            j += 1
 
 
 if __name__ == '__main__':

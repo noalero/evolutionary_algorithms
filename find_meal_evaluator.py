@@ -3,8 +3,8 @@ import numpy as np
 import json
 
 from eckity.evaluators.simple_individual_evaluator import SimpleIndividualEvaluator
+from pandas.io.formats import string
 
-NUM_ITEMS = 500
 
 
 class FindMealEvaluator(SimpleIndividualEvaluator):
@@ -18,38 +18,42 @@ class FindMealEvaluator(SimpleIndividualEvaluator):
         dictionary of (item id: (fat, carbs, protein, calories)) of the items
     """
 
-    def __init__(self, items=None, max_calories = 300):
+    def __init__(self, items=None, max_calories = 1500):
         super().__init__()
+        # TODO: get from user? wanted percentage of fat, carbs and protein of the meal.
+        self.fat = float(input("What is the percentage of fat you would like to calculate?"))
+        self.carbs = float(input("What is the percentage of carbs you would like to calculate?"))
+        self.protein = (100 - (100 * self.fat) - (100 * self.carbs)) / 100
 
         if items is None:
             # Generate random items for the problem
-            # TODO: get items from data base or something
-            items = {i: (random.randint(1, 300),
-                         random.randint(1, 300),
-                         random.randint(1, 300),
-                         random.randint(1, 150)) for i in range(NUM_ITEMS)}
+            items = {{"Code": i,
+                      "Food name": ''.json(random.choices(string.ascii_letters + string.digits, k = 10)),
+                     "Energy": random.uniform(0, 500),
+                     "Protein": random.uniform(0, 500),
+                     "Carbs": random.uniform(0, 500),
+                     "Fat": random.uniform(0, 500)} for i in range(200)}
 
-            """
-             - Open the JSON file -
-            with open("data.json", "r") as f:
-                # Use the json.load() function to read the contents of the file and create a dictionary object
-                items = json.load(f)
-             - Now you can access the data in the dictionary as you would any other dictionary in Python -
-            """
-
-            # TODO: get from user? wanted percentage of fat, carbs and protein of the meal.
-            fat = random.randint(1, 100) / 100
-            carbs = random.randint(1, 100 - (100 * fat)) / 100
-            protein = (100 - (100 * fat) - (100 * carbs)) / 100
         elif type(items) == list:
 
+            j = 0
             for item in items:
-                if type(item) is not tuple or type(item[0]) is not int \
-                        or type(item[1]) is not int or type(item[2]) is not int or type(item[3]) is not int:
-                    raise ValueError('Elements in items list must be tuples of (fat, carbs, protein, calories: int)')
+                # if type(item["Food name"] is not str) \
+                #         or (not (item["Energy"]).replace('.', '', 1).isdigit()) \
+                #         or (not (item["Protein"]).replace('.', '', 1).isdigit()) \
+                #         or (not (item["Carbs"]).replace('.', '', 1).isdigit()) \
+                #         or (not (item["Fat"]).replace('.', '', 1).isdigit()) :
+                #     raise ValueError('Elements in items list must be dictionary of (name: staring, calories, protein, carbs, fat, : int or floate)')
+                # 'in item: Code: {}, Food name: {}, Energy: {}, Protein: {},  Carbs: {}, Fat: {}'.format(
+                #                         item["Code"], item["Food name"], item["Energy"], item["Protein"], item["Carbs"], item["Fat"])
 
-            # Convert items list to dictionary by adding item id
-            items = {i: items[i] for i in range(len(items))}
+                # Convert str to float:
+                item["Energy"] = float(item["Energy"])
+                item["Protein"] = float(item["Protein"])
+                item["Carbs"] = float(item["Carbs"])
+                item["Fat"] = float(item["Fat"])
+                j += 1
+
         self.items = items
         self.max_calories = max_calories
 
@@ -67,9 +71,9 @@ class FindMealEvaluator(SimpleIndividualEvaluator):
         """
         weight, calories = 0, 0
         for i in range(individual.size()):
-            if individual.cell_calories(i):
-                weight += ((self.items[i][0] * self.fat) + (self.items[i][1] * self.carbs) + (self.items[i][2] * self.protein))
-                calories += self.items[i][3]
+            if individual.cell_value(i):
+                weight += ((self.items[i]["Fat"] * self.fat) + (self.items[i]["Carbs"] * self.carbs) + (self.items[i]["Protein"] * self.protein))
+                calories += self.items[i]["Energy"]
 
         # worse possible fitness is returned if the calories of the meal exceeds the maximum calories for a perfect meal
         if calories > self.max_calories:
