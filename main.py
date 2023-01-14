@@ -1,3 +1,5 @@
+from random import randint
+
 from eckity.algorithms.simple_evolution import SimpleEvolution
 from eckity.breeders.simple_breeder import SimpleBreeder
 from eckity.creators.ga_creators.bit_string_vector_creator import GABitStringVectorCreator
@@ -29,10 +31,10 @@ def main():
         num_items = len(items_dict)
     # Initialize the evolutionary algorithm
     algo = SimpleEvolution(
-        Subpopulation(creators=GABitStringVectorCreator(length=1028),
-                      population_size=150,
+        Subpopulation(creators=GABitStringVectorCreator(length=1028, gene_creator=GenCreator),
+                      population_size=70,
                       # user-defined fitness evaluation method
-                      evaluator = FindMealEvaluator(items=items_dict),
+                      evaluator=FindMealEvaluator(items=items_dict),
                       # maximization problem (fitness is sum of percentage of fat, carbs and protein),
                       # so higher fitness is better
                       higher_is_better=True,
@@ -51,7 +53,7 @@ def main():
         # TODO: test
         breeder=SimpleBreeder(),
         max_workers=1,
-        max_generation=10,
+        max_generation=500,
         statistics=BestAverageWorstStatistics()
     )
 
@@ -76,6 +78,13 @@ def main():
             print("item number {} ({}) (Code: {}): {}\n".format(i, j, item_code, item_name))
             i += 1
         j += 1
+
+
+def GenCreator(x, y):
+    generator_int = randint(1, 1600)
+    if generator_int % 1600 != 0:
+        return 0
+    return 1
 
 
 if __name__ == '__main__':

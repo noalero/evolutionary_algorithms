@@ -71,6 +71,7 @@ class FindMealEvaluator(SimpleIndividualEvaluator):
         """
         weight, calories = 0, 0
         for i in range(individual.size()):
+            # individual.set_cell_value(i, individual.cell_value(i)*random.randint(0, 1))
             if individual.cell_value(i):
                 weight += ((self.items[i]["Fat"] * self.fat) + (self.items[i]["Carbs"] * self.carbs) + (self.items[i]["Protein"] * self.protein))
                 calories += self.items[i]["Energy"]
