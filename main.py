@@ -27,7 +27,6 @@ def main():
     with  open("excelReader.json", "r") as json_file:
         items_dict = json.load(json_file)
         num_items = len(items_dict)
-        print("num of items: {}\n".format(num_items))
     # Initialize the evolutionary algorithm
     algo = SimpleEvolution(
         Subpopulation(creators=GABitStringVectorCreator(length=1028),
@@ -52,25 +51,31 @@ def main():
         # TODO: test
         breeder=SimpleBreeder(),
         max_workers=1,
-        max_generation=500,
+        max_generation=10,
         statistics=BestAverageWorstStatistics()
     )
 
     # evolve the generated initial population
     algo.evolve()
+
     # Execute (show) the best solution
     result_list = algo.execute()
-    def is_one (item):
+    print(result_list)
+
+    def is_one(item: int):
         return item == 1
-    chosen_items = filter(is_one, result_list)
-    print("THe best meal for you contains the following {} items:\n".format(len(list(chosen_items))))
+
+    # chosen_items = filter(is_one, ())
+    print("THe best meal for you contains the following items:\n")
     j = 0
-    for i in range(len(result_list)):
-        if result_list[i] == 1:
-            item_name = (items_dict[i])["Food name"]
-            item_code = (items_dict[i])["Code"]
-            print("item number {} (Code: {}): {}\n".format(j, item_code, item_name))
-            j += 1
+    i = 0
+    for item in result_list:
+        if type(item) is int and is_one(item):
+            item_name = (items_dict[j])["Food name"]
+            item_code = (items_dict[j])["Code"]
+            print("item number {} ({}) (Code: {}): {}\n".format(i, j, item_code, item_name))
+            i += 1
+        j += 1
 
 
 if __name__ == '__main__':
