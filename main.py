@@ -1,5 +1,6 @@
+from eckity.genetic_operators.selections.tournament_selection import TournamentSelection
+from flask import Flask, jsonify, request
 from random import randint
-
 from eckity.algorithms.simple_evolution import SimpleEvolution
 from eckity.breeders.simple_breeder import SimpleBreeder
 from eckity.creators.ga_creators.bit_string_vector_creator import GABitStringVectorCreator
@@ -11,21 +12,24 @@ from eckity.subpopulation import Subpopulation
 
 from find_meal_evaluator import FindMealEvaluator
 import json
+from flask_cors import CORS
 
-def main():
-    """
-    In the perfect meal problem, there is a pool of food items,
-    each having its own weight of fat, carbs and protein and number of calories.
-    The goal is to collect the items with the most weight of each category,
-    with respect to the percentage of it's importance,
-     while not exceeding the maximum calories defined.
-    We solve this problem using GA bit vectors, in which the i-th cell is 1 if the i-th item is in the bag, else 0.
+app = Flask(__name__)
+CORS(app)
 
-    References
-    ----------
-    DEAP Knapsack Example: https://deap.readthedocs.io/en/master/examples/ga_knapsack.html
-    """
 
+@app.route('/', methods=['GET'])
+
+def home():
+    return jsonify({'message': 'Welcome to the meal optimization API'})
+
+@app.route('/optimize', methods=['POST'])
+
+def optimize():
+    fat = request.form['fat']
+    carbs = request.form['carbs']
+    max_calories = request.form['max_calories']
+    max_generation = request.form['max_generation']
     with  open("excelReader.json", "r") as json_file:
         items_dict = json.load(json_file)
         num_items = len(items_dict)
@@ -34,7 +38,8 @@ def main():
         Subpopulation(creators=GABitStringVectorCreator(length=1028, gene_creator=GenCreator),
                       population_size=70,
                       # user-defined fitness evaluation method
-                      evaluator=FindMealEvaluator(items=items_dict),
+                      evaluator=FindMealEvaluator(items=items_dict, fat=float(fat), carbs=float(carbs),
+                                                  max_calories=float(max_calories)),
                       # maximization problem (fitness is sum of percentage of fat, carbs and protein),
                       # so higher fitness is better
                       higher_is_better=True,
@@ -53,7 +58,7 @@ def main():
         # TODO: test
         breeder=SimpleBreeder(),
         max_workers=1,
-        max_generation=500,
+        max_generation=int(max_generation),
         statistics=BestAverageWorstStatistics()
     )
 
@@ -62,6 +67,8 @@ def main():
 
     # Execute (show) the best solution
     result_list = algo.execute()
+    best_meal = []
+
     print(result_list)
 
     def is_one(item: int):
@@ -75,9 +82,21 @@ def main():
         if type(item) is int and is_one(item):
             item_name = (items_dict[j])["Food name"]
             item_code = (items_dict[j])["Code"]
-            print("item number {} ({}) (Code: {}): {}\n".format(i, j, item_code, item_name))
+            output = "item number {} ({}) (Code: {}): {}\n".format(i, j, item_code, item_name)
+            best_meal.append(
+                {
+                    "code": items_dict[j]["Code"],
+                    "name": items_dict[j]["Food name"],
+                    "fat": items_dict[j]["Fat"],
+                    "carbs": items_dict[j]["Carbs"],
+                    "protein": items_dict[j]["Protein"],
+                    "Energy": items_dict[j]["Energy"]
+                })
+            print(output)
             i += 1
         j += 1
+    # best_meal.headers.add('Access-Control-Allow-Origin', '*')
+    return best_meal
 
 
 def GenCreator(x, y):
@@ -88,4 +107,4 @@ def GenCreator(x, y):
 
 
 if __name__ == '__main__':
-    main()
+    app.run(debug=True)

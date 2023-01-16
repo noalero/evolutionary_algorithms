@@ -18,11 +18,11 @@ class FindMealEvaluator(SimpleIndividualEvaluator):
         dictionary of (item id: (fat, carbs, protein, calories)) of the items
     """
 
-    def __init__(self, items=None, max_calories = 1500):
+    def __init__(self, items=None, max_calories = 600,fat=0.2,carbs=0.2):
         super().__init__()
         # TODO: get from user? wanted percentage of fat, carbs and protein of the meal.
-        self.fat = float(input("What is the percentage of fat you would like to calculate?"))
-        self.carbs = float(input("What is the percentage of carbs you would like to calculate?"))
+        self.fat = fat
+        self.carbs = carbs
         self.protein = (100 - (100 * self.fat) - (100 * self.carbs)) / 100
 
         if items is None:
